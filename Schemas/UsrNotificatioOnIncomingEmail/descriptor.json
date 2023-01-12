@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "88f8e54b-5aa0-49e9-a611-ea9008493b5a",
+    "Name": "UsrNotificatioOnIncomingEmail",
+    "ModifiedOnUtc": "\/Date(1530516820000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Уведомление по входящим Email",
+    "DependsOn": []
+  }
+}

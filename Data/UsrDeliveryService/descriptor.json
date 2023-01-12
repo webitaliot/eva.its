@@ -1,0 +1,56 @@
+﻿{
+  "Descriptor": {
+    "UId": "08ba41b5-1807-4e81-934a-0d75ae709b9d",
+    "Name": "UsrDeliveryService",
+    "ModifiedOnUtc": "\/Date(1565877663000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "4cd594b1-2af1-431d-94fc-1c362efa6ab6",
+      "Name": "UsrDeliveryService"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "e034476f-5fa2-4527-8dc7-d0737be5ddac",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrDeliveryType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "782b2321-91e0-461e-a571-78c186052397",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrIMCode",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "3068b657-e3b3-4bb4-af52-5afeed4dbd80",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrERPCode",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      }
+    ]
+  }
+}

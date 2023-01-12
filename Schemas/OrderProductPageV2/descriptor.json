@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "7ad8c0bf-58b8-47df-800d-aa12497774b8",
+    "Name": "OrderProductPageV2",
+    "ModifiedOnUtc": "\/Date(1504523606000)\/",
+    "Parent": {
+      "UId": "d5657b35-7aba-4326-8bb2-4dcf1cf24145",
+      "Name": "OrderProductPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка редактирования продукта в заказе",
+    "DependsOn": []
+  }
+}

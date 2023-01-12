@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2c9c9294-510a-440a-a5b5-a12b7f73a37f",
+    "Name": "UsrViberSmsContract",
+    "ModifiedOnUtc": "\/Date(1497346999000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "UsrViberSmsContract",
+    "DependsOn": []
+  }
+}

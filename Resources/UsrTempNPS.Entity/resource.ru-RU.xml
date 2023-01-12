@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Временная таблица по NPS" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Описание" />
+			<Item Name="Columns.UsrNumber.Caption" Value="Номер" />
+			<Item Name="Columns.UsrProcessed.Caption" Value="Обработан" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

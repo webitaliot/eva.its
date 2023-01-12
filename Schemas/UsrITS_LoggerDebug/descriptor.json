@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ef30b251-83ea-4a6c-b7d8-95ddd54de056",
+    "Name": "UsrITS_LoggerDebug",
+    "ModifiedOnUtc": "\/Date(1591795683000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "ITS_Logger",
+    "DependsOn": []
+  }
+}

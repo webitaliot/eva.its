@@ -1,0 +1,544 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "79f03219-d78b-413f-8f52-01bc72b78497",
+          "DisplayValue": "Аккаунт для отправки/получение писем service desk"
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3a42de01-4b83-44ad-a921-031a141ae60a"
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "1ce0f2f9-3a17-415b-b0e5-8bafed119537"
+        },
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "006a7af3-ad93-44b1-b9e6-121196d795b1",
+          "DisplayValue": "Password для получение токену eva.promo.ua"
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6e378fa5-b1d3-4b39-b309-f3f417942c61"
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "password123"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "6fdfc2be-5771-4ad0-92b5-143406389af3",
+          "DisplayValue": "E-mail поддержки EVA"
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "53130586-c993-43a8-834a-b223a733dee6"
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "info@eva.ua"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "34867140-00a6-404d-8453-1ad2916815f5",
+          "DisplayValue": "Кому отправить email сообщение service desk"
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a7d602bb-ee2b-4f37-b077-fe9aeaa22014"
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "servicedesk@eva.dp.ua"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "36463f20-d309-4876-9cd0-5a20d360dfcc",
+          "DisplayValue": "Username для получение токену eva.promo.ua"
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "efc63ceb-e716-48ca-94bf-fc2d88564026"
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "api"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "dde26708-1584-416b-a37f-6761ee0faa8b",
+          "DisplayValue": "От кого отправить email сообщение service desk"
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "69823faa-f865-4742-8437-e87748f4010a"
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "1ce0f2f9-3a17-415b-b0e5-8bafed119537"
+        },
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "6bd03808-8c24-4faf-ae22-685de1b4c3ca",
+          "DisplayValue": "Почтовый провайдер Eva "
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "89ac8c03-137d-45ab-9635-f0e85ac43c9a"
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "0e8151aa-89bd-4f00-8b29-42a52bcb2d42"
+        },
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "ea627a72-a04d-4c1d-aabd-b4ec0822de2c",
+          "DisplayValue": "Url для получение токену для eva promo"
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e31a11f3-9bc5-4907-ada4-81dc7fd5ce29"
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "http://eva.promo.ua/index.php/rest/V1/integration/admin/token"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "e2e3487e-32d1-4a75-bbfa-c5de210b48b4",
+          "DisplayValue": "Тема из СД для создание обращение"
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ef3f128f-3bd5-498e-b5ce-90e3d7b340e4"
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "Новое обращение"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "1b459406-b859-4f35-b976-ef53d7c5bb9d",
+          "DisplayValue": "Url get сервиса отправки order id ИМ"
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "831c2464-b2db-42f8-8406-2261a576e00a"
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "http://eva.promo.ua/index.php/rest/V1/orders/{0}"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        }
+      ]
+    }
+  ]
+}

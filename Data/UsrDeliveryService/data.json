@@ -1,0 +1,109 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f095422f-d9a4-4797-8eb6-58507f3f1bea"
+        },
+        {
+          "SchemaColumnUId": "e034476f-5fa2-4527-8dc7-d0737be5ddac",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3068b657-e3b3-4bb4-af52-5afeed4dbd80",
+          "Value": "2"
+        },
+        {
+          "SchemaColumnUId": "782b2321-91e0-461e-a571-78c186052397",
+          "Value": "mistexpress_ss"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c4dfb947-fc3a-4483-8643-5ac03dab4cd7"
+        },
+        {
+          "SchemaColumnUId": "e034476f-5fa2-4527-8dc7-d0737be5ddac",
+          "Value": "8c1423ac-7ed3-46f0-8e99-401ccd25937f",
+          "DisplayValue": "Самовывоз Ева Новая почта"
+        },
+        {
+          "SchemaColumnUId": "3068b657-e3b3-4bb4-af52-5afeed4dbd80",
+          "Value": "4"
+        },
+        {
+          "SchemaColumnUId": "782b2321-91e0-461e-a571-78c186052397",
+          "Value": "pickup_eva_np"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c0745ccc-8f31-4d36-b98c-6712ec57ba3a"
+        },
+        {
+          "SchemaColumnUId": "e034476f-5fa2-4527-8dc7-d0737be5ddac",
+          "Value": "ab31305f-7c6d-4158-bd0a-760ac7897755",
+          "DisplayValue": "Самовывоз"
+        },
+        {
+          "SchemaColumnUId": "3068b657-e3b3-4bb4-af52-5afeed4dbd80",
+          "Value": "1"
+        },
+        {
+          "SchemaColumnUId": "782b2321-91e0-461e-a571-78c186052397",
+          "Value": "novaposhta_warehouse"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "acb3e593-9010-4c25-8021-8ec7fd8ad5d7"
+        },
+        {
+          "SchemaColumnUId": "e034476f-5fa2-4527-8dc7-d0737be5ddac",
+          "Value": "50df77d0-7b1f-4dbc-a02d-7b6ebb95dfd0",
+          "DisplayValue": "Курьером"
+        },
+        {
+          "SchemaColumnUId": "3068b657-e3b3-4bb4-af52-5afeed4dbd80",
+          "Value": "2"
+        },
+        {
+          "SchemaColumnUId": "782b2321-91e0-461e-a571-78c186052397",
+          "Value": "novaposhta_doors"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6fdd1297-ff49-4b98-b83a-9c1db82ec8bb"
+        },
+        {
+          "SchemaColumnUId": "e034476f-5fa2-4527-8dc7-d0737be5ddac",
+          "Value": "43b4f6b9-1122-4460-a5fb-15b60a81e3ad",
+          "DisplayValue": "Самовывоз Ева"
+        },
+        {
+          "SchemaColumnUId": "3068b657-e3b3-4bb4-af52-5afeed4dbd80",
+          "Value": "3"
+        },
+        {
+          "SchemaColumnUId": "782b2321-91e0-461e-a571-78c186052397",
+          "Value": "pickup_eva"
+        }
+      ]
+    }
+  ]
+}

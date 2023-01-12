@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "03a72651-ce4a-4e16-866b-607dce1ea52a",
+    "Name": "UsrCustomersOrdersNotificationProcess",
+    "ModifiedOnUtc": "\/Date(1518787082000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Уведомление клиентов по заказам EVA",
+    "DependsOn": []
+  }
+}

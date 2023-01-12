@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "734b52da-bb30-4f3d-8c2d-e387f019ad47",
+    "Name": "tsp_UpdateContactCommunication",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1491292474000)\/",
+    "DependsOn": []
+  }
+}

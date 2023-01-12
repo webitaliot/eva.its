@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Суббота" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="Воскресенье" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Set new Case ID" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="Set changed Case ID " />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Caption" Value="Обработка таймера Суббота" />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Parameters.StartOffset.Caption" Value="Стартовать через (сек.)" />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Parameters.StartOffset.DisplayValue" Value="[#ToSaturday#]" />
+			<Item Name="BaseElements.IntermediateCatchTimer2.Caption" Value="Обработка таймера Воскресенье" />
+			<Item Name="BaseElements.IntermediateCatchTimer2.Parameters.StartOffset.Caption" Value="Стартовать через (сек.)" />
+			<Item Name="BaseElements.IntermediateCatchTimer2.Parameters.StartOffset.DisplayValue" Value="[#ToSunday#]" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать Обращение" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="Читать Контакт" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Проверка дня" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Сигнал Новое обращение" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Уникальный идентификатор записи" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Сигнал Изменено" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Уникальный идентификатор записи" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Отправка SMS" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Case.DisplayValue" Value="[#CaseId#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Contact.DisplayValue" Value="[#Читать Обращение.Первый элемент результирующей коллекции.Контакт#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Phone.DisplayValue" Value="[#Читать Контакт.Первый элемент результирующей коллекции.Мобильный телефон#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Text.DisplayValue" Value="&quot;Shanovnyj klijent, djakujemo za vashe zvernennja №&quot;+[#Читать Обращение.Первый элемент результирующей коллекции.Номер#]+&quot;, fahivci EVA zv'jazhut'sja z vamy protjagom 48 godyn.&quot;" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ViberText.DisplayValue" Value="&quot;Шановний клієнт, дякуємо за ваше звернення №&quot; + [#Читать Обращение.Первый элемент результирующей коллекции.Номер#] + &quot;, фахівці EVA зв'яжуться з вами протягом 48 годин. https://eva.ua/, або 0 800 303 700.&quot;" />
+			<Item Name="BaseElements.SubProcess2.Caption" Value="Отправка SMS Суббота" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Case.DisplayValue" Value="[#CaseId#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Contact.DisplayValue" Value="[#Читать Обращение.Первый элемент результирующей коллекции.Контакт#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Phone.DisplayValue" Value="[#Читать Контакт.Первый элемент результирующей коллекции.Мобильный телефон#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Text.DisplayValue" Value="&quot;Shanovnyj klijent, djakujemo za vashe zvernennja №&quot;+[#Читать Обращение.Первый элемент результирующей коллекции.Номер#]+&quot;, fahivci EVA zv'jazhut'sja z vamy protjagom 48 godyn.&quot;" />
+			<Item Name="BaseElements.SubProcess2.Parameters.ViberText.DisplayValue" Value="&quot;Шановний клієнт, дякуємо за ваше звернення №&quot; + [#Читать Обращение.Первый элемент результирующей коллекции.Номер#] + &quot;, фахівці EVA зв'яжуться з вами протягом 48 годин. https://eva.ua/, або 0 800 303 700.&quot;" />
+			<Item Name="BaseElements.SubProcess3.Caption" Value="Отправка SMS Воскресенье" />
+			<Item Name="BaseElements.SubProcess3.Parameters.Case.DisplayValue" Value="[#CaseId#]" />
+			<Item Name="BaseElements.SubProcess3.Parameters.Contact.DisplayValue" Value="[#Читать Обращение.Первый элемент результирующей коллекции.Контакт#]" />
+			<Item Name="BaseElements.SubProcess3.Parameters.Phone.DisplayValue" Value="[#Читать Контакт.Первый элемент результирующей коллекции.Мобильный телефон#]" />
+			<Item Name="BaseElements.SubProcess3.Parameters.Text.DisplayValue" Value="&quot;Shanovnyj klijent, djakujemo za vashe zvernennja №&quot;+[#Читать Обращение.Первый элемент результирующей коллекции.Номер#]+&quot;, fahivci EVA zv'jazhut'sja z vamy protjagom 48 godyn.&quot;" />
+			<Item Name="BaseElements.SubProcess3.Parameters.ViberText.DisplayValue" Value="&quot;Шановний клієнт, дякуємо за ваше звернення №&quot; + [#Читать Обращение.Первый элемент результирующей коллекции.Номер#] + &quot;, фахівці EVA зв'яжуться з вами протягом 48 годин. https://eva.ua/, або 0 800 303 700.&quot;" />
+			<Item Name="Caption" Value="С отправкой SMS" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="CaseId" />
+			<Item Name="Parameters.Day.Caption" Value="Day" />
+			<Item Name="Parameters.ToSaturday.Caption" Value="ToSaturday" />
+			<Item Name="Parameters.ToSunday.Caption" Value="ToSunday" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b6289418-ed73-4e1b-9f57-0b4c4c0c5b05",
+    "Name": "UsrUserInRole",
+    "ModifiedOnUtc": "\/Date(1596710705000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "User In Role helper",
+    "DependsOn": []
+  }
+}

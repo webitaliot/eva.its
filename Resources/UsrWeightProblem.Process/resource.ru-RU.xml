@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Добавить активность" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Caption" Value="Привязать процесс к заказу" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.DisplayValue" Value="[#Читать заказ.Первый элемент результирующей коллекции.Id#]" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.DisplayValue" Value="Заказ" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask2.Caption" Value="Привязать процесс к контакту" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask2.Parameters.EntityId.DisplayValue" Value="[#Читать заказ.Первый элемент результирующей коллекции.Контакт#]" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask2.Parameters.EntitySchemaId.DisplayValue" Value="Контакт" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать заказ" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Изминение состояния заказа на &quot;Проблема с отделением (вес)&quot;" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Id записи" />
+			<Item Name="Caption" Value="Проблема с отделением (вес)" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+		</Items>
+	</Group>
+</Resources>

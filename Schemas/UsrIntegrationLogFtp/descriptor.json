@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a8b22e0f-5a14-432c-8ab8-3de973d74c65",
+    "Name": "UsrIntegrationLogFtp",
+    "ModifiedOnUtc": "\/Date(1493212061000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Журнал интеграций FTP",
+    "DependsOn": []
+  }
+}

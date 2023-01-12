@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "ee12dfa5-89e1-4999-9746-39c47093843c",
+    "Name": "CtiPanel",
+    "ModifiedOnUtc": "\/Date(1643737185000)\/",
+    "Parent": {
+      "UId": "301b2d1f-5901-4fa5-b7b5-40b18b6cfdaa",
+      "Name": "CtiPanel"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "CTI панель",
+    "DependsOn": []
+  }
+}

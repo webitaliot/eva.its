@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d6554661-8b66-4291-adaa-e07579268f6d",
+    "Name": "UsrCaseService",
+    "ModifiedOnUtc": "\/Date(1602524826000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "UsrCaseService",
+    "DependsOn": []
+  }
+}

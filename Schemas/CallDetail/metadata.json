@@ -1,0 +1,33 @@
+= MetaData.Schema.UId "bfd44e01-9f4e-43ce-b048-f5005fc86a79"
+= MetaData.Schema.A5 "c2a76311-d47b-49ca-80b1-cd591a6f14c3"
+= MetaData.Schema.B6 "2f7e2b8b-9dd4-4c24-9149-055455ac8f40"
+= MetaData.Schema.B7 true
+= MetaData.Schema.B8 "7.12.1.924"
+= MetaData.Schema.HD1 "e29bfa40-6b97-4a75-8d08-3a33efb87aaa"
++ MetaData.Schema.HD5 {
+  "UId": "2a6b36ed-da4f-4510-b571-1ad933b346c1",
+  "A2": "ProcessModuleV2",
+  "A3": "bfd44e01-9f4e-43ce-b048-f5005fc86a79",
+  "A4": "bfd44e01-9f4e-43ce-b048-f5005fc86a79",
+  "HW1": "689528d2-970b-4355-b0fa-82d6d4791e97",
+  "HW2": "ClientUnitSchemaManager"
+}
++ MetaData.Schema.HD5 {
+  "UId": "87629597-c1ad-4c8b-b5c9-cd8f12e3d693",
+  "A2": "ProcessEntryPointUtilities",
+  "A3": "bfd44e01-9f4e-43ce-b048-f5005fc86a79",
+  "A4": "bfd44e01-9f4e-43ce-b048-f5005fc86a79",
+  "HW1": "ffe81db3-45ef-477c-ba14-e5d1bbcaf1f7",
+  "HW2": "ClientUnitSchemaManager"
+}
++ MetaData.Schema.HD5 {
+  "UId": "231dd27e-ee26-4f16-a8d5-0b6e7ee4a1a7",
+  "A2": "RightUtilities",
+  "A3": "bfd44e01-9f4e-43ce-b048-f5005fc86a79",
+  "A4": "bfd44e01-9f4e-43ce-b048-f5005fc86a79",
+  "HW1": "74f38064-747f-4d37-aa34-197be0f7926e",
+  "HW2": "ClientUnitSchemaManager"
+}
+~ MetaData.Schema.HD5 ["b50e4a6c-be70-4cf3-abe6-90a00a9b50c4","8ff35192-8fea-466f-939f-224d546c5805","46318f85-6d56-480e-9ec2-c767fb93ca6e","de60acea-2d8b-48f7-a0b3-40b17d20cb79","6216ebbb-8bb8-4b37-9310-e0f54a4d0aa8","2a6b36ed-da4f-4510-b571-1ad933b346c1","87629597-c1ad-4c8b-b5c9-cd8f12e3d693","231dd27e-ee26-4f16-a8d5-0b6e7ee4a1a7"]
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 true

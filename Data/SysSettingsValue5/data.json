@@ -1,0 +1,868 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "573e1e96-d111-4a02-b8f6-01373c57be59"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "80e96b65-9cb6-4adc-a4ca-21ff69021750",
+          "DisplayValue": "Метод авторизации процессинга"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "core.user.Login"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ebd4ff63-504f-49a7-a6cf-0e00ce03b72a"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "72337a88-ccc1-4a87-acd8-5ec62257f84c",
+          "DisplayValue": "Адрес клиента процессинга"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "194.44.213.22"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8f8bc410-1bc2-4e83-90b6-102613fb3b15"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "4a487c3f-488d-43b7-b289-1ecaf0bf4feb",
+          "DisplayValue": "UsrUrlForUpdateCaseInSD"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "http://serverNameInput/sdpapi/request/workOrderId?OPERATION_NAME=EDIT_REQUEST&TECHNICIAN_KEY=056A2491-4B3D-4E6E-A031-1E8515517AF9&INPUT_DATA="
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "01b6e462-fd3a-47e8-ab76-17b674480ad3"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "73ea8126-5780-42ed-84b2-4915a9d3c5bc",
+          "DisplayValue": "Логин авторизации процесинга"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "BPM-2"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d6081913-6f7a-4549-9f05-189da6460bba"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "6925cd43-6676-472f-a8dd-303467512a91",
+          "DisplayValue": "Url авторризации препроцесинга"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "https://78.47.224.90/processing/"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "92307112-aedd-4105-8d9f-1e67241e81cb"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "a56140ea-77e9-4125-a4ee-d8ca822a6e62",
+          "DisplayValue": "Метод получения трасакции процесинга"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "crm.cabinet.Transactions"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8f961ed6-a24c-4d09-86be-30add637a4c8"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "71843763-5ebd-40df-98cc-7c6c58b911eb",
+          "DisplayValue": "UsrSysSettingApyKey"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "1111"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b39403ee-f7f6-4e37-9f75-487db8421019"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "c68bdf59-19f9-46aa-9b6b-26db0464fb2a",
+          "DisplayValue": "Метод получения информации о клиенте процессинга"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "crm.operator.Info"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "20adddd3-9a1f-4df6-8a37-647c0c5f4a99"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "ec35d4ec-1213-441d-aa56-45d9e0e625a0",
+          "DisplayValue": "UsrServerName"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "195.24.136.70:8080"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "22da4f62-015e-4e2b-8bcf-65d984afe1d5"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "ea336bbc-3283-49d1-bc3b-2c205d4aea7d",
+          "DisplayValue": "Метод для оновления информации клиента"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "crm.operator.updateBuyerInfo"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c5d4b4a0-3d4c-4090-84bd-711258857fdd"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "64fffbd7-0fb9-4030-ae48-a3a223ffc0a7",
+          "DisplayValue": "UsrXMLTemplate"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "<Operation><Details><parameter><name>subject</name><value>subjectInput</value></parameter><parameter><name>category</name><value>categoryInput</value></parameter><parameter><name>description</name><value>descriptionInput</value></parameter><parameter><name>status</name><value>statusNameInput</value></parameter><parameter><name>тональность</name><value>modeNameInput</value></parameter><parameter><name>хамство</name><value>rudenessInput</value></parameter><parameter><name>subcategory</name><value>subcategoryNameInput</value></parameter><parameter><name>item</name><value>serviceItemNameInput</value></parameter><parameter><name>requester</name><value>requesterInput</value></parameter></Details></Operation>"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e1d07472-b537-4fb3-90f3-9bf5766f796e"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "b79477be-5e63-4acc-b8c7-2497d26c3e74",
+          "DisplayValue": "Метод поиска клиента процессинга"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "crm.operator.Search"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a0a323f4-2df5-4edc-b716-cd5cd534c281"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "4c66d02a-b1f8-4de1-8cd4-2d3df195bb0d",
+          "DisplayValue": "Таймаут авторизации процесинга"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "3600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e9713d90-34cf-4efb-9752-dd5fa283c1f9"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "d6bb9baa-46c6-4498-9da6-b880f5789555",
+          "DisplayValue": "Метод логина процессинга"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "crm.cabinet.Login"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fba0c7ba-ac94-4f36-825d-eb16234b71b1"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "95bffb5f-c9a3-48b5-9849-3bef748dc0ca",
+          "DisplayValue": "UsrUrlForInsertCaseInSD"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "http://serverNameInput/sdpapi/request/?TECHNICIAN_KEY=A0796E42-A088-417A-8C6A-B809585E4032&OPERATION_NAME=ADD_REQUEST&INPUT_DATA="
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f1f023b6-7b02-44c5-a692-f40cfca92c66"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "9bbddf51-5783-4c20-9d6d-90854c777a4c",
+          "DisplayValue": "Пароль авторизации процессинга"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "8nM%J0rcBe{8@<q<QeCxI3G$r"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Привязать обращение к звонку" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Звонок заполнен" />
+			<Item Name="BaseElements.ContactIdentification1.Caption" Value="Идентификация контакта  (по входящему звонку) в рамках процессов консультации и создания  обращения - Копия 1" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.AccountId.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.AccountId.DisplayValue" Value="[#Контрагент#]" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.AccountSelected.Caption" Value="Выбран контрагент" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.ContactId.Caption" Value="Контакт" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.ContactId.DisplayValue" Value="[#Контакт#]" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.CreateContactButtonCaption.Caption" Value="Подпись кнопки создания контакта" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.DefaultContactName.Caption" Value="Имя контакта по умолчанию" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.IsCaseIncluded.Caption" Value="Искать по обращению" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.NewContact.Caption" Value="Новый контакт" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.PhoneNumber.Caption" Value="Телефон" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.PhoneNumber.DisplayValue" Value="[#Телефон#]" />
+			<Item Name="BaseElements.ContactIdentification1.Parameters.SearchDetailSelectButtonCaption.Caption" Value="Подпись кнопки выбора на детали поиска" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Caption" Value="Заполните информацию по обращению" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Account.DisplayValue" Value="[#Идентификация контакта  (по входящему звонку) в рамках процессов консультации и создания  обращения - Копия 1.Контрагент#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.Caption" Value="Категория" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.DisplayValue" Value="Выполнить" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityResult.Caption" Value="Результат активности" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityResult.DisplayValue" Value="[#Справочник.Результат активности.Выполнена#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivitySchemaUId.Caption" Value="Уникальный идентификатор схемы объекта &quot;Активность&quot;" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Case.Caption" Value="Обращение" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Change.Caption" Value="Изменение" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contact.DisplayValue" Value="[#Идентификация контакта  (по входящему звонку) в рамках процессов консультации и создания  обращения - Копия 1.Контакт#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contract.Caption" Value="Договор" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CurrentActivityId.Caption" Value="Уникальный идентификатор активности" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DecisionalColumnMetaPath.Caption" Value="Колонка" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DecisionalColumnMetaPath.Value" Value="null" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.Caption" Value="Длительность" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.DisplayValue" Value="15" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.Caption" Value="Длительность (период)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.EditMode.Caption" Value="Режим редактирования страницы" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutedMode.Caption" Value="Считать выполненным" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutionContext.Caption" Value="Контекст выполнения" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.Caption" Value="Список результатов сформирован по колонке" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.DisplayValue" Value="false" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Incident.Caption" Value="Инцидент" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.Caption" Value="Информация по шагу" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Invoice.Caption" Value="Счет" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="Активность завершена" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsActivityCompleted.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsReexecution.Caption" Value="Повторное выполнение" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsReexecution.DisplayValue" Value="false" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Lead.Caption" Value="Лид" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Listing.Caption" Value="Листинг" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ObjectSchemaId.Caption" Value="Объект" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Opportunity.Caption" Value="Продажа" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Order.Caption" Value="Заказ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.Caption" Value="Ответственный" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.DisplayValue" Value="[#Системная переменная.Контакт текущего пользователя#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageSchemaId.Caption" Value="Страница" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageTypeUId.Caption" Value="Уникальный идентификатор типа страницы" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Property.Caption" Value="Объект недвижимости" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Caption" Value="Рекомендация" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.DisplayValue" Value="Заполните информацию по обращению" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Value" Value="Заполните информацию по обращению" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordColumnValues.Caption" Value="Значения полей по умолчанию" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordId.Caption" Value="Идентификатор записи" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Release.Caption" Value="Релиз" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBefore.Caption" Value="За сколько напоминать ответственному" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="За сколько напоминать ответственному (период)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Requests.Caption" Value="Заявка" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ResultParameter.Caption" Value="Параметр для ветвления" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="Показывать страницу выполнения автоматически" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.Caption" Value="Отображать в расписании" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartIn.Caption" Value="Через сколько начать выполнение" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.Caption" Value="Через сколько начать выполнение (период)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать данные контакта" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="Caption" Value="Создание обращения через CTI панель (по входящему звонку) с процесингом" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="Создание обращения" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Оператор" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.AccountId.Caption" Value="Контрагент" />
+			<Item Name="Parameters.CallId.Caption" Value="Звонок" />
+			<Item Name="Parameters.ContactId.Caption" Value="Контакт" />
+			<Item Name="Parameters.IsNewContact.Caption" Value="Новый контакт" />
+			<Item Name="Parameters.PhoneNumber.Caption" Value="Телефон" />
+		</Items>
+	</Group>
+</Resources>

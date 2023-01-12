@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "1eb04f91-cbbd-4f0d-8c5d-066c233b2ce8",
+    "Name": "tsp_DeleteFromUsrWebitelLog",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1605881283000)\/",
+    "DependsOn": []
+  }
+}

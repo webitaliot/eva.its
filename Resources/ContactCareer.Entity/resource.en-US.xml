@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeContactData.Parameters.ConditionMappingColumns.Caption" Value="Connection between columns of child and parent object for identification of parent object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeContactData.Parameters.DefaultValues.Caption" Value="Default values for parent object columns " />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeContactData.Parameters.DeleteChild.Caption" Value="Delete record in subordinate object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeContactData.Parameters.MappingColumns.Caption" Value="Connection between columns of parent and subordinate objects" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeContactData.Parameters.ParentEntityColumnUId.Caption" Value="Link to parent object column" />
+		</Items>
+	</Group>
+</Resources>

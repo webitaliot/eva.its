@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Change order data" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Caption" Value="Check the order information" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.DisplayValue" Value="To do" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.DisplayValue" Value="1. Make sure that you have enough product quantity available at the warehouse to complete the order;&#xA;2. Make sure that the order execution timeframe is realistic;&#xA;3. Make sure there are no signs of fraud in relation to the order." />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.Value" Value="1. Make sure that you have enough product quantity available at the warehouse to complete the order;&#xA;2. Make sure that the order execution timeframe is realistic;&#xA;3. Make sure there are no signs of fraud in relation to the order." />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.DisplayValue" Value="Check the order information" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Value" Value="Check the order information" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordId.DisplayValue" Value="[#Selected record Id#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.DisplayValue" Value="minutes" />
+			<Item Name="Caption" Value="Processing order in Agent desktop queue" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="Pool 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="Parameters.entityRecordId.Caption" Value="Selected record Id" />
+			<Item Name="Parameters.queueItemId.Caption" Value="queueItemId" />
+		</Items>
+	</Group>
+</Resources>

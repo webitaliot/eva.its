@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "74ebb2c3-d39d-4c6d-9b17-e14ac65db20c",
+    "Name": "UsrStartUnloadFromFTP",
+    "ModifiedOnUtc": "\/Date(1532335711000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Выгрузка данных на FTP",
+    "DependsOn": []
+  }
+}

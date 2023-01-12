@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "3a38a6f2-b17b-43df-8194-1c1fdeb24942",
+    "Name": "PortalCasePage",
+    "ModifiedOnUtc": "\/Date(1562926914000)\/",
+    "Parent": {
+      "UId": "b5f26c3c-a60f-4218-8bb8-b1e38a1071e2",
+      "Name": "PortalCasePage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема страницы редактирования портального раздела \"Обращения\"",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e12b10e5-22ef-4816-a851-f5547a086421",
+    "Name": "UsrITSLogger",
+    "ModifiedOnUtc": "\/Date(1567004961000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ITS логер",
+    "DependsOn": []
+  }
+}

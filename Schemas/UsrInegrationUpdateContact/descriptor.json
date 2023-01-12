@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca4f8d19-4942-43ec-99d4-df1c9cec215e",
+    "Name": "UsrInegrationUpdateContact",
+    "ModifiedOnUtc": "\/Date(1545987870000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Обновление контакта через процессинг",
+    "DependsOn": []
+  }
+}

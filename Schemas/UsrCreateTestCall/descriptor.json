@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9fc9ad75-8d2d-46bf-b89e-c250e4e6148a",
+    "Name": "UsrCreateTestCall",
+    "ModifiedOnUtc": "\/Date(1533029798000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Звонко тестовый",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e9d2c119-54bc-4ab0-834a-a3acc69b919c",
+    "Name": "UsrInformingClientIfOrderRebuilt",
+    "ModifiedOnUtc": "\/Date(1616758242000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Информирование клиента если заказ пересобран",
+    "DependsOn": []
+  }
+}

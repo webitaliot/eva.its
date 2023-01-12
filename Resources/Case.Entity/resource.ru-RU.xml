@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrActiveNumberCardPL.Caption" Value="Номер карты ПЛ" />
+			<Item Name="Columns.UsrApplicationAuthor.Caption" Value="Автор заявки" />
+			<Item Name="Columns.UsrAppliedCardNumber.Caption" Value="Заявленный номер карты" />
+			<Item Name="Columns.UsrAppliedEmail.Caption" Value="Заявленный мейл" />
+			<Item Name="Columns.UsrAppliedName.Caption" Value="Заявленное имя" />
+			<Item Name="Columns.UsrAppliedPhone.Caption" Value="Заявленный телефон" />
+			<Item Name="Columns.UsrCallEvaluationCall.Caption" Value="Оценивание Звонка" />
+			<Item Name="Columns.UsrCardType.Caption" Value="Тип карты" />
+			<Item Name="Columns.UsrCaseIdToSD.Caption" Value="ID обращения в SD" />
+			<Item Name="Columns.UsrCaseType.Caption" Value="Тип обращения" />
+			<Item Name="Columns.UsrCity.Caption" Value="Город" />
+			<Item Name="Columns.UsrComplaintKcExpert.Caption" Value="Жалоба на эксперта КЦ" />
+			<Item Name="Columns.UsrDepartment.Caption" Value="Департамент" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Описание(eva)" />
+			<Item Name="Columns.UsrEvaluationBool.Caption" Value="Оценено" />
+			<Item Name="Columns.UsrGroup.Caption" Value="Группа" />
+			<Item Name="Columns.UsrLanguage.Caption" Value="Язык общения" />
+			<Item Name="Columns.UsrMode.Caption" Value="Тональность" />
+			<Item Name="Columns.UsrNotify.Caption" Value="С уведомлением" />
+			<Item Name="Columns.UsrNumberOfOrder.Caption" Value="Номер заказа" />
+			<Item Name="Columns.UsrOperatorName.Caption" Value="ФИО оператора" />
+			<Item Name="Columns.UsrOwnerNameInSD.Caption" Value="ФИО отвественного в SD" />
+			<Item Name="Columns.UsrPlatform.Caption" Value="Площадка" />
+			<Item Name="Columns.UsrRegion.Caption" Value="Область" />
+			<Item Name="Columns.UsrRudeness.Caption" Value="Хамство" />
+			<Item Name="Columns.UsrSalerRegion.Caption" Value="Регион продаж" />
+			<Item Name="Columns.UsrShop.Caption" Value="Магазин" />
+			<Item Name="Columns.UsrSolution.Caption" Value="Решение(eva)" />
+			<Item Name="Columns.UsrWithReaction.Caption" Value="С реакцией" />
+			<Item Name="EventsProcessSchema.BaseElements.CaseUpdating.Caption" Value="CaseUpdating" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess7.Caption" Value="Событийный подпроцесс 7" />
+			<Item Name="EventsProcessSchema.BaseElements.NewOwnerSynchronizeSubjectReminding.Parameters.NotificationType.Caption" Value="Type of notifications" />
+			<Item Name="EventsProcessSchema.BaseElements.OldOwnerSynchronizeSubjectReminding.Parameters.NotificationType.Caption" Value="Type of notifications" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask1.Caption" Value="UpdateDescription(EVA)" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet3.Caption" Value="Пул 3" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet3.Lanes.Lane4.Caption" Value="Дорожка 4" />
+		</Items>
+	</Group>
+</Resources>

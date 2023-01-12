@@ -1,0 +1,56 @@
+﻿{
+  "Descriptor": {
+    "UId": "3b6e20e1-5166-479a-93b6-5fb5c5f8a0bf",
+    "Name": "OrderPaymentStatus2",
+    "ModifiedOnUtc": "\/Date(1553614157000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "c121173e-9034-4066-aede-682a4ce8fa88",
+      "Name": "OrderPaymentStatus"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "207eee15-86fb-425e-a03c-7599a8dab8e8",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Position",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "0e8ddc18-7e47-4e84-aec0-72f871dd29e3",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrCodeId",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "90cee63a-36e7-454e-b09b-7c0f5ae8064c",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrPaymentStatusCode",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      }
+    ]
+  }
+}

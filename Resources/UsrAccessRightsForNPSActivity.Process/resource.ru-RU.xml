@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Caption" Value="Убрать права у всех" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.AddRights.Caption" Value="Список прав на добавление" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.AddRights.DisplayValue" Value="[]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.AddRights.Value" Value="[]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.DataSourceFilters.Caption" Value="Объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.DeleteRights.Caption" Value="Список прав на удаление" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.DeleteRights.DisplayValue" Value="[{Id:&quot;3753f34b-015f-44f1-bc66-862814d8f33c&quot;,Name:&quot;Для всех ролей и пользователей&quot;,CanRead:true,CanEdit:true,CanDelete:true,Source:&quot;1&quot;,Grantee:&quot;AllRolesAndUsers&quot;,Value:&quot;&quot;}]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.DeleteRights.Value" Value="[{Id:&quot;3753f34b-015f-44f1-bc66-862814d8f33c&quot;,Name:&quot;Для всех ролей и пользователей&quot;,CanRead:true,CanEdit:true,CanDelete:true,Source:&quot;1&quot;,Grantee:&quot;AllRolesAndUsers&quot;,Value:&quot;&quot;}]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.EntitySchemaUId.DisplayValue" Value="c449d832-a4cc-4b01-b9d5-8a12c42a9f89" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Caption" Value="Добавить права Операторам NPS" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Parameters.AddRights.Caption" Value="Список прав на добавление" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Parameters.AddRights.DisplayValue" Value="[{Id:&quot;850aa580-7a41-470b-8cf8-fb9cbed55998&quot;,ParameterName:&quot;Role1&quot;,Name:&quot;Группа операторов - NPS&quot;,CanRead:true,CanEdit:true,CanDelete:true,Source:&quot;3&quot;,Grantee:&quot;Role&quot;,Value:&quot;[#Lookup.84f44b9a-4bc3-4cbf-a1a8-cec02c1c029c.a7659fbb-c183-4d8b-9685-b64edbf6090e#]&quot;,OperationRightLevel:&quot;1&quot;}]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Parameters.AddRights.Value" Value="[{Id:&quot;850aa580-7a41-470b-8cf8-fb9cbed55998&quot;,ParameterName:&quot;Role1&quot;,Name:&quot;Группа операторов - NPS&quot;,CanRead:true,CanEdit:true,CanDelete:true,Source:&quot;3&quot;,Grantee:&quot;Role&quot;,Value:&quot;[#Lookup.84f44b9a-4bc3-4cbf-a1a8-cec02c1c029c.a7659fbb-c183-4d8b-9685-b64edbf6090e#]&quot;,OperationRightLevel:&quot;1&quot;}]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Parameters.DataSourceFilters.Caption" Value="Объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Parameters.DeleteRights.Caption" Value="Список прав на удаление" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Parameters.DeleteRights.DisplayValue" Value="[]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Parameters.DeleteRights.Value" Value="[]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Parameters.EntitySchemaUId.DisplayValue" Value="c449d832-a4cc-4b01-b9d5-8a12c42a9f89" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Parameters.Role1.Caption" Value="Роль1" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask2.Parameters.Role1.DisplayValue" Value="[#Справочник.Объект администрирования.Группа операторов - NPS#]" />
+			<Item Name="Caption" Value="Права доступа на NPS Активности" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.IdOfNPSActivity.Caption" Value="IdOfNPSActivity" />
+		</Items>
+	</Group>
+</Resources>

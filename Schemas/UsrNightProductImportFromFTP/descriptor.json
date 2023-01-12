@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4b968f81-6603-4cec-8d24-286ce22f86f7",
+    "Name": "UsrNightProductImportFromFTP",
+    "ModifiedOnUtc": "\/Date(1568126040000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Ночной импорт продуктов с FTP",
+    "DependsOn": []
+  }
+}

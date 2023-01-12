@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Продукт в транзакции" />
+			<Item Name="Columns.UsrBonus.Caption" Value="Бонус" />
+			<Item Name="Columns.UsrCharge.Caption" Value="Сдача" />
+			<Item Name="Columns.UsrContact.Caption" Value="Контакт" />
+			<Item Name="Columns.UsrDiscount.Caption" Value="Скидка" />
+			<Item Name="Columns.UsrMarketingRuleId.Caption" Value="marketingRuleId" />
+			<Item Name="Columns.UsrPosition.Caption" Value="Позиция" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Цена" />
+			<Item Name="Columns.UsrQuantit.Caption" Value="Количество" />
+			<Item Name="Columns.UsrSKU.Caption" Value="SKU" />
+			<Item Name="Columns.UsrTransaction.Caption" Value="Транзакция" />
+			<Item Name="Columns.UsrTransactionItemId.Caption" Value="Ид продукта в транзакции" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

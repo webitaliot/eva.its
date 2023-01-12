@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "723533a3-853e-4c69-873e-6b5b1f85440a",
+    "Name": "ActivityDetailV2",
+    "ModifiedOnUtc": "\/Date(1495202263000)\/",
+    "Parent": {
+      "UId": "c98e0daa-7ee5-4acd-9711-3988e14afb3b",
+      "Name": "ActivityDetailV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Активности\"",
+    "DependsOn": []
+  }
+}

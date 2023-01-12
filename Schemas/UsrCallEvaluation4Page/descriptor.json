@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c7a3688e-7ec7-4217-9876-dead102e701c",
+    "Name": "UsrCallEvaluation4Page",
+    "ModifiedOnUtc": "\/Date(1528983595000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Card schema: \"Оценивание Звонка\"",
+    "DependsOn": []
+  }
+}

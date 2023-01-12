@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0f215f8a-c8aa-4d89-958c-2f8d986c82cd",
+    "Name": "UsrSendEmailServiceNEW",
+    "ModifiedOnUtc": "\/Date(1603204554000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отправка сообщений по шаблону на e-mail адрес service desk V2",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d503e3d4-78b1-4d65-a4f1-8cfda6b525d4",
+    "Name": "UsrReSend",
+    "ModifiedOnUtc": "\/Date(1531750490000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Перезапуск отправки Обращений в СД",
+    "DependsOn": []
+  }
+}

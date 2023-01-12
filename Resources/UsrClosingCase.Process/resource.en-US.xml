@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ActivityCategory.DisplayValue" Value="[#Lookup.Activity category.Email#]" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Event.Caption" Value="Event" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.IgnoreErrors.DisplayValue" Value="true" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Importance.DisplayValue" Value="1" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.SendEmailType.DisplayValue" Value="1" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "05245c49-3a72-4465-90e6-84450321e4cd",
+    "Name": "ContactAddressPageV2",
+    "ModifiedOnUtc": "\/Date(1576074596000)\/",
+    "Parent": {
+      "UId": "2149f737-09ae-4fba-845f-81c480709e06",
+      "Name": "ContactAddressPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница адреса контакта",
+    "DependsOn": []
+  }
+}

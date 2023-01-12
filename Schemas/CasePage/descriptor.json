@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "4b29f605-92e1-4004-9834-5fcb4191c736",
+    "Name": "CasePage",
+    "ModifiedOnUtc": "\/Date(1603980373000)\/",
+    "Parent": {
+      "UId": "73c75b87-44f4-4ab1-9ebb-6373a1f3903d",
+      "Name": "CasePage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "CasePage",
+    "DependsOn": []
+  }
+}

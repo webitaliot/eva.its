@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Акции по продуктам" />
+			<Item Name="Columns.UsrAmountPrice.Caption" Value="Сумма товара до скидки" />
+			<Item Name="Columns.UsrAmountPriceDiscounted.Caption" Value="Сумма товара после скидки" />
+			<Item Name="Columns.UsrDiscount.Caption" Value="Скидка на ед.товара" />
+			<Item Name="Columns.UsrDiscountAmount.Caption" Value="Сумма скидки на товар" />
+			<Item Name="Columns.UsrDiscountPercent.Caption" Value="Скидка на товар в %" />
+			<Item Name="Columns.UsrIncrementId.Caption" Value="Номер заказа" />
+			<Item Name="Columns.UsrOrderItemNumber.Caption" Value="Код позиции" />
+			<Item Name="Columns.UsrOrderProduct.Caption" Value="Продукт в заказе" />
+			<Item Name="Columns.UsrOrderShares.Caption" Value="Заказ" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Цена товара до скидки" />
+			<Item Name="Columns.UsrPriceDiscounted.Caption" Value="Цена товара после скидки" />
+			<Item Name="Columns.UsrProductShares.Caption" Value="Продукт" />
+			<Item Name="Columns.UsrQuantity.Caption" Value="Количество" />
+			<Item Name="Columns.UsrRuleId.Caption" Value="Номер акции" />
+			<Item Name="Columns.UsrRuleName.Caption" Value="Название Акции" />
+			<Item Name="Columns.UsrRuleSetId.Caption" Value="Акционный набор" />
+			<Item Name="Columns.UsrSetId.Caption" Value="Номер Комплекта" />
+			<Item Name="Columns.UsrSKU.Caption" Value="SKU" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

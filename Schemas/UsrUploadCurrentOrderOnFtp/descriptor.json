@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "21e678b4-15ec-45ed-b84c-228b6b4eecfc",
+    "Name": "UsrUploadCurrentOrderOnFtp",
+    "ModifiedOnUtc": "\/Date(1558356796000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Возвращения заказа в очередь на выгрузку на ФТП",
+    "DependsOn": []
+  }
+}

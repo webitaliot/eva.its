@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c2b1215d-1b7e-4cbf-8289-fd9a91dd5b3c",
+    "Name": "UsrServiceLoggerTag",
+    "ModifiedOnUtc": "\/Date(1566999129000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Логирование",
+    "DependsOn": []
+  }
+}

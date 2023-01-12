@@ -1,0 +1,172 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "ae7f411e-f46b-1410-009b-0050ba5d6c38"
+        },
+        {
+          "SchemaColumnUId": "d9eb669f-19ca-4666-bafd-031771bb5f10",
+          "ColumnName": "ButtonCaption",
+          "Value": "Resolve"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Resolved"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "7e9f1204-f46b-1410-fb9a-0050ba5d6c38"
+        },
+        {
+          "SchemaColumnUId": "d9eb669f-19ca-4666-bafd-031771bb5f10",
+          "ColumnName": "ButtonCaption",
+          "Value": "Take it"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "In progress"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "3e7f420c-f46b-1410-fc9a-0050ba5d6c38"
+        },
+        {
+          "SchemaColumnUId": "d9eb669f-19ca-4666-bafd-031771bb5f10",
+          "ColumnName": "ButtonCaption",
+          "Value": "Close case"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Closed"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "ae5f2f10-f46b-1410-fd9a-0050ba5d6c38"
+        },
+        {
+          "SchemaColumnUId": "d9eb669f-19ca-4666-bafd-031771bb5f10",
+          "ColumnName": "ButtonCaption",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "New"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "6e5f4218-f46b-1410-fe9a-0050ba5d6c38"
+        },
+        {
+          "SchemaColumnUId": "d9eb669f-19ca-4666-bafd-031771bb5f10",
+          "ColumnName": "ButtonCaption",
+          "Value": "Cancel case"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Canceled"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "3859c6e7-cbcb-486b-ba53-77808fe6e593"
+        },
+        {
+          "SchemaColumnUId": "d9eb669f-19ca-4666-bafd-031771bb5f10",
+          "ColumnName": "ButtonCaption",
+          "Value": "Wait for response"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Waiting for response"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "f063ebbe-fdc6-4982-8431-d8cfa52fedcf"
+        },
+        {
+          "SchemaColumnUId": "d9eb669f-19ca-4666-bafd-031771bb5f10",
+          "ColumnName": "ButtonCaption",
+          "Value": "Reopen"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Reopened"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+﻿{
+  "Descriptor": {
+    "UId": "bad01234-4770-4cad-bb7e-b83dac7d9a23",
+    "Name": "OrderStatus2",
+    "ModifiedOnUtc": "\/Date(1557825334000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "41201050-146e-47a5-8952-c3d0242e0787",
+      "Name": "OrderStatus"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "6092d428-f27c-41f7-822f-edf5935fd763",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrCode",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "45ad84e3-132c-4c1b-b723-6add15e9da3f",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrAccessToOpetator",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "b2674f0b-cd20-4bbc-b257-28495286f3ce",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrEditeble",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "428f2940-9d7d-4567-a11b-f3785997fdeb",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrCodeIM",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "fb5ac028-5d67-45c6-96ac-b8095646bd49",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Position",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "ad96a8f1-ebfe-4235-8c37-31fc15a5cd5d",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "FinalStatus",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      }
+    ]
+  }
+}

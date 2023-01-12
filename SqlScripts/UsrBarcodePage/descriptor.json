@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "c0b88b33-c731-444d-a953-0a6431b6791f",
+    "Name": "UsrBarcodePage",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1489067053000)\/",
+    "DependsOn": []
+  }
+}

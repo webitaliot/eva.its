@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f71bc4b5-7d52-4073-9f29-7e9531ed7d46",
+    "Name": "UsrCommentOrderPromo",
+    "ModifiedOnUtc": "\/Date(1527078689000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "CommentOrderPromo",
+    "DependsOn": []
+  }
+}

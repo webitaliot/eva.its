@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ccd1d56c-ea9d-4c24-931d-f8b762d7f080",
+    "Name": "UsrStartUploadFromFTP",
+    "ModifiedOnUtc": "\/Date(1513875638000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Загрузка данных c FTP",
+    "DependsOn": []
+  }
+}

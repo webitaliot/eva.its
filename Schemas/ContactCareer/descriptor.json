@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "f2f4f5ad-a4e1-40de-b3c6-c1732545a794",
+    "Name": "ContactCareer",
+    "ModifiedOnUtc": "\/Date(1576072898000)\/",
+    "Parent": {
+      "UId": "a0a1d0c3-6267-4584-acbd-fd53660798ce",
+      "Name": "ContactCareer"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Карьера контакта",
+    "DependsOn": []
+  }
+}

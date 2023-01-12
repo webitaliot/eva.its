@@ -1,0 +1,36 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "SMS"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "74bf3445-ee2f-4245-9dd9-cfa83e8d2459"
+        },
+        {
+          "SchemaColumnUId": "b4265a4b-144c-40ca-9489-88fd5a46eb29",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "Viber"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3f8df899-9d24-4269-b0a3-fb6d6fbf32b4"
+        },
+        {
+          "SchemaColumnUId": "b4265a4b-144c-40ca-9489-88fd5a46eb29",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+﻿{
+  "Descriptor": {
+    "UId": "cce12f66-45f0-468d-913a-6577f9f008ca",
+    "Name": "UsrEvaEmailProvider",
+    "ModifiedOnUtc": "\/Date(1489045219000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "7ba8351f-9a61-49e6-9e0d-8b32ed25c4c4",
+      "Name": "MailServer"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "f0fec10e-c639-4ebb-b0d4-75ba7beb2b30",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      },
+      {
+        "ColumnUId": "be4a6212-190c-4430-8b31-6972ac32503f",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Address",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      },
+      {
+        "ColumnUId": "b9e6dfc3-cd79-4707-9f3d-9b6bedda3c5f",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Port",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "773d7c26-389e-421c-a67e-9ca6a8b8a3e9",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UseSSL",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "9a6b34c9-96b3-45f5-b005-dfcd12e79d6d",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "EmailProtocol",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "89e2b329-bf63-4d5c-a079-6cf6c5fa9430",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "AllowEmailDownloading",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "411aaeae-43da-4e1c-8b1c-1655c25aac96",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "AllowEmailSending",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "394009b0-7664-46b4-b052-5754522f03c3",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SMTPServerAddress",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "c6d3e3b2-5552-4b06-9d5c-fe34b58ae7aa",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SMTPPort",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "6094ebec-dee7-492e-8977-4e2748a9b4bb",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SMTPServerTimeout",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "33affd30-ab8b-4975-8917-9baa63d2d025",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UseSSLforSending",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "ff05d2f5-bc16-4d80-b361-13120a07867e",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ExchangeEmailAddress",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "5a1ceded-281a-4994-bf5f-5fe57b752e0b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "IsExchengeAutodiscover",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "a017673a-f233-4df8-8ba8-fd299bae4e20",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "IsStartTls",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "411a2310-81f3-4a83-896e-87eccdbae77f",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Type",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "29f424ac-945a-4548-a60e-5e738cf01711",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UseLogin",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "29d0de8b-d4db-45d1-b453-8241941d7b62",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Logo",
+        "DataTypeValueUId": "b039feb0-ee7c-4884-8aa6-d6d45d84316f"
+      },
+      {
+        "ColumnUId": "30e37f76-b60e-4975-89a0-befc3e75eeb7",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UseUserNameAsLogin",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "38790f02-593c-4eb3-80be-2204877697a0",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UseEmailAddressAsLogin",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "2e121c4b-83ff-40c4-9f0e-503cee9e5cae",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Strategy",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

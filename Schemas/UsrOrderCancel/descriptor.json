@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4ed4bc0f-5447-4e9a-8797-8c3a3f95d77c",
+    "Name": "UsrOrderCancel",
+    "ModifiedOnUtc": "\/Date(1616760953000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отмена заказа",
+    "DependsOn": []
+  }
+}

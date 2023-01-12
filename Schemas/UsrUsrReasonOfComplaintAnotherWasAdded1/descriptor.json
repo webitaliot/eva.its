@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3c643000-9ab8-49f3-82a7-54ab143bdd4c",
+    "Name": "UsrUsrReasonOfComplaintAnotherWasAdded1",
+    "ModifiedOnUtc": "\/Date(1547545018000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Добавление причины жалобы - Копия",
+    "DependsOn": []
+  }
+}

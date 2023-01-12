@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3c178f6a-e2fc-4f38-8208-5c800dc271d5",
+    "Name": "UsrTakeOrderByCallITS",
+    "ModifiedOnUtc": "\/Date(1567498529000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Создание заказа через CTI панель (по входящему звонку) пользовательский",
+    "DependsOn": []
+  }
+}

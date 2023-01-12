@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "257af167-84e4-41d8-b340-58897a806c95",
+    "Name": "UsrUnloadOrderOnFtp",
+    "ModifiedOnUtc": "\/Date(1605865773000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Выгрузка заказов на FTP",
+    "DependsOn": []
+  }
+}

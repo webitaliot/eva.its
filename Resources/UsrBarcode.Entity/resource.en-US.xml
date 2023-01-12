@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Barcode" />
+			<Item Name="Columns.UsrCode.Caption" Value="Barcode" />
+			<Item Name="Columns.UsrProductCode.Caption" Value="Product code" />
+		</Items>
+	</Group>
+</Resources>

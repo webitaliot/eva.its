@@ -1,0 +1,42 @@
+= MetaData.Schema.UId "ee12dfa5-89e1-4999-9746-39c47093843c"
+= MetaData.Schema.A5 "cb8fe5d8-02a0-4f6b-a244-0fa7abea05cf"
++ MetaData.Schema.B2 {
+  "UId": "7c6cb1bc-c68d-4d57-9899-363b1529b5e3",
+  "A2": "BlindTransferTip",
+  "A3": "ee12dfa5-89e1-4999-9746-39c47093843c",
+  "A4": "ee12dfa5-89e1-4999-9746-39c47093843c",
+  "A5": "c2a76311-d47b-49ca-80b1-cd591a6f14c3"
+}
++ MetaData.Schema.B2 {
+  "UId": "d7347501-c768-40eb-9ab6-452893050ee3",
+  "A2": "TransferCommentCaption",
+  "A3": "ee12dfa5-89e1-4999-9746-39c47093843c",
+  "A4": "ee12dfa5-89e1-4999-9746-39c47093843c",
+  "A5": "79eb2188-285a-440a-a181-981bfeae71d9"
+}
++ MetaData.Schema.B2 {
+  "UId": "cc3384e7-025d-4a91-a6f3-14e5082ec706",
+  "A2": "PlaceholderComment",
+  "A3": "ee12dfa5-89e1-4999-9746-39c47093843c",
+  "A4": "ee12dfa5-89e1-4999-9746-39c47093843c",
+  "A5": "79eb2188-285a-440a-a181-981bfeae71d9"
+}
++ MetaData.Schema.B2 {
+  "UId": "b817f704-a064-47b2-ac1b-d2c1161ebdb9",
+  "A2": "Reliability",
+  "A3": "ee12dfa5-89e1-4999-9746-39c47093843c",
+  "A4": "ee12dfa5-89e1-4999-9746-39c47093843c",
+  "A5": "c2a76311-d47b-49ca-80b1-cd591a6f14c3"
+}
+~ MetaData.Schema.B2 ["271dd077-ae30-463e-af41-63d3f6c42b0e","a118ad00-5295-41c8-8cb7-41cf92e66bb7","707ef361-c227-4e81-b329-771f3efca92e","e9a0d2c9-20fd-4ef9-b348-964be97f2098","02de4e5a-45c5-49c9-b74d-9e70674468de","a38c6416-f1a3-4005-a682-ad049c14226a","cd94853a-e946-4cbe-a519-a8f6f0057a9f","078f8772-5f90-4e45-8943-01d1bf6c201f","a2a625c7-a06f-49de-8783-8067477f18bb","e4ccd6c1-4ab7-4b86-baf9-140305dc6b8e","5efec755-e552-4c28-85ac-4fc278d506c4","8d6e09eb-e840-4ee2-9b6a-f5d9d912e8e0","89cfb4d0-aa91-41dd-8de2-418232d9e259","e7b8c280-ecf0-4a3f-8f03-cbb8dd0bb086","4ca5364b-e65d-43a9-a13e-1fcc3adc7853","4425974c-e4b5-4da2-b3f7-2e665de701e6","80e25b35-b698-4945-9bc5-ea9501543abe","9ee3bce8-4716-4668-a3ca-0d32fc4192f8","196da18d-d3a9-4533-a902-3a60b26d249f","49f2a6ea-a3dd-4881-8902-0bc551d45c50","acbac33d-a5ca-447c-860e-9abdc2f0be62","f87616d6-afeb-40f8-be02-55827ad49aff","5edf724f-4406-45e4-ab18-da1943f4288b","235513f9-9c6b-4ead-b740-8ccd0041a54d","7a17f3ca-ccde-4aec-980e-fa04fb7a0fbc","21c960bb-603f-49ca-b415-abab0ef0ee1e","07a1b824-f729-4c45-993f-ec5361304d33","e01c23bc-7d10-410b-b793-2c37a08633fa","210fd24c-1769-4161-b161-6fca0209e8bf","5a82f9ed-d381-4db2-9a04-3f643adb2bca","4f630fc0-c3e1-4aec-a0ae-58f638e0d699","0cf108a6-7ba9-4889-baf0-fc61a2d5e1e8","c977245a-fbf6-4239-ab61-ba6ce05aaaa9","bf9521ec-dabb-4861-afd4-0ec95886bcd7","9326680e-e95d-46e9-b610-8427b4b21bf8","fc698a6d-94a0-40da-836b-da683a70f902","9535b762-3d3f-457e-8080-6045749262ea","3432dbd4-46ee-44ce-af0e-15fdbb9ecb47","ae31e857-a487-498b-ac9b-3575f81b5c96","b3daeb47-c123-4eed-9c50-2f87b34169dd","7c6cb1bc-c68d-4d57-9899-363b1529b5e3","d7347501-c768-40eb-9ab6-452893050ee3","cc3384e7-025d-4a91-a6f3-14e5082ec706","b817f704-a064-47b2-ac1b-d2c1161ebdb9"]
+= MetaData.Schema.B6 "2f7e2b8b-9dd4-4c24-9149-055455ac8f40"
++ MetaData.Schema.B8 "7.9.1.3284"
++ MetaData.Schema.HD8 {
+  "UId": "a429b83a-b105-43c7-baa1-ee9236a13498",
+  "A2": "BlindTransferButtonIcon",
+  "A3": "ee12dfa5-89e1-4999-9746-39c47093843c",
+  "A4": "ee12dfa5-89e1-4999-9746-39c47093843c"
+}
+~ MetaData.Schema.HD8 ["2206c084-cf1f-4db6-a32f-4d7576e38a43","f5796d02-d65e-4df6-8e84-edac1a1a1ee3","cc90b56e-30bc-417e-a2b9-c08f5ea81bd5","ece365eb-2d36-4a4e-91b0-b659ca27efe6","e55e5b5a-ea31-4542-b4c8-251694fcff04","404155d7-5332-431e-af80-575eb527c6d8","fd8d8ef2-fcbf-4352-b1d0-a33ef0cfe7af","72c0c5b9-3bac-4b52-87cc-09d2227d6fa3","9afd79e8-ce62-4bb2-a246-8db84222aa30","1337f8fb-9532-4709-8b38-33387d313f70","2156ffc8-c037-48c3-9799-098e15bdeddd","b5b4ac30-a394-48de-9254-bd0c7b9d1d89","ffd197b9-37c1-4d94-a264-d8f0bd1af3cd","5c457728-1657-4a51-90e4-e2e13addcfec","f827b35b-fc79-4efc-94e8-597a837a94e6","1c5a0ccd-a677-463b-95a6-866489e39bfe","f2bac182-537b-4146-8307-3d5d8ba83b8e","10c4dc4b-2b83-4996-a7e3-8214e928875a","54fb9355-ca72-426f-aadf-3864057d51bd","e29b7978-0a41-4952-87ba-951bb154ffc7","d0b0c20a-1a0c-4b8d-a276-6b643ae9ae51","8851914b-60c7-45cc-8f61-549f542cfe32","ffe8cc04-5e7c-4ff8-904b-3e8c5909bad2","af40faac-2ef2-4f2b-b059-2032f8144e70","e880c5ed-c8da-4f8b-b496-f86718de2867","6a67f862-e1f7-4a38-a730-345e2e06c4c6","a429b83a-b105-43c7-baa1-ee9236a13498"]
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 true

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "4eba7bca-b0ab-4884-8ca7-1eaa89b3c1ea",
+    "Name": "OrderPaymentStatus",
+    "ModifiedOnUtc": "\/Date(1497531344000)\/",
+    "Parent": {
+      "UId": "c121173e-9034-4066-aede-682a4ce8fa88",
+      "Name": "OrderPaymentStatus"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояние оплаты заказа",
+    "DependsOn": []
+  }
+}

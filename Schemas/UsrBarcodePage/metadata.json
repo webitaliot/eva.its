@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "56a0d0ef-71bb-4495-83e5-aaf5cd6e0bdb"
+= MetaData.Schema.A2 "UsrBarcodePage"
+= MetaData.Schema.A5 "be1a48d7-1a8f-43cc-af3d-c34b082b2460"
+= MetaData.Schema.B6 "2f7e2b8b-9dd4-4c24-9149-055455ac8f40"
+= MetaData.Schema.B8 "7.9.1.3284"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

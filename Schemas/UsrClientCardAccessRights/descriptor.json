@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "42cc2533-9027-42a4-9dde-513f8a3eb50f",
+    "Name": "UsrClientCardAccessRights",
+    "ModifiedOnUtc": "\/Date(1561031046000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Расшаривание прав редактировнаия",
+    "DependsOn": []
+  }
+}

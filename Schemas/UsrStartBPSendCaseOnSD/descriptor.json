@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0d60642d-24a9-4907-a4e1-d5f6ce2977f3",
+    "Name": "UsrStartBPSendCaseOnSD",
+    "ModifiedOnUtc": "\/Date(1548163516000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Запустить \"Отправка обращения на ServiceDesk\"",
+    "DependsOn": []
+  }
+}

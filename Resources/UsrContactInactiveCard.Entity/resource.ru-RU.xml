@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Неактивные карты" />
+			<Item Name="Columns.UsrCardNumber.Caption" Value="Номер карты" />
+			<Item Name="Columns.UsrContact.Caption" Value="Контакт" />
+			<Item Name="Columns.UsrStatusCard.Caption" Value="Статус карты" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

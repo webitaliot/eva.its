@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3c7af3e1-a2ad-4fc6-8f09-f184ba6d93ca",
+    "Name": "UsrShareDetail",
+    "ModifiedOnUtc": "\/Date(1498033226000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали \"Акции по продукту\"",
+    "DependsOn": []
+  }
+}

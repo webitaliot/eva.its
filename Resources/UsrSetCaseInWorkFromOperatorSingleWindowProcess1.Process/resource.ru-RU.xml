@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Изменить обращение" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Caption" Value="Обработать обращение" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.Account.DisplayValue" Value="[#Читать данные Обращения.Первый элемент результирующей коллекции.Контрагент#]" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.ActivityCategory.DisplayValue" Value="Выполнить" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.Contact.DisplayValue" Value="[#Читать данные Обращения.Первый элемент результирующей коллекции.Контакт#]" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.Duration.DisplayValue" Value="15" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.DurationPeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.GenerateDecisionsFromColumn.DisplayValue" Value="false" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.InformationOnStep.DisplayValue" Value="Если запрос относится к карте ПЛ, но в поле Номер карты ПЛ нет данных, попросите клиента перезвонить с номера телефона за которым закреплена карта" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.InformationOnStep.Value" Value="Если запрос относится к карте ПЛ, но в поле Номер карты ПЛ нет данных, попросите клиента перезвонить с номера телефона за которым закреплена карта" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.OwnerId.DisplayValue" Value="[#Системная переменная.Контакт текущего пользователя#]" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.Recommendation.DisplayValue" Value="Обработать обращение" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.Recommendation.Value" Value="Обработать обращение" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.RecordId.DisplayValue" Value="[#Идентификатор выбранной записи#]" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.RemindBeforePeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.ShowInScheduler.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenCaseEditPageUserTask.Parameters.StartInPeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.ReadCaseDataUserTask.Caption" Value="Читать данные Обращения" />
+			<Item Name="BaseElements.ReadCaseDataUserTask.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadCaseDataUserTask.Parameters.ResultType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать данные контакта" />
+			<Item Name="Caption" Value="Обработка обращений из очереди в Едином окне - Копия" />
+			<Item Name="LaneSets.ProcessCaseFromQueueLaneSet.Caption" Value="Обработка обращений из очереди" />
+			<Item Name="LaneSets.ProcessCaseFromQueueLaneSet.Lanes.OperatorLane.Caption" Value="Оператор" />
+			<Item Name="Parameters.entityRecordId.Caption" Value="Идентификатор выбранной записи" />
+			<Item Name="Parameters.queueItemId.Caption" Value="ИД записи в очереди" />
+		</Items>
+	</Group>
+</Resources>

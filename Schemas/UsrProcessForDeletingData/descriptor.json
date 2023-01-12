@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7c83bee0-1829-4e6b-a8bb-d548d9e55d59",
+    "Name": "UsrProcessForDeletingData",
+    "ModifiedOnUtc": "\/Date(1605974263000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Процесс для удаления данных",
+    "DependsOn": []
+  }
+}

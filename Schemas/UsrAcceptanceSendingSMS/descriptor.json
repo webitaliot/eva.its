@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ae4bddb7-13a2-41b9-a2d6-a8fa9b91bcc9",
+    "Name": "UsrAcceptanceSendingSMS",
+    "ModifiedOnUtc": "\/Date(1487255104000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Согласие с СМС рассылкой  ",
+    "DependsOn": []
+  }
+}

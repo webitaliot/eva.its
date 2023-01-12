@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "b2d1272b-ea10-4cc4-b004-e2226b56342d",
+    "Name": "tsp_DeleteFromSysUserSession",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1605881598000)\/",
+    "DependsOn": []
+  }
+}

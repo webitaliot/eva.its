@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема раздела: &quot;Активности&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Активности" />
+			<Item Name="LocalizableStrings.LoadingMessagesComplete.Value" Value="Загрузка писем завершена" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Caption" Value="SetUpSynchronization" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="Настроить синхронизацию активностей" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.SynchronizeWithExchangeStart.Value" Value="Синхронизация начата. Мы покажем вам уведомление, когда она завершится." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Caption" Value="SyncSettingsSetTipCaption" />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="Поздравляем! Теперь ваши встречи и задачи всегда будут актуальными.&lt;br&gt;Вы можете &lt;a href=&quot;#&quot;&gt;изменить настройки&lt;/a&gt;, которые мы установили по умолчанию." />
+			<Item Name="LocalizableStrings.SyncWithExchangeCaption.Value" Value="Синхронизировать с задачами и встречами Exchange" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+		</Items>
+	</Group>
+</Resources>

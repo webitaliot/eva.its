@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "789f0e2b-c52c-4a91-91b8-fdd681cf4a66",
+    "Name": "tsp_DeleteFromSysPrcHistoryLog",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1605881627000)\/",
+    "DependsOn": []
+  }
+}

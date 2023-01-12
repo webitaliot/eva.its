@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.5155b76a-100a-4799-81d2-203a5b4e2fbb.Image" Type="Image" Value="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAB2SURBVDhPpY9BDsAgCAR9sfr/C3WbbAK4NqU9TNSRRWxm9gspK0hZQcoxxlp2r9gEwr33tY3+RDggPOe0TxMgxNe5z47NPXf4qQB39LkO6zYBoT/BuiB9Z+8VsgFAGKNmn0Fd+IIHnbPLHCeoImUFKStI+R5rF0FD2IYaw+faAAAAAElFTkSuQmCC" />
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="Звонки" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Запланировать на дату" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.GeneralInfoTabGroupd98ff745GroupCaption.Value" Value="Причина жалобы" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Найдено более одного элементов очереди связанных с процессом. Идентификатор процесса: {0}" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Вернуть в очередь" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Ошибка возвращения элемента в очередь. Сообщение об ошибке: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Страница не связана с элементом очереди единого окна. Действие отменено." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Ошибка при возвращении элемента в очередь" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Элемент успешно возвращен в очередь" />
+			<Item Name="LocalizableStrings.RemindToAuthorDateLabelCaption.Value" Value="Дата напоминания" />
+			<Item Name="LocalizableStrings.RemindToAuthorLabelCaption.Value" Value="Автору" />
+			<Item Name="LocalizableStrings.RemindToOwnerDateLabelCaption.Value" Value="Дата напоминания" />
+			<Item Name="LocalizableStrings.RemindToOwnerLabelCaption.Value" Value="Ответственному" />
+			<Item Name="LocalizableStrings.STRING0172d16f61da4160b3b9c5c07328959cLabelCaption.Value" Value="UsrOtherComment" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Вы подписаны на обновление ленты: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Вы отписаны от обновлений ленты: {0}" />
+		</Items>
+	</Group>
+</Resources>

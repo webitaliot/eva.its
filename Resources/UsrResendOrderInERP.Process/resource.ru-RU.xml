@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Изменить &quot;Состояние&quot;" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать заказ" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Обдновление &quot;Дата выгрузки&quot;, &quot;Дата загрузки&quot;" />
+			<Item Name="Caption" Value="Переотправка заказа в ERP" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="Parameters.UsrOrder.Caption" Value="Заказ" />
+		</Items>
+	</Group>
+</Resources>

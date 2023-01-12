@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "21b07e8c-c90e-4222-a73a-86801a28bb5c",
+    "Name": "UsrCaseFromEmail",
+    "ModifiedOnUtc": "\/Date(1542877889000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Регистрация обращения по email",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "36a69906-0d96-4772-814e-f51040e59478",
+    "Name": "UsrSchema6Detail",
+    "ModifiedOnUtc": "\/Date(1562590696000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"История статусов заказа\"",
+    "DependsOn": []
+  }
+}

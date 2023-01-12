@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Create activity" />
+			<Item Name="BaseElements.AddDataUserTask2.Caption" Value="Добавить участника 1" />
+			<Item Name="BaseElements.AddDataUserTask3.Caption" Value="Добавить участника 2" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Update case owner" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Формула 1" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="Формула 2" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Read case" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="Read contact" />
+			<Item Name="BaseElements.ReadDataUserTask3.Caption" Value="Read resposible" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Add complaint" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Id записи" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Add case" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Id записи" />
+			<Item Name="Caption" Value="Обработка жалобы на эксперта КЦ" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="Parameters.Case.Caption" Value="Обращение" />
+		</Items>
+	</Group>
+</Resources>

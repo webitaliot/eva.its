@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d15cf0da-2501-451b-9116-7836315b774a",
+    "Name": "UsrGetEmailServiceDesk",
+    "ModifiedOnUtc": "\/Date(1591969465000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Получение сообщений e-mail с service desk",
+    "DependsOn": []
+  }
+}

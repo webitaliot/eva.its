@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Record Id" />
+		</Items>
+	</Group>
+</Resources>

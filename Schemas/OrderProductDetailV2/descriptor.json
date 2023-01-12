@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "814cb908-e839-4c06-b5ba-ce71c9f78ae0",
+    "Name": "OrderProductDetailV2",
+    "ModifiedOnUtc": "\/Date(1590675903000)\/",
+    "Parent": {
+      "UId": "18095247-3838-4c7b-bb72-a5603c5be74c",
+      "Name": "OrderProductDetailV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Продукты в заказе",
+    "DependsOn": []
+  }
+}

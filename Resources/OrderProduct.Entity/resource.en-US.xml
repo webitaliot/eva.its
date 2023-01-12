@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrAction.Caption" Value="Action" />
+			<Item Name="Columns.UsrActionColor.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrAmountPrice.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrAmountPriceDiscount.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrDiscountedPrice.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrIncrementId.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrInStock.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrIsInSet.Caption" Value="Is in set" />
+			<Item Name="Columns.UsrLackInRc.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrOptions.Caption" Value="Options" />
+			<Item Name="Columns.UsrOrderItemNumber.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrOriginalPrice.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrProductName.Caption" Value="Product Name" />
+			<Item Name="Columns.UsrRowWeight.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrSKU.Caption" Value="SKU" />
+		</Items>
+	</Group>
+</Resources>

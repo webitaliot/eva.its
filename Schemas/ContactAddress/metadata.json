@@ -1,0 +1,72 @@
+= MetaData.Schema.UId "0b9b2544-f6a1-4a89-ae4c-2f22b03a82e1"
+= MetaData.Schema.A5 "b7a255fa-aa06-497d-a11f-6a6059029aa4"
+= MetaData.Schema.B6 "2f7e2b8b-9dd4-4c24-9149-055455ac8f40"
+= MetaData.Schema.B7 true
+= MetaData.Schema.B8 "7.9.1.3284"
+= MetaData.Schema.EG1.UId "dd95d513-cec5-4374-a156-40b2b0702732"
+= MetaData.Schema.EG1.A2 "UsrEntity1EventsProcess"
+= MetaData.Schema.EG1.A5 "b7a255fa-aa06-497d-a11f-6a6059029aa4"
++ MetaData.Schema.EG1.BK8 "d56ae4d6-efc0-4cc4-849b-2742e97337a8"
+= MetaData.Schema.EG1.BK15 []
++ MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].IL2 "079c1a2b-96d1-4935-9764-180b73ed11ac"
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].BL4
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].BL9
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BL9
+= MetaData.Schema.D8 "d54d2218-61c8-413a-a1b7-5748c7e25f56"
++ MetaData.Schema.D4 "12db9566-84b0-450f-9ce8-9b826f79349c"
+- MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16
+- MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16
+- MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16
+- MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16
+- MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16
+- MetaData.Schema.D2.["db905f37-5dcd-43e7-a4d6-d53683cb20db"].E16
+- MetaData.Schema.D2.["06b6aac2-bf8f-4159-9c31-ae7a8dc59d7a"].E16
+- MetaData.Schema.D2.["c8419fd0-f489-4d84-8966-c3f74d40d954"].E16
+- MetaData.Schema.D2.["1435cdfb-4112-4eb4-b069-8092de017667"].E16
+- MetaData.Schema.D2.["6e1859b8-5a53-4537-b1fe-f7ae8cb41564"].E16
+- MetaData.Schema.D2.["7c61072c-ba24-4ab3-812a-63741a3eb046"].E16
+- MetaData.Schema.D2.["d11dacab-b03d-4a27-b6ab-904dcdb79cd9"].E16
+- MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16
++ MetaData.Schema.D2 {
+  "UId": "12db9566-84b0-450f-9ce8-9b826f79349c",
+  "A2": "UsrHouse",
+  "A3": "0b9b2544-f6a1-4a89-ae4c-2f22b03a82e1",
+  "A4": "0b9b2544-f6a1-4a89-ae4c-2f22b03a82e1",
+  "A5": "b7a255fa-aa06-497d-a11f-6a6059029aa4",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "0d880d5f-272a-4b83-82a7-936adaa7be9b",
+  "A2": "UsrApartment",
+  "A3": "0b9b2544-f6a1-4a89-ae4c-2f22b03a82e1",
+  "A4": "0b9b2544-f6a1-4a89-ae4c-2f22b03a82e1",
+  "A5": "b7a255fa-aa06-497d-a11f-6a6059029aa4",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "a487192f-3dc8-47ec-97ca-d3d34b38d3f0",
+  "A2": "UsrCorps",
+  "A3": "0b9b2544-f6a1-4a89-ae4c-2f22b03a82e1",
+  "A4": "0b9b2544-f6a1-4a89-ae4c-2f22b03a82e1",
+  "A5": "b7a255fa-aa06-497d-a11f-6a6059029aa4",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","db905f37-5dcd-43e7-a4d6-d53683cb20db","06b6aac2-bf8f-4159-9c31-ae7a8dc59d7a","c8419fd0-f489-4d84-8966-c3f74d40d954","1435cdfb-4112-4eb4-b069-8092de017667","6e1859b8-5a53-4537-b1fe-f7ae8cb41564","7c61072c-ba24-4ab3-812a-63741a3eb046","d11dacab-b03d-4a27-b6ab-904dcdb79cd9","16093858-afb1-4336-b8bc-52159ff08af5","3fabd836-6a53-4d8d-9069-6df88d9dae1e","12db9566-84b0-450f-9ce8-9b826f79349c","0d880d5f-272a-4b83-82a7-936adaa7be9b","a487192f-3dc8-47ec-97ca-d3d34b38d3f0"]
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D20.FA4
++ MetaData.Schema.B7 true
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["db905f37-5dcd-43e7-a4d6-d53683cb20db"].E16 false
++ MetaData.Schema.D2.["06b6aac2-bf8f-4159-9c31-ae7a8dc59d7a"].E16 false
++ MetaData.Schema.D2.["c8419fd0-f489-4d84-8966-c3f74d40d954"].E16 false
++ MetaData.Schema.D2.["1435cdfb-4112-4eb4-b069-8092de017667"].E16 false
++ MetaData.Schema.D2.["6e1859b8-5a53-4537-b1fe-f7ae8cb41564"].E16 false
++ MetaData.Schema.D2.["7c61072c-ba24-4ab3-812a-63741a3eb046"].E16 false
++ MetaData.Schema.D2.["d11dacab-b03d-4a27-b6ab-904dcdb79cd9"].E16 false
++ MetaData.Schema.D2.["16093858-afb1-4336-b8bc-52159ff08af5"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

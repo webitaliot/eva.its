@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "3b1d3787-fd39-4001-8c44-7f114ae3c27a",
+    "Name": "OrderStatus",
+    "ModifiedOnUtc": "\/Date(1556878160000)\/",
+    "Parent": {
+      "UId": "41201050-146e-47a5-8952-c3d0242e0787",
+      "Name": "OrderStatus"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояние заказа",
+    "DependsOn": []
+  }
+}

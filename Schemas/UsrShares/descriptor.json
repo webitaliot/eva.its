@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+    "Name": "UsrShares",
+    "ModifiedOnUtc": "\/Date(1583503845000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Акции по продуктам",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "78ce0485-4b60-42da-b51c-317fc4b1fd16",
+    "Name": "UsrSendSmsWithResponsible",
+    "ModifiedOnUtc": "\/Date(1532531280000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отправка SMS с Ответсвенным",
+    "DependsOn": []
+  }
+}

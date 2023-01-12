@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "68e831d5-fac9-4e37-9227-4f45f0ebe0a6",
+    "Name": "CommunicationHistoryItem",
+    "ModifiedOnUtc": "\/Date(1491834932000)\/",
+    "Parent": {
+      "UId": "469b02ea-8a75-4c1b-9302-a9d3cb2a7020",
+      "Name": "CommunicationHistoryItem"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема истории коммуникационной панели",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "acb7a0e7-5bc7-4f52-969c-f43ace499982",
+    "Name": "UsrCallEvalFromCall",
+    "ModifiedOnUtc": "\/Date(1630501690000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Оценивание звонка из страницы звонка",
+    "DependsOn": []
+  }
+}

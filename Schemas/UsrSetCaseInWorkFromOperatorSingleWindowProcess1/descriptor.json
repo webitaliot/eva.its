@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9fbe00b1-4466-47b8-bab3-2fa32f397583",
+    "Name": "UsrSetCaseInWorkFromOperatorSingleWindowProcess1",
+    "ModifiedOnUtc": "\/Date(1491356838000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Обработка обращений из очереди в Едином окне - Копия",
+    "DependsOn": []
+  }
+}

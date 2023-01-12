@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="00:00-8:59" />
+			<Item Name="BaseElements.ConditionalSequenceFlow10.Caption" Value="Рус 4" />
+			<Item Name="BaseElements.ConditionalSequenceFlow11.Caption" Value="Самовывоз Ева (НП)" />
+			<Item Name="BaseElements.ConditionalSequenceFlow12.Caption" Value="Рус 5" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="21:01-23:59" />
+			<Item Name="BaseElements.ConditionalSequenceFlow3.Caption" Value="Рус" />
+			<Item Name="BaseElements.ConditionalSequenceFlow4.Caption" Value="Рус 1" />
+			<Item Name="BaseElements.ConditionalSequenceFlow5.Caption" Value="Рус 2" />
+			<Item Name="BaseElements.ConditionalSequenceFlow6.Caption" Value="Рус 3" />
+			<Item Name="BaseElements.ConditionalSequenceFlow8.Caption" Value="wayforpay" />
+			<Item Name="BaseElements.ConditionalSequenceFlow9.Caption" Value="Самовывоз Ева (НП)" />
+			<Item Name="BaseElements.DefaultSequenceFlow10.Caption" Value="НП, Курьер" />
+			<Item Name="BaseElements.DefaultSequenceFlow9.Caption" Value="НП, Курьер" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Вайбер 1" />
+			<Item Name="BaseElements.FormulaTask10.Caption" Value="Вайбер 1 Рус" />
+			<Item Name="BaseElements.FormulaTask11.Caption" Value="СМС 2 Рус" />
+			<Item Name="BaseElements.FormulaTask12.Caption" Value="Вайбер 2 Рус" />
+			<Item Name="BaseElements.FormulaTask13.Caption" Value="СМС 3" />
+			<Item Name="BaseElements.FormulaTask14.Caption" Value="Вайбер 3" />
+			<Item Name="BaseElements.FormulaTask15.Caption" Value="СМС 3 Рус" />
+			<Item Name="BaseElements.FormulaTask16.Caption" Value="Вайбер 3 Рус" />
+			<Item Name="BaseElements.FormulaTask17.Caption" Value="СМС 4" />
+			<Item Name="BaseElements.FormulaTask18.Caption" Value="Вайбер 4" />
+			<Item Name="BaseElements.FormulaTask19.Caption" Value="СМС 4 Рус" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="СМС" />
+			<Item Name="BaseElements.FormulaTask20.Caption" Value="Вайбер 4 Рус" />
+			<Item Name="BaseElements.FormulaTask21.Caption" Value="СМС 5" />
+			<Item Name="BaseElements.FormulaTask22.Caption" Value="Вайбер 5" />
+			<Item Name="BaseElements.FormulaTask23.Caption" Value="СМС 5 Рус" />
+			<Item Name="BaseElements.FormulaTask24.Caption" Value="Вайбер 5 Рус" />
+			<Item Name="BaseElements.FormulaTask3.Caption" Value="Вайбер 2" />
+			<Item Name="BaseElements.FormulaTask4.Caption" Value="Вайбер" />
+			<Item Name="BaseElements.FormulaTask5.Caption" Value="СМС 1" />
+			<Item Name="BaseElements.FormulaTask6.Caption" Value="СМС 2" />
+			<Item Name="BaseElements.FormulaTask7.Caption" Value="СМС Рус" />
+			<Item Name="BaseElements.FormulaTask8.Caption" Value="Вайбер Рус" />
+			<Item Name="BaseElements.FormulaTask9.Caption" Value="СМС 1 Рус" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать данные 1" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="Читать контакт" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Отправка SMS 1" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Activity.Caption" Value="Создана активность" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Case.Caption" Value="Обращение" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Contact.DisplayValue" Value="[#Контакт#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Order.Caption" Value="Заказ" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Order.DisplayValue" Value="[#Заказ#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Phone.Caption" Value="Телефон" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Phone.DisplayValue" Value="[#Читать данные 1.Первый элемент результирующей коллекции.Номер для уведомлений#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Text.Caption" Value="Текст" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Text.DisplayValue" Value="[#Текст#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrExceptionText.Caption" Value="Код ошибки" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ViberText.Caption" Value="Текст для viber" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ViberText.DisplayValue" Value="[#Текст для вайбер#]" />
+			<Item Name="Caption" Value="Отправка СМС по новым заказам V2" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.ProcessSchemaParameter1.Caption" Value="Контакт" />
+			<Item Name="Parameters.ProcessSchemaParameter2.Caption" Value="Заказ" />
+			<Item Name="Parameters.Text.Caption" Value="Текст" />
+			<Item Name="Parameters.ViberText.Caption" Value="Текст для вайбер" />
+		</Items>
+	</Group>
+</Resources>

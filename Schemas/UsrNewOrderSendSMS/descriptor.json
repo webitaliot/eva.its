@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f4d93bd8-4b6d-4c45-8d89-d6f6434b0c4a",
+    "Name": "UsrNewOrderSendSMS",
+    "ModifiedOnUtc": "\/Date(1616758704000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отправка СМС по новым заказам",
+    "DependsOn": []
+  }
+}

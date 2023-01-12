@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "75029f23-c2af-4eae-9f4d-6154376214e2",
+    "Name": "SearchAccountAndContactPage",
+    "ModifiedOnUtc": "\/Date(1545228354000)\/",
+    "Parent": {
+      "UId": "4f01d1ce-b5c7-4d19-b354-b5bef74d6e95",
+      "Name": "SearchAccountAndContactPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница поиска Контактов и Контрагентов",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема детали раздела &quot;График работы&quot;" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="Приоритет в Уровне поддержки" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="График работы" />
+		</Items>
+	</Group>
+</Resources>

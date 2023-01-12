@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4e320d2c-f898-4953-8125-1b29c357ea7b",
+    "Name": "UsrServiceLogger1Section",
+    "ModifiedOnUtc": "\/Date(1566999104000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Логирование\"",
+    "DependsOn": []
+  }
+}

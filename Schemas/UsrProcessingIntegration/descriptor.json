@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ddecda6c-db67-4fc3-96cf-4c0ef1deec2b",
+    "Name": "UsrProcessingIntegration",
+    "ModifiedOnUtc": "\/Date(1590675677000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Интеграция БПМ и процессинга",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "9df1b797-1144-4585-87b4-97895cfed577",
+    "Name": "ContactCareerDetailV2",
+    "ModifiedOnUtc": "\/Date(1576069945000)\/",
+    "Parent": {
+      "UId": "af342d1e-290f-43c1-af10-18141c05ad95",
+      "Name": "ContactCareerDetailV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Карьера\"",
+    "DependsOn": []
+  }
+}

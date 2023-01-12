@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrActive.Caption" Value="Активный" />
+			<Item Name="Columns.UsrSaleRegion.Caption" Value="Регион продаж" />
+			<Item Name="Columns.UsrWeight.Caption" Value="Вес" />
+		</Items>
+	</Group>
+</Resources>

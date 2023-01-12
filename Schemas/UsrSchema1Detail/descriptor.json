@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "88b486f7-b711-43c2-afac-dbc5a0c2acc5",
+    "Name": "UsrSchema1Detail",
+    "ModifiedOnUtc": "\/Date(1536314760000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Транзакции контакта\"",
+    "DependsOn": []
+  }
+}

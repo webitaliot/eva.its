@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Изменить состояние на &quot;Отменен&quot;" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Caption" Value="111" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Caption" Value="222" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Caption" Value="22222" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Рус" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="Собран частично" />
+			<Item Name="BaseElements.ConditionalSequenceFlow3.Caption" Value="Новый" />
+			<Item Name="BaseElements.ConditionalSequenceFlow4.Caption" Value="Проблема с отделением" />
+			<Item Name="BaseElements.IntermediateCatchSignal1.Caption" Value="Ожидание изминения состояния на &quot;Отменен, подтвержден&quot;" />
+			<Item Name="BaseElements.IntermediateCatchSignal1.Parameters.RecordId.Caption" Value="Id записи" />
+			<Item Name="BaseElements.IntermediateCatchSignal1.Parameters.RecordId.DisplayValue" Value="[#Заказ#]" />
+			<Item Name="BaseElements.IntermediateCatchSignal2.Caption" Value="Ожидание изминения состояния на &quot;Отменен, подтвержден&quot; - Копия" />
+			<Item Name="BaseElements.IntermediateCatchSignal2.Parameters.RecordId.Caption" Value="Id записи" />
+			<Item Name="BaseElements.IntermediateCatchSignal2.Parameters.RecordId.DisplayValue" Value="[#Заказ#]" />
+			<Item Name="BaseElements.IntermediateCatchSignal3.Caption" Value="Ожидание изминения состояния на &quot;Отменен, подтвержден&quot; - Копия - Копия" />
+			<Item Name="BaseElements.IntermediateCatchSignal3.Parameters.RecordId.Caption" Value="Id записи" />
+			<Item Name="BaseElements.IntermediateCatchSignal3.Parameters.RecordId.DisplayValue" Value="[#Заказ#]" />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Caption" Value="Время подтверждения заказа" />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Parameters.StartOffset.Caption" Value="Стартовать через (сек)" />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Parameters.StartOffset.DisplayValue" Value="[#Системная настройка.Время подтверждения заказа#]" />
+			<Item Name="BaseElements.IntermediateCatchTimer2.Caption" Value="Время подтверждения заказа - Копия" />
+			<Item Name="BaseElements.IntermediateCatchTimer2.Parameters.StartOffset.Caption" Value="Стартовать через (сек)" />
+			<Item Name="BaseElements.IntermediateCatchTimer2.Parameters.StartOffset.DisplayValue" Value="[#Системная настройка.Время подтверждения заказа#]" />
+			<Item Name="BaseElements.IntermediateCatchTimer3.Caption" Value="Время подтверждения заказа - Копия - Копия" />
+			<Item Name="BaseElements.IntermediateCatchTimer3.Parameters.StartOffset.Caption" Value="Стартовать через (сек)" />
+			<Item Name="BaseElements.IntermediateCatchTimer3.Parameters.StartOffset.DisplayValue" Value="[#Системная настройка.Время подтверждения заказа#]" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать заказ" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="Читать Контакт" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Отправка SMS 1" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Activity.Caption" Value="Создана активность" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Case.Caption" Value="Обращение" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Contact.DisplayValue" Value="[#Читать заказ.Первый элемент результирующей коллекции.Контакт#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Order.Caption" Value="Заказ" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Order.DisplayValue" Value="[#Заказ#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Phone.Caption" Value="Телефон" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Phone.DisplayValue" Value="[#Читать заказ.Первый элемент результирующей коллекции.Номер для уведомлений#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Text.Caption" Value="Текст" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Text.DisplayValue" Value="[#Читать Контакт.Первый элемент результирующей коллекции.Имя#]+&quot;! Ми не можемо до Вас додзвонитися. Замовлення №&quot; + [#Читать заказ.Первый элемент результирующей коллекции.Номер#] + &quot; буде скасовано через 24 години. За більш детальною інформацією зверніться за номером 0800303700.&quot;" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrExceptionText.Caption" Value="Код ошибки" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ViberText.Caption" Value="Текст для viber" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ViberText.DisplayValue" Value="[#Читать Контакт.Первый элемент результирующей коллекции.Имя#] + &quot;! Ми не можемо до Вас додзвонитися(sad)\nЗамовлення №&quot; + [#Читать заказ.Первый элемент результирующей коллекции.Номер#] + &quot; буде скасовано через 24 години\nЗа більш детальною інформацією зверніться за номером 0800303700.&quot;" />
+			<Item Name="BaseElements.SubProcess2.Caption" Value="Отправка SMS Рус" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Activity.Caption" Value="Создана активность" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Case.Caption" Value="Обращение" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Contact.DisplayValue" Value="[#Читать заказ.Первый элемент результирующей коллекции.Контакт#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Order.Caption" Value="Заказ" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Order.DisplayValue" Value="[#Заказ#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Phone.Caption" Value="Телефон" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Phone.DisplayValue" Value="[#Читать заказ.Первый элемент результирующей коллекции.Номер для уведомлений#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Text.Caption" Value="Текст" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Text.DisplayValue" Value="[#Читать Контакт.Первый элемент результирующей коллекции.Имя#] + &quot;! Мы не можем к Вам дозвониться. Заказ №&quot;+ [#Читать заказ.Первый элемент результирующей коллекции.Номер#] +&quot; будет отменен в течение 24 часов. За более детальной информацией обратитесь по номеру 0800303700.&quot;" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrExceptionText.Caption" Value="Код ошибки" />
+			<Item Name="BaseElements.SubProcess2.Parameters.ViberText.Caption" Value="Текст для viber" />
+			<Item Name="BaseElements.SubProcess2.Parameters.ViberText.DisplayValue" Value="[#Читать Контакт.Первый элемент результирующей коллекции.Имя#] + &quot;! Мы не можем к Вам дозвониться(sad)\nЗаказ №&quot; + [#Читать заказ.Первый элемент результирующей коллекции.Номер#] + &quot; будет отменен в течение 24 часов(time)\nЗа более детальной информацией обратитесь по номеру 0800303700.&quot;" />
+			<Item Name="Caption" Value="Отмена заказа" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.ProcessSchemaParameter1.Caption" Value="Заказ" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,42 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "3463ca37-7483-49e2-a526-c574581fa7f6",
+          "ColumnName": "Id",
+          "Value": "dd9f1fe4-b7f8-454e-b0a9-b9d56da44f97"
+        },
+        {
+          "SchemaColumnUId": "723eed02-d25b-445e-8d1b-b10fbfef4e42",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "84247f72-6888-41a8-9eeb-5077d36f0b48",
+          "ColumnName": "Name",
+          "Value": "Webitel Callback DailerId"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "3463ca37-7483-49e2-a526-c574581fa7f6",
+          "ColumnName": "Id",
+          "Value": "dcffdd7e-219e-4afc-a659-ffa55f6ad577"
+        },
+        {
+          "SchemaColumnUId": "723eed02-d25b-445e-8d1b-b10fbfef4e42",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "84247f72-6888-41a8-9eeb-5077d36f0b48",
+          "ColumnName": "Name",
+          "Value": "Получение сообщений e-mail с service desk"
+        }
+      ]
+    }
+  ]
+}

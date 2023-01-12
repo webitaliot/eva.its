@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f48744e3-2c0c-439e-bffa-3a961aa32200",
+    "Name": "UsrTalkScript",
+    "ModifiedOnUtc": "\/Date(1489148443000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Скрыпти разговоров для операторов",
+    "DependsOn": []
+  }
+}

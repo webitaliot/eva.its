@@ -1,0 +1,66 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "6c0ee82e-f6f8-4b9b-893b-afdd59bf3f93",
+          "DisplayValue": "Предложения клиента"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "dbab385f-aaa7-4eab-b957-868867115a32"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Предложения"
+        }
+      ]
+    }
+  ]
+}

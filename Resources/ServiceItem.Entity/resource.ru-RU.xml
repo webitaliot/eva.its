@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrMode.Caption" Value="Тональность" />
+			<Item Name="Columns.UsrNotFiltred.Caption" Value="Не фильтруемое" />
+		</Items>
+	</Group>
+</Resources>

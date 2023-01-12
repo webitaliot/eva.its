@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a2192914-f3fc-4e09-9d5a-a2e58acb379f",
+    "Name": "UsrTestNotifi1305",
+    "ModifiedOnUtc": "\/Date(1557759752000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Тест нотификаций 13 05",
+    "DependsOn": []
+  }
+}

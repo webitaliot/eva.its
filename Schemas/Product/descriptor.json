@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "b756949e-5eba-4efa-8c3d-9eed877a2b8e",
+    "Name": "Product",
+    "ModifiedOnUtc": "\/Date(1525960352000)\/",
+    "Parent": {
+      "UId": "4c7a6ead-4eb8-4fc0-863e-98a664569fed",
+      "Name": "Product"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Продукт",
+    "DependsOn": []
+  }
+}

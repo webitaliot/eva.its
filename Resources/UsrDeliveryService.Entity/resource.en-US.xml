@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrDeliveryType.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrERPCode.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrIMCode.Caption" Value="Column 1" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a4f67979-35b3-4734-a189-4daa55a1cfcd",
+    "Name": "UsrTakeInWorkNPSActivityFromOW",
+    "ModifiedOnUtc": "\/Date(1579689807000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Взятие в работу NPS активности из ЕО",
+    "DependsOn": []
+  }
+}

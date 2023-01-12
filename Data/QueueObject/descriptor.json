@@ -1,0 +1,42 @@
+﻿{
+  "Descriptor": {
+    "UId": "4398903e-5664-4dce-8e7a-d3f2800d31f7",
+    "Name": "QueueObject",
+    "ModifiedOnUtc": "\/Date(1498567643000)\/",
+    "InstallType": 1,
+    "Schema": {
+      "UId": "3117ccf2-594f-437b-8ce9-2a97314af997",
+      "Name": "QueueObject"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "4bbc9bbf-2d29-4b8f-a9b2-a57deb7f4587",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "IsClosedQueue",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "3d9651ba-a619-4e15-bea4-88c03f624f40",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "EntitySchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "744e6a8f-4792-4153-a7af-d913c8aab620",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "EntitySchemaCaption",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      }
+    ]
+  }
+}

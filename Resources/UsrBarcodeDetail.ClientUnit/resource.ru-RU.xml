@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Деталь &quot;Бар-код&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Бар-коды" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7737f7de-c365-4c03-9709-9e1af982bb15",
+    "Name": "UsrUploadToProccessingOnAddressChange",
+    "ModifiedOnUtc": "\/Date(1571757621000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Запуск выгрузки контакта в процессинг при изменении Адреса",
+    "DependsOn": []
+  }
+}

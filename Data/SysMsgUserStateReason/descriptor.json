@@ -1,0 +1,56 @@
+﻿{
+  "Descriptor": {
+    "UId": "3867d856-90a4-4044-8508-4e12939b8444",
+    "Name": "SysMsgUserStateReason",
+    "ModifiedOnUtc": "\/Date(1501493807000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "1a286a70-31d9-40f9-9583-7e81ccf743a1",
+      "Name": "SysMsgUserStateReason"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Code",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "59993ff0-1373-4acf-9eff-e2cec861f065",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Image",
+        "DataTypeValueUId": "b039feb0-ee7c-4884-8aa6-d6d45d84316f"
+      },
+      {
+        "ColumnUId": "eadd9d6f-9fe1-46fc-87a8-9167c91ae635",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SysMsgUserState",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}

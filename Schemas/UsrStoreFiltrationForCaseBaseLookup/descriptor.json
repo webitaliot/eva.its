@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "cd651cc1-ac37-4153-be72-47cc374389b6",
+    "Name": "UsrStoreFiltrationForCaseBaseLookup",
+    "ModifiedOnUtc": "\/Date(1590675821000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "StoreFiltrationForCaseBaseLookup",
+    "DependsOn": []
+  }
+}

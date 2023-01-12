@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4df546d5-3c26-4cbd-86b8-b82ef3bacaf8",
+    "Name": "UsrCallEvaluationFolder",
+    "ModifiedOnUtc": "\/Date(1528985607000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Оценивание Звонка",
+    "DependsOn": []
+  }
+}

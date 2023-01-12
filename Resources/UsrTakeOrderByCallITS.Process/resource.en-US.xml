@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalFlow1.Caption" Value="New contact added" />
+			<Item Name="BaseElements.ConditionalFlow2.Caption" Value="No" />
+			<Item Name="BaseElements.ConditionalFlow3.Caption" Value="Yes" />
+			<Item Name="BaseElements.ContactIdentification.Caption" Value="Run contact identification sub-process" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.AccountId.Caption" Value="Account" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.AccountId.DisplayValue" Value="[#Account#]" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.AccountSelected.Caption" Value="Account selected" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.ContactId.Caption" Value="Contact" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.ContactId.DisplayValue" Value="[#Contact#]" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.CreateContactButtonCaption.Caption" Value="New contact caption button" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.CreateContactButtonCaption.DisplayValue" Value="&quot;Add order and contact&quot;" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.DefaultContactName.Caption" Value="Default contact name" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.IsCaseIncluded.Caption" Value="Search by case" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.NewContact.Caption" Value="New contact" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.PhoneNumber.Caption" Value="Phone" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.PhoneNumber.DisplayValue" Value="[#Phone#]" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.SearchDetailSelectButtonCaption.Caption" Value="Select button caption on the search detail" />
+			<Item Name="BaseElements.ContactIdentification.Parameters.SearchDetailSelectButtonCaption.DisplayValue" Value="&quot;New order&quot;" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Caption" Value="Open new order edit page" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Account.DisplayValue" Value="[#Run contact identification sub-process.Account#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.DisplayValue" Value="To do" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contact.DisplayValue" Value="[#Run contact identification sub-process.Contact#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.DisplayValue" Value="15" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.DisplayValue" Value="1. Specify products in order;&#xA;2. Fill in the order execution schedule;&#xA;3. Specify the delivery and payment information;&#xA;4. Get the confirmation from customer that all the specified information is correct." />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.Value" Value="1. Specify products in order;&#xA;2. Fill in the order execution schedule;&#xA;3. Specify the delivery and payment information;&#xA;4. Get the confirmation from customer that all the specified information is correct." />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.DisplayValue" Value="[#System variable.Contact of current user#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.DisplayValue" Value="Enter the order information" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Value" Value="Enter the order information" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Caption" Value="Open contact edit page" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.Account.DisplayValue" Value="[#Run contact identification sub-process.Account#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.ActivityCategory.DisplayValue" Value="To do" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.Contact.DisplayValue" Value="[#Run contact identification sub-process.Contact#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.Duration.DisplayValue" Value="15" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.DurationPeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.OwnerId.DisplayValue" Value="[#System variable.Contact of current user#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.Recommendation.DisplayValue" Value="Fill in contact data" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.Recommendation.Value" Value="Fill in contact data" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.RecordId.DisplayValue" Value="[#Run contact identification sub-process.Contact#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.RemindBeforePeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.ShowInScheduler.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenEditPageUserTask2.Parameters.StartInPeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.SubProcess1.Parameters.AccountId.Caption" Value="Account" />
+			<Item Name="BaseElements.SubProcess1.Parameters.AccountSelected.Caption" Value="Account selected" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ContactId.Caption" Value="Contact" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CreateContactButtonCaption.Caption" Value="New contact caption button" />
+			<Item Name="BaseElements.SubProcess1.Parameters.IsCaseIncluded.Caption" Value="Search by case" />
+			<Item Name="BaseElements.SubProcess1.Parameters.NewContact.Caption" Value="New contact" />
+			<Item Name="BaseElements.SubProcess1.Parameters.PhoneNumber.Caption" Value="Phone" />
+			<Item Name="BaseElements.SubProcess1.Parameters.SearchDetailSelectButtonCaption.Caption" Value="Select button caption on the search detail" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Caption" Value="Edit contact data?" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Account.DisplayValue" Value="[#Run contact identification sub-process.Account#]" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ActivityCategory.DisplayValue" Value="To do" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Contact.DisplayValue" Value="[#Run contact identification sub-process.Contact#]" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Duration.DisplayValue" Value="15" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.DurationPeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Event.Caption" Value="Event" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.OwnerId.DisplayValue" Value="[#System variable.Contact of current user#]" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Question.Value" Value="Edit contact data?" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Recommendation.DisplayValue" Value="Edit contact data?" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Recommendation.Value" Value="Edit contact data?" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="true" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.StartInPeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.WindowCaption.Value" Value="Answer selection page - &quot;Edit contact data?&quot;" />
+			<Item Name="Caption" Value="New order via CTI panel (upon incoming call)" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="Creating case" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Operator" />
+			<Item Name="Parameters.AccountId.Caption" Value="Account" />
+			<Item Name="Parameters.ContactId.Caption" Value="Contact" />
+			<Item Name="Parameters.IsNewContact.Caption" Value="New contact" />
+			<Item Name="Parameters.PhoneNumber.Caption" Value="Phone" />
+		</Items>
+	</Group>
+</Resources>

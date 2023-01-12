@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Email ответственного по магазину" />
+			<Item Name="Columns.UsrAccountCode.Caption" Value="Код магазина" />
+			<Item Name="Columns.UsrFullName.Caption" Value="СВ ФИО" />
+			<Item Name="Columns.UsrStoreEmail.Caption" Value="Почта магазина" />
+			<Item Name="Columns.UsrSVEmail.Caption" Value="СВ почта" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

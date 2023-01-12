@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8c99376c-6323-4235-bb52-4bb4704faea9",
+    "Name": "UsrCaseSolutionChange",
+    "ModifiedOnUtc": "\/Date(1526304970000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Решено обращение",
+    "DependsOn": []
+  }
+}

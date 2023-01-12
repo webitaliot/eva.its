@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Card schema: &quot;Оценивание Звонка&quot;" />
+			<Item Name="LocalizableStrings.BOOLEAN0324f99a3db34afe8297ec8fb3cea865LabelCaption.Value" Value="Допущена некритичная неточность  для конкретной ситуации" />
+			<Item Name="LocalizableStrings.BOOLEAN09f415b0f2cc4a11bf3ff4140f88c21fLabelCaption.Value" Value="Не говорит о сроках выполнения заявлений, доставки отправленной информации" />
+			<Item Name="LocalizableStrings.BOOLEAN0dad1b22c55e4ef2be9a2a064b457087LabelCaption.Value" Value="Отсутствует внимание, заинтересованность, старание помочь решить вопросы клиента" />
+			<Item Name="LocalizableStrings.BOOLEAN0f75ea6bd9d049eeb2d2fb8cdf6840a8LabelCaption.Value" Value="НЕ опирается на информацию проверенную в программах" />
+			<Item Name="LocalizableStrings.BOOLEAN170f370056d546dcb72ed12238326365LabelCaption.Value" Value="Предложены неуместные варианты решений без привязки к ситуации клиента" />
+			<Item Name="LocalizableStrings.BOOLEAN17aa9267f0194d4186f52f5c3e91a482LabelCaption.Value" Value="Неуместное перебивание клиента / разговаривает одновременно с клиентом" />
+			<Item Name="LocalizableStrings.BOOLEAN1819a08bfc784d13b6e2ea2297f588d7LabelCaption.Value" Value="Хаотично отвечает, не разделяет разноплановые проблемы / вопросы на части" />
+			<Item Name="LocalizableStrings.BOOLEAN19e4f55b46894f3fb8599f8f5f3d869bLabelCaption.Value" Value="Не отвечает сразу на прямой вопрос клиента, переходит к детальным пояснениям/выяснениям" />
+			<Item Name="LocalizableStrings.BOOLEAN1f9ccf8961ab43959120511af0c9c01aLabelCaption.Value" Value="Не использует для проверки информации / подтверждения слов клиента внутренние программы " />
+			<Item Name="LocalizableStrings.BOOLEAN206b1fd9cf5d4239ae41c814b75e048cLabelCaption.Value" Value="Звучит ирония, сарказм" />
+			<Item Name="LocalizableStrings.BOOLEAN23ea7d20b4f443d8a5b7ab5e182abec5LabelCaption.Value" Value="Недостаточно информации (в  т.ч. и по инструкциям, схемам, механикам)" />
+			<Item Name="LocalizableStrings.BOOLEAN27958a68324a46fd9ed964a2509bf97fLabelCaption.Value" Value="Нарушены Правила предоставления информации" />
+			<Item Name="LocalizableStrings.BOOLEAN2909869b74ff45239a8acf517ff333feLabelCaption.Value" Value="Неуместное уточнение номера, по которому интересует информация" />
+			<Item Name="LocalizableStrings.BOOLEAN2993177ce9d4444c9b1e81939b73f1aaLabelCaption.Value" Value="При поиске информации пауза более 30 секунд из-за долгой загрузки внутренних программ" />
+			<Item Name="LocalizableStrings.BOOLEAN2fbaf35f99cb4ec4a06e20eb85dae883LabelCaption.Value" Value="Не предложены альтернативные варианты решения." />
+			<Item Name="LocalizableStrings.BOOLEAN359305a6d864452086267ac07be5b6b5LabelCaption.Value" Value="Фиксируется предыдущее обращение" />
+			<Item Name="LocalizableStrings.BOOLEAN3a5b0e22820a4daeb4beb68896a5d627LabelCaption.Value" Value="При общем вопросе клиента, не конкретизирует его, сразу приступает к ответу" />
+			<Item Name="LocalizableStrings.BOOLEAN3bb367e2a93646a1b4e7442c9a9b16eaLabelCaption.Value" Value="При поиске информации пауза более 30 секунд (вопрос типовый)" />
+			<Item Name="LocalizableStrings.BOOLEAN3cf90874bec94e3a89b7917295300fb5LabelCaption.Value" Value="Не было знакомства или уточнения пользователя" />
+			<Item Name="LocalizableStrings.BOOLEAN45bf3a320ed94da8a3063fb2e30dc551LabelCaption.Value" Value="Не хватает слов вежливости" />
+			<Item Name="LocalizableStrings.BOOLEAN4cf5ba3e59534eb58ddb057e9992a1d2LabelCaption.Value" Value="Не применяется резюмирование / подведение итогов, а это было необходимо" />
+			<Item Name="LocalizableStrings.BOOLEAN4e8db8cecd5943c59bb525cb603cf324LabelCaption.Value" Value="Неуважение, некорректное отношение к клиенту" />
+			<Item Name="LocalizableStrings.BOOLEAN51f7c4ef3af14985b1164ef080a500fdLabelCaption.Value" Value="Неграмотная речь" />
+			<Item Name="LocalizableStrings.BOOLEAN56ca448266644eb8bc6d8fa4f845ecb7LabelCaption.Value" Value="Не слышно в голосе искреннего позитива, доброжелательности и уважительного отношения к клиенту" />
+			<Item Name="LocalizableStrings.BOOLEAN5eb000e51dcd4a678b360d7c9d0ee9f6LabelCaption.Value" Value="Используются поучающие фразы / слова" />
+			<Item Name="LocalizableStrings.BOOLEAN64298e0928674b4bb89a6ba20465b3adLabelCaption.Value" Value="Неуместное повторение информации" />
+			<Item Name="LocalizableStrings.BOOLEAN6537ebecd5aa4a6d92ce2987cda9380fLabelCaption.Value" Value="Речь существенно быстрее скорости речи клиента" />
+			<Item Name="LocalizableStrings.BOOLEAN654bd45f98d649c8986690ecd9a75837LabelCaption.Value" Value="Не соответствует  принятым инструкциям, схемам, механикам" />
+			<Item Name="LocalizableStrings.BOOLEAN6737255c72fb4186a2074638b2db4c01LabelCaption.Value" Value="Слышны неэтичные звуки" />
+			<Item Name="LocalizableStrings.BOOLEAN681294dd89604dd0ab568f0017d26945LabelCaption.Value" Value="Переспрашивает из-за того, что невнимательно слушает" />
+			<Item Name="LocalizableStrings.BOOLEAN6a21fecf23c6443d8514384777934e28LabelCaption.Value" Value=" Не направляет разговор в конструктивное русло" />
+			<Item Name="LocalizableStrings.BOOLEAN6f461ea27e4c49b386ba746cb6a39f40LabelCaption.Value" Value="Неуважение, некорректное отношение к клиенту" />
+			<Item Name="LocalizableStrings.BOOLEAN78e446b9da594f65aa32a71944c72770LabelCaption.Value" Value="Предоставляет ответ неуверенно" />
+			<Item Name="LocalizableStrings.BOOLEAN7977ae3eb0174f809ca0c37f2a56a1adLabelCaption.Value" Value="Регистрирует неправильно информацию о клиенте в ПК" />
+			<Item Name="LocalizableStrings.BOOLEAN7a060fc292dd44c385f06302cd0074adLabelCaption.Value" Value="Нет активного слушанья" />
+			<Item Name="LocalizableStrings.BOOLEAN7b95fa86f5454ea895c062c2a445d58dLabelCaption.Value" Value="Не уточняется  вся необходимая для постановки «диагноза» информация при работе с жалобами" />
+			<Item Name="LocalizableStrings.BOOLEAN81ea4a2889b04341bce8ce31581d47d9LabelCaption.Value" Value="Игнорирует важные комментарии клиента" />
+			<Item Name="LocalizableStrings.BOOLEAN8271dd5069be4a74903fe35ff1c90c24LabelCaption.Value" Value="Не было ответа на часть вопросов клиента" />
+			<Item Name="LocalizableStrings.BOOLEAN8a207ce9c3dc45b4b29e564cc7184c05LabelCaption.Value" Value="Задаются лишние вопросы" />
+			<Item Name="LocalizableStrings.BOOLEAN8e4d6a80406d426395c9dfa70dd20d17LabelCaption.Value" Value="Неуместная, громоздкая связка между этапами разговора" />
+			<Item Name="LocalizableStrings.BOOLEAN8fbab702704f4b13b4ba653d55a9bc9bLabelCaption.Value" Value="Постоянно оговаривается и исправляется " />
+			<Item Name="LocalizableStrings.BOOLEAN91a3b0f82075429186591c1a0df64772LabelCaption.Value" Value="Не хватает умелого общения во время коротких пауз" />
+			<Item Name="LocalizableStrings.BOOLEAN94c9a7209df64829a625477041206a83LabelCaption.Value" Value="Изначально ответ неправильный, но по ходу упущения исправлены и предоставляется правильный ответ" />
+			<Item Name="LocalizableStrings.BOOLEAN961de5e1f62e49edbc618638dd14aa5aLabelCaption.Value" Value="Неуважение, некорректное отношение к клиенту" />
+			<Item Name="LocalizableStrings.BOOLEAN9740817b19c840109dd9544479e76c10LabelCaption.Value" Value="Прощание не соответствует стандарту " />
+			<Item Name="LocalizableStrings.BOOLEAN9815823cac1d4cb2a97891991974886fLabelCaption.Value" Value="Неуважение, некорректное отношение к клиенту" />
+			<Item Name="LocalizableStrings.BOOLEAN989bba9710ae438f9968d5ac8b329c2cLabelCaption.Value" Value="Неуважение, некорректное отношение к клиенту" />
+			<Item Name="LocalizableStrings.BOOLEAN997019b4a8d74361859a98cd58444c13LabelCaption.Value" Value="В целом демонстрирует нейтральное отношение, местами проявляет позитив, заинтересованность помочь, доброжелательность " />
+			<Item Name="LocalizableStrings.BOOLEAN9aef7191a46b43ff85d5fab3ad492a2aLabelCaption.Value" Value="Неуважение, некорректное отношение к клиенту" />
+			<Item Name="LocalizableStrings.BOOLEAN9e96fe7dbd7f4ad19882ebf40ec53273LabelCaption.Value" Value="Неумелое знакомство, знакомство во второй половине разговора" />
+			<Item Name="LocalizableStrings.BOOLEANa0589d4695564e7b90840027c5784491LabelCaption.Value" Value="Обращение к клиенту на «Ты»" />
+			<Item Name="LocalizableStrings.BOOLEANa42e2219ebe747c780cf72d7eb2d6989LabelCaption.Value" Value="Монолог эксперта." />
+			<Item Name="LocalizableStrings.BOOLEANa4339df15d8d4a83ac8b4f835b6fbab8LabelCaption.Value" Value="Много информации, без выяснения нужна она клиенту" />
+			<Item Name="LocalizableStrings.BOOLEANa87d86e2eb434e16a5b4e02b86b283a0LabelCaption.Value" Value="Много информации без выяснения нужна она клиенту, но это некритично для длительности разговора " />
+			<Item Name="LocalizableStrings.BOOLEANa8e9f65468ac49d0b370aa9a312565f0LabelCaption.Value" Value="Регистрирует обращение неправильно" />
+			<Item Name="LocalizableStrings.BOOLEANa984fdecbe8b4fe48d4d63449636d189LabelCaption.Value" Value=" Не опирается на предыдущие зарегистрированные обращения клиента" />
+			<Item Name="LocalizableStrings.BOOLEANa9f99480fbdc4a2ab6d4ce1be698014cLabelCaption.Value" Value="Произношение слов нечеткое, глотаются окончания" />
+			<Item Name="LocalizableStrings.BOOLEANb02e3cb5bb804b89b570ece89e27bff1LabelCaption.Value" Value="Клиент сам вытягивает информацию или подталкивает эксперта к решению вопроса" />
+			<Item Name="LocalizableStrings.BOOLEANb42276a4da21465e9b46609c1d5acf80LabelCaption.Value" Value="Ответ неправельный" />
+			<Item Name="LocalizableStrings.BOOLEANb5a614820fe6477b902b7b9f6ed48c6bLabelCaption.Value" Value="Отсутствует связка между этапами разговора" />
+			<Item Name="LocalizableStrings.BOOLEANb7eb968109384cea9695a6142e4e405eLabelCaption.Value" Value="Приводит неуместные аргументы/пояснения" />
+			<Item Name="LocalizableStrings.BOOLEANc53c3c172b4e464ea884db570d1dac22LabelCaption.Value" Value="Не хватает вначале разговора переходной фразы" />
+			<Item Name="LocalizableStrings.BOOLEANc8ff09a3423041f3a5e32e0ef4c65f0dLabelCaption.Value" Value="Не используется язык, зафиксированный в ПК, если абонент говорит на суржике" />
+			<Item Name="LocalizableStrings.BOOLEANcd5450ecb31c4338a9ac9f685f0274edLabelCaption.Value" Value="Игнорирует возражения клиента, на которые важно было ответить" />
+			<Item Name="LocalizableStrings.BOOLEANd10f414e7b964e2182075bcff27e9601LabelCaption.Value" Value="Отсутствует логическая цепочка в задаваемых вопросах или пояснениях" />
+			<Item Name="LocalizableStrings.BOOLEANd22b8c148fc64f13b61a0c0949762c7aLabelCaption.Value" Value="Отсутствует переход на язык общения клиента" />
+			<Item Name="LocalizableStrings.BOOLEANd6002123d55044be903d0ab6c4714f5dLabelCaption.Value" Value="Постоянно делает паузы (3 и более коротких)" />
+			<Item Name="LocalizableStrings.BOOLEANd8feb767f7e04cdaa5970dc4da62266bLabelCaption.Value" Value="Дефект речи" />
+			<Item Name="LocalizableStrings.BOOLEANe0408caf4f0947a9a70c97ddac2a03e7LabelCaption.Value" Value="Приветствие" />
+			<Item Name="LocalizableStrings.BOOLEANe2354ed2fef646058f32538bebdbb338LabelCaption.Value" Value="Отсутствует регистрация обращения" />
+			<Item Name="LocalizableStrings.BOOLEANe6f6885c36414eafaa5ee71c0f5499f0LabelCaption.Value" Value="Ответ неправильный" />
+			<Item Name="LocalizableStrings.BOOLEANe940777a8ec947aa8df53c5a09b144a0LabelCaption.Value" Value="Резкое отклонение в темпе в одном предложении / фразе " />
+			<Item Name="LocalizableStrings.BOOLEANeb609153ee8e4e40adaa77a1d1ee284bLabelCaption.Value" Value="Речь существенно медленнее скорости речи клиента" />
+			<Item Name="LocalizableStrings.BOOLEANecd003af8afe4117a986c5ff3682024bLabelCaption.Value" Value="Сложности с  русским языком" />
+			<Item Name="LocalizableStrings.BOOLEANedd858d40a1244e4802ff680a26f1e1dLabelCaption.Value" Value="Прощание громоздкое" />
+			<Item Name="LocalizableStrings.BOOLEANee0e2356334d407882f48357e692f937LabelCaption.Value" Value="Неуместные, громоздкие переходные фразы вначале разговора" />
+			<Item Name="LocalizableStrings.BOOLEANee4d367b448a498fb72ce8d4b25111bdLabelCaption.Value" Value="Неуважение, некорректное отношение к клиенту" />
+			<Item Name="LocalizableStrings.BOOLEANefcea89f8a0f47a5b994f4abd409ca0cLabelCaption.Value" Value="Клиент дал понять, что не понимает, эксперт не отреагировал" />
+			<Item Name="LocalizableStrings.BOOLEANf2d8ae9093e94e75a519e2fea64a9702LabelCaption.Value" Value="Чрезмерное использование терминологии" />
+			<Item Name="LocalizableStrings.BOOLEANf9640e1eb5ff436f8a15c608d6645693LabelCaption.Value" Value="Ответ неправильный" />
+			<Item Name="LocalizableStrings.BOOLEANfa38841518e04097a3a54c99644a8200LabelCaption.Value" Value="Не хватает четкости" />
+			<Item Name="LocalizableStrings.BOOLEANfacbc8b5e9b3427fa36d37864d8dddffLabelCaption.Value" Value="Не хватает доброжелательности" />
+			<Item Name="LocalizableStrings.BOOLEANfcb5c5e3bd264b958e411620e7b08966LabelCaption.Value" Value="Присутствуют слова-паразиты" />
+			<Item Name="LocalizableStrings.BOOLEANfe4c0cbc146647a79df44b906d8f1130LabelCaption.Value" Value="Не уточняется номер, по которому интересует информация" />
+			<Item Name="LocalizableStrings.BOOLEANff7a3d1ffd4f45c5991d2ac75c2a8a3aLabelCaption.Value" Value="Общение монотонное, отстраненное" />
+			<Item Name="LocalizableStrings.INTEGER02d1c41431d04d6ca8819f2ecc4eef98LabelCaption.Value" Value="Оценка за темп речи" />
+			<Item Name="LocalizableStrings.INTEGER0781b73d1ddc4e2683fc0540591d9bc7LabelCaption.Value" Value="Оценка за естественое общение" />
+			<Item Name="LocalizableStrings.INTEGER0a3f7a4a74e24f2aa26530ae4080456bLabelCaption.Value" Value="Оценка за понятное объяснение" />
+			<Item Name="LocalizableStrings.INTEGER128e52c542b444b5a413015586ffdf5cLabelCaption.Value" Value="Оценка за переход на один язык с клиентом" />
+			<Item Name="LocalizableStrings.INTEGER14c31f1a363b443a84c7aab56465bfe4LabelCaption.Value" Value="Оценка за вежливость" />
+			<Item Name="LocalizableStrings.INTEGER2a9b218af55946dfa248deb56f050d67LabelCaption.Value" Value="Итоговая оценка за Проактивность" />
+			<Item Name="LocalizableStrings.INTEGER3b8160f8aec54dc48cf08aafead2fb14LabelCaption.Value" Value="Оценка за правильность" />
+			<Item Name="LocalizableStrings.INTEGER3b856c38e2f542ccbabae49b844cc667LabelCaption.Value" Value="Оценка за Отношение к клиенту" />
+			<Item Name="LocalizableStrings.INTEGER5d2fd19a0b5740e5b77f12c802dff0d3LabelCaption.Value" Value="Итоговая оценка за Приветствие" />
+			<Item Name="LocalizableStrings.INTEGER6ada87509ba446288f6df1a2e24db1fdLabelCaption.Value" Value="Оценка за необходимый объем" />
+			<Item Name="LocalizableStrings.INTEGER7b8f81dd56ba42db8d3e6add24d071dbLabelCaption.Value" Value="Общая оценка за разговор" />
+			<Item Name="LocalizableStrings.INTEGER7d0b4a6fcac64cabb4ff8232cdd9df9fLabelCaption.Value" Value="Итоговая Оценка за Тональность" />
+			<Item Name="LocalizableStrings.INTEGER83e9fe7695bb4506b0f3543c11e3c0c9LabelCaption.Value" Value="Оценка за Приветствие" />
+			<Item Name="LocalizableStrings.INTEGER92a2df14e5be4aca8831d58fbd87c61eLabelCaption.Value" Value="Оценка за регистрацию обращения" />
+			<Item Name="LocalizableStrings.INTEGER9fa63e9e1d3e4d9da65594704a29b09aLabelCaption.Value" Value="Итоговая оценка за Процедурная часть" />
+			<Item Name="LocalizableStrings.INTEGERaa8becef5fb74d0f8fdd9214939bf2f3LabelCaption.Value" Value="оценка за разговор в режиме диалога/Активная позиция в разговоре" />
+			<Item Name="LocalizableStrings.INTEGERadbd9a055e964ff0ab40d39a308df03fLabelCaption.Value" Value="Оценка за работу с возражениями. Предложение вариантов решения." />
+			<Item Name="LocalizableStrings.INTEGERb0ec4043547e44b3ae075a39c6d09c54LabelCaption.Value" Value="Оценка за уточнение в течение всего разговора" />
+			<Item Name="LocalizableStrings.INTEGERc1b8235e550b49d3a9d8bd82c496d592LabelCaption.Value" Value="Оценка за ответ уверенный  и без пауз" />
+			<Item Name="LocalizableStrings.INTEGERc8f653e06fe74578b892326b5614f893LabelCaption.Value" Value="Итоговая оценка за Общение" />
+			<Item Name="LocalizableStrings.INTEGERd23748f15c844d4baee89cc952849382LabelCaption.Value" Value="Оценка за грамотность и культуру речи" />
+			<Item Name="LocalizableStrings.INTEGERdb701c669088419f8453f420f0dcbcaaLabelCaption.Value" Value="Итоговая оценка за Отношение к клиенту" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Файлы и примечания" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Примечания" />
+			<Item Name="LocalizableStrings.STRING01987016c8ab46fb895cf440dae71137LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING021dec32e99248b587ebe3c302337d7eLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING07e25e43ee2549c7bfc23e247aa95e87LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING0beaaf5cac3040309ff183a11a913da0LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING0ca7ffed24fd4a6da29d76ffa25d8286LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING14cbe24de6b848f3b77d3db10f0f334eLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING1854de2b66c846109f05785d52cbe0f1LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING1a7beef5ac004c1ca1d36023d407b33cLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING1b8c442b51c7442f8fb26cb664903321LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING1ba74492b5cd4fd6855c895736cd3f74LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING1dd74d11e346461da206ed3f5a28cb9cLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING1e5217f33bb94e4d87304b0d4881392aLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING216f43b3202d4d779822d832d39c243eLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING229fcb61760f4cea82ecd2c862d46efaLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING23f4fcaf13f045a1b4846f38b29e91beLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING2861219770b44f6f9b7856371d2f9231LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING28ccdf3150f848faa914641a609f6a4bLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING2936a695b949441fa49531da3d49b832LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING2c702d12995f45fa9aa0ceec304c1cffLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING2d74b222dc734a2aa9d72f7527e39ba3LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING2dd56fba089044f6945e5d8515698140LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING2eebfdf192d74eaabf3d548e1313ded6LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING33047fd10b934f178f4e95be4a36220fLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING34a91613be7a44099cf7ccf8a5c2e1cfLabelCaption.Value" Value="Итоговый комментарий" />
+			<Item Name="LocalizableStrings.STRING3990da47ed594953a2be718fdd6856e3LabelCaption.Value" Value="Итоговый комментарий" />
+			<Item Name="LocalizableStrings.STRING3a7b0bce8b9343ca855f97e4854abc53LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING3d12a595938a4e71b242868c8dec5720LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING3e401263fe584f7ab82bd11b6bd8d658LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING402a8340b92c43dbb8ef9b03751257eaLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING42d5c632f897424c82b8da07ae6ccd0fLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING440718c9e40a4b549e16a7a3c8920b40LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING44505f6b49ef4e49b49fdc009c6c3880LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING4579da84d3c94b80ae2822d89b0d6462LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING4ecaf27066504be1be1628da10edb91bLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING50b65a4420174611a30bafabba5a4596LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING518c1edaa4374bdb9496585875e4490bLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING562b64b476444bc4b76ea580ed7b9d32LabelCaption.Value" Value="Итоговый комментарий" />
+			<Item Name="LocalizableStrings.STRING59a3d11f8443418483ea65d277daee7bLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING5af2d5d4844b4e51b482d7e79354632dLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING5f31571cc0dc4b9a94dd0c15facab6baLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING6071f0b42c1d4a8a89b98b48f61bb491LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING60d93f88386d45d28359516b47906d9cLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING632b3f3bd3184f67a75e20315b817477LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING640fe163a229490db4216991309284d1LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING645d7a8299b24adbae13e517417e4a8fLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING65c828b7848344cea4633b1f74948342LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING6a36af41e1a14b66b130e05c15d6cd38LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING6ae9deda515b4e9ab63068a48f12bd98LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING6d14ae89e9ab4024951e12e4e35fd550LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING70382a0e41ab43639793a4876b638615LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING71426af8c5214e628764579563c33143LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING761085e249df4b7caba8c2ef5d858d59LabelCaption.Value" Value="Итоговый комментарий" />
+			<Item Name="LocalizableStrings.STRING799cb7dbce6c4ef1a3983214ab246996LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING7a9b12a510894e4bb7563b8c73f2865cLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING7bfe607855414587b6fa20ba6d04f03bLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING7d246cb4efde40dfbc905be439afe16bLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING7f523ee0e99c465a9cde30d0220c4a66LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING7fe998f47e394859a0892cd058e5ec58LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING823a1de5cc1d4d139f94dd99670562d5LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING885bf66d6e1a497095aa1d895bec3a7fLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING89b79601d25a44ffaa2868d5e301b200LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING8cb72dbf24874c739ae86b70fcc1b0b0LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING8ee29dbb273b4b5ab3eb01729611d92bLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING900869a91cb84be28da3923dd8a3330dLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING926140116fd142b2b19deec766719db5LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING92fb4c0a266e464e8a509db5017b0f84LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING93ada99c5d5240cd81c8ec082e9c2a36LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRING982934e5cfb744df821a891d6a05048aLabelCaption.Value" Value="Итоговый комментарий" />
+			<Item Name="LocalizableStrings.STRING9c2365ce79ab41c4a3755eac94d82e04LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGa219a736d144441e865681f746ef725fLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGa828d074a8f2458dbdb18ab9ba684db8LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGad3b576d1e7b46ee9d41a4b02d4c90bfLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGb5a047b8d03a41e8bda8495d2bf94ddbLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGb704eb2b67fd4d3ca07a67b70ac2425dLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGc3b25a474cb3406b8ab0d4cdad51c2c9LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGc501138c89044a118ea882baf6fd216cLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGd05dc63cad8644d180363e624b966adcLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGd4f53c955da44a3dbee571b640a71c70LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGd9c902ad80f14e07a40c6d2438b2b195LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGd9effaead59248738613bdac75bce265LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGdb825e09400c417799574683b2d067a9LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGdd8274fd4b784567bc696997034037e8LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.STRINGe167156da02349789ea9ef4a402d3d4bLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGe5d75854c0fa40db9ff3a7e934f22471LabelCaption.Value" Value="Итоговый комментарий" />
+			<Item Name="LocalizableStrings.STRINGe730b14cb99b4cf480cf7331e9ac0ba2LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGe8111ea3739b4e168b98e5ea70b043bcLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGec2ecb38834749638dec7be2f7f70425LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGf07bccfad8d64f299617aebb408a0f7eLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGf377e1f0da8a47f8a54b35ac5a09b635LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGf59bca7cd36c43768a91361186d87eddLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGf7a9d6830b4040abae70ee75b219eee6LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGf93563afbfb544efbf394ef1233b6d61LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGfe1c0501edd84d23aee16596e65a3e1cLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.STRINGfeb40612acac44d39eb34e894a33b06eLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.Tab1b37a851TabLabelGroup2c3039b2GroupCaption.Value" Value="Грамотность и культура речи" />
+			<Item Name="LocalizableStrings.Tab1b37a851TabLabelGroup4e3be6c3GroupCaption.Value" Value="Грамотность и культура речи" />
+			<Item Name="LocalizableStrings.Tab1b37a851TabLabelGroup8bfcfb71GroupCaption.Value" Value="Деловая речь" />
+			<Item Name="LocalizableStrings.Tab1b37a851TabLabelGroup8fc8ccceGroupCaption.Value" Value="Переход на один язык с клиентом" />
+			<Item Name="LocalizableStrings.Tab1b37a851TabLabelGroupa9f687cdGroupCaption.Value" Value="Итоги" />
+			<Item Name="LocalizableStrings.Tab1b37a851TabLabelTabCaption.Value" Value="Общение" />
+			<Item Name="LocalizableStrings.Tab21d2db8cTabLabelGroup2292963aGroupCaption.Value" Value="Специальное предложение или брендовая фраза периода" />
+			<Item Name="LocalizableStrings.Tab21d2db8cTabLabelGroupfb19b8e2GroupCaption.Value" Value="Итоги" />
+			<Item Name="LocalizableStrings.Tab21d2db8cTabLabelTabCaption.Value" Value="Брендовая фраза" />
+			<Item Name="LocalizableStrings.Tab35708b24TabLabelGroup4730ad75GroupCaption.Value" Value="Работа с возражениями" />
+			<Item Name="LocalizableStrings.Tab35708b24TabLabelGroup9810a25bGroupCaption.Value" Value="Итоги" />
+			<Item Name="LocalizableStrings.Tab35708b24TabLabelGroupc50c044dGroupCaption.Value" Value="Управление разговором" />
+			<Item Name="LocalizableStrings.Tab35708b24TabLabelGroupdee78514GroupCaption.Value" Value="Полнота информации" />
+			<Item Name="LocalizableStrings.Tab35708b24TabLabelGroupe3cf1083GroupCaption.Value" Value="Проактивность" />
+			<Item Name="LocalizableStrings.Tab35708b24TabLabelTabCaption.Value" Value="Проактивность" />
+			<Item Name="LocalizableStrings.Tab38b0a31cTabLabelGroup5a4e2aa3GroupCaption.Value" Value="Активное слушание" />
+			<Item Name="LocalizableStrings.Tab38b0a31cTabLabelGroup5eb1984bGroupCaption.Value" Value="Итоги" />
+			<Item Name="LocalizableStrings.Tab38b0a31cTabLabelGroup8673c307GroupCaption.Value" Value="Внимательность" />
+			<Item Name="LocalizableStrings.Tab38b0a31cTabLabelGroupa2c9be38GroupCaption.Value" Value="Работа с возражениями" />
+			<Item Name="LocalizableStrings.Tab38b0a31cTabLabelGroupc232446eGroupCaption.Value" Value="Резюмирование" />
+			<Item Name="LocalizableStrings.Tab38b0a31cTabLabelGroupc8dcbfb0GroupCaption.Value" Value="Переходная фраза" />
+			<Item Name="LocalizableStrings.Tab38b0a31cTabLabelTabCaption.Value" Value="Диалог" />
+			<Item Name="LocalizableStrings.Tab7635c817TabLabelGroup014dd3e1GroupCaption.Value" Value="Соблюдение инструкций при обработке заказов" />
+			<Item Name="LocalizableStrings.Tab7635c817TabLabelGroup226325ffGroupCaption.Value" Value="Телефония" />
+			<Item Name="LocalizableStrings.Tab7635c817TabLabelGroup25ff2dbaGroupCaption.Value" Value="Итоги" />
+			<Item Name="LocalizableStrings.Tab7635c817TabLabelGroup319987f5GroupCaption.Value" Value="Правильное использование HOLD / ПАУЗЫ" />
+			<Item Name="LocalizableStrings.Tab7c541ae2TabLabelGroup08682ecfGroupCaption.Value" Value="Четкая дикция и уверенность голоса" />
+			<Item Name="LocalizableStrings.Tab7c541ae2TabLabelGroup29fae3faGroupCaption.Value" Value="Вежливость" />
+			<Item Name="LocalizableStrings.Tab7c541ae2TabLabelGroup465e6058GroupCaption.Value" Value="Перебивание" />
+			<Item Name="LocalizableStrings.Tab7c541ae2TabLabelGroup824da148GroupCaption.Value" Value="Итоги" />
+			<Item Name="LocalizableStrings.Tab7c541ae2TabLabelGroupc79ec059GroupCaption.Value" Value="Интонация" />
+			<Item Name="LocalizableStrings.Tab7c541ae2TabLabelTabCaption.Value" Value="Тональность" />
+			<Item Name="LocalizableStrings.Tab7c9fce08TabLabelGroup35d5cfefGroupCaption.Value" Value="Итоги" />
+			<Item Name="LocalizableStrings.Tab7c9fce08TabLabelGroup8a053ae9GroupCaption.Value" Value="Правильность и срок исполнения" />
+			<Item Name="LocalizableStrings.Tab7c9fce08TabLabelTabCaption.Value" Value="Правильность и срок" />
+			<Item Name="LocalizableStrings.Tab7e221f91TabLabelGroup0efac4d9GroupCaption.Value" Value="Знакомство с клиентом" />
+			<Item Name="LocalizableStrings.Tab7e221f91TabLabelGroup2f895c1aGroupCaption.Value" Value="Обращение к клиенту по имени" />
+			<Item Name="LocalizableStrings.Tab7e221f91TabLabelGroupbeb875f4GroupCaption.Value" Value="Приветствие" />
+			<Item Name="LocalizableStrings.Tab7e221f91TabLabelGroupd33dcdebGroupCaption.Value" Value="Прощание" />
+			<Item Name="LocalizableStrings.Tab7e221f91TabLabelGroupe80cac52GroupCaption.Value" Value="Итоги" />
+			<Item Name="LocalizableStrings.Tab7e221f91TabLabelTabCaption.Value" Value="Приветствие" />
+			<Item Name="LocalizableStrings.Tabf29d4bc0TabLabelGroupb99dd0ccGroupCaption.Value" Value="Итоги" />
+			<Item Name="LocalizableStrings.Tabf29d4bc0TabLabelGroupc04a6ec1GroupCaption.Value" Value="WOW-эффект" />
+			<Item Name="LocalizableStrings.Tabf29d4bc0TabLabelTabCaption.Value" Value="Бонус" />
+			<Item Name="LocalizableStrings.TabsNameAN.Value" Value="Файлы и примечания" />
+			<Item Name="LocalizableStrings.TabsNameBonus.Value" Value="Бонус" />
+			<Item Name="LocalizableStrings.TabsNameBrandPhrase.Value" Value="Брендовая фраза" />
+			<Item Name="LocalizableStrings.TabsNameCall.Value" Value="Звонок" />
+			<Item Name="LocalizableStrings.TabsNameCommunication.Value" Value="Общение" />
+			<Item Name="LocalizableStrings.TabsNameCorrectnessTiming.Value" Value="Правильность и срок" />
+			<Item Name="LocalizableStrings.TabsNameDialog.Value" Value="Диалог" />
+			<Item Name="LocalizableStrings.TabsNameFeed.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.TabsNameGreetings.Value" Value="Приветствие" />
+			<Item Name="LocalizableStrings.TabsNameProactivity.Value" Value="Проактивность" />
+			<Item Name="LocalizableStrings.TabsNameProceduralPart.Value" Value="Процедурная часть" />
+			<Item Name="LocalizableStrings.TabsNameTonality.Value" Value="Тональность" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.UsrAccuracyTimingFinalComment6b8dd9b031bd4418873fc1df72568449LabelCaption.Value" Value="Итоговый комментарий" />
+			<Item Name="LocalizableStrings.UsrAnswCharactComment1feb5f8cb3f55472da119244abf297fe5LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrAnswCharactEvalcbc9030f2e364c978145b325ff7567bdLabelCaption.Value" Value="Оценка за Интонация" />
+			<Item Name="LocalizableStrings.UsrBaSkillComment25e2008a20e8142909fed7c0a736281bdLabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrBaSkillComment3e3b96852aa1c407088ba06d9cc59bef3LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrBaSkillComment4569c5c8331054922af77697111f4343eLabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrBaSkillComment585182fce507440b08d2228344a152fbeLabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrBaSkillComment6a14d26121f2f45bdb72e805d283fd8bdLabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrBaSkillComment79480dd67973c4806b730f570d265bde5LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrBaSkillComment83c5e0a2ed36446de9f7d77fc5c8987b0LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrBaSkillEvalItemDescriptiond23f540987a747f5bfb261b3b7281640LabelCaption.Value" Value="Описание пункта" />
+			<Item Name="LocalizableStrings.UsrBonusFinalComment716962d3b281456f944028503085cfdeLabelCaption.Value" Value="Итоговый комментарий" />
+			<Item Name="LocalizableStrings.UsrBonusPartMaintenanceServiceItemDescription931fe7d5f4634c03ba764aa833369aa4LabelCaption.Value" Value="Описание пункта WOW-эффект" />
+			<Item Name="LocalizableStrings.UsrBOOLEAN387b5b3a94e6b48f881e2cc5d1447a0a8LabelCaption.Value" Value="Неуважение, некорректное отношение к клиенту" />
+			<Item Name="LocalizableStrings.UsrBOOLEAN42d0abc5b8caa448aaf2930d41db88799LabelCaption.Value" Value="Сложности с украинским языком" />
+			<Item Name="LocalizableStrings.UsrBOOLEAN704f3a4f56d4e415099357e67042b65feLabelCaption.Value" Value="Неуважение, некорректное отношение к клиенту" />
+			<Item Name="LocalizableStrings.UsrBrandPhraseFinalCommentdc0030b808b84ee0a3f6f2f172b715f9LabelCaption.Value" Value="Итоговый комментарий" />
+			<Item Name="LocalizableStrings.UsrClearExplanComment23b0fbc67e4da4c29bc162e1326e20cc8LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrClearExplanEvalccee079f5cb34b3e9214e4b1e7fd4ca8LabelCaption.Value" Value="Оценка за Проактивность" />
+			<Item Name="LocalizableStrings.UsrClientRelatComment17452125017084c378e33f034ac539e42LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrClientRelatEvalbc00163b347b4a87aa57c97e68b6589fLabelCaption.Value" Value="Оценка за Полнота информации" />
+			<Item Name="LocalizableStrings.UsrComplianceInstructionsProcessingOrdersItemDescriptionfd9ad0acb6e74fc7a1d03c2397ef2d59LabelCaption.Value" Value="Описание пункта Соблюдение инструкций при обработке заказов" />
+			<Item Name="LocalizableStrings.UsrConvStyleComment13dcf39aec8714c6987a4765d9cbaf686LabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.UsrConvStyleComment1796bdd971c574da48a4b1be1a9687ccfLabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrConvStyleEval3649cf920da64384a7c43dffc2e5711aLabelCaption.Value" Value="Оценка за Деловая речь" />
+			<Item Name="LocalizableStrings.UsrConvStyleEvalad66dd89b10749269285019568183235LabelCaption.Value" Value="Оценка за Деловая речь" />
+			<Item Name="LocalizableStrings.UsrCorrectnessComment1b2f51c10f61545b7883c4285f878a9b7LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrCorrectnessEval136e816b82ce47d791641c79ba9c7a25LabelCaption.Value" Value="Оценка за Перебивание" />
+			<Item Name="LocalizableStrings.UsrHoldComment4830880d59a043098902eecaa02404f7LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrLangComment13f3dc1f4b7f64f71b75b7a42bf5075cdLabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrLangComment230c4896845e444aa9bbc5f57dbfbb255LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrLangComment3bddacb1b8c8d43028aa9e56fd53eeaceLabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrLangEval9caaaa8f1c874d2ab46c709dabf03a26LabelCaption.Value" Value="Оценка за Знакомство с клиентом" />
+			<Item Name="LocalizableStrings.UsrLangNoUsePCLang727884a0510d4bdeac9ea5418743344bLabelCaption.Value" Value="Специальное предложение или брендовая фраза периода" />
+			<Item Name="LocalizableStrings.UsrLiteracyComment15b99836f0b724b03b5827fe393a28b3bLabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrLiteracyComment1f43435d413d64068a52846de58feefaaLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.UsrLiteracyEval2269c70ca4ac4defbe469e983aa3e370LabelCaption.Value" Value="Оценка за Переход на один язык с клиентом" />
+			<Item Name="LocalizableStrings.UsrLiteracyEvala6111312df114808bb25a9718603c22aLabelCaption.Value" Value="Оценка за Переход на один язык с клиентом" />
+			<Item Name="LocalizableStrings.UsrNaturalComComment1e7a49f96f09f465a810d7b2857e92311LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrNaturalComEval7c355c5d84e341ea8aaf78b12a437850LabelCaption.Value" Value="Оценка за Вежливость" />
+			<Item Name="LocalizableStrings.UsrPoliteComment1042ef7272c3946f88e48a76f3087e985LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrPoliteComment23d84d50fec3a47b7964193c22994b832LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrPoliteEval3ebae7c19d114719b6a9c4021a7313d6LabelCaption.Value" Value="Оценка за Обращение к клиенту по имени" />
+			<Item Name="LocalizableStrings.UsrProblemSolvComment19a06f75405fd44078da6344f047a5101LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrProblemSolvEval7d6d3b1bc3dc4057a67e9f176f8cc0c9LabelCaption.Value" Value="Оценка за Управление разговором" />
+			<Item Name="LocalizableStrings.UsrProperUseHOLDPAUSEItemDescription318a0714e37e4023a644c1e97a6acbccLabelCaption.Value" Value="Описание пункта Правильное использование HOLD / ПАУЗЫ" />
+			<Item Name="LocalizableStrings.UsrRatingSpecialOfferBrandPhrasePeriod004f6aadfdca4b73afd6e7b4b1411fb4LabelCaption.Value" Value="Оценка за Специальное предложение или брендовая фраза периода" />
+			<Item Name="LocalizableStrings.UsrRefComment11eb8164412354ee0a0d15a1d66b46911LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrRefComment1b944568e111a4a94b863c2263c35ca6dLabelCaption.Value" Value="Коментарий" />
+			<Item Name="LocalizableStrings.UsrRefEval20cee9755cf24d9ab9566c92f6d6d642LabelCaption.Value" Value="Оценка за Грамотность и культура речи" />
+			<Item Name="LocalizableStrings.UsrRefEval3f7c44eec7c745ee980e58741022ccd6LabelCaption.Value" Value="Оценка за Грамотность и культура речи" />
+			<Item Name="LocalizableStrings.UsrRegAppealComment191bb49c5a5b645efb9527e790d280be3LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrRequiredVolComment2241783cd94294ba9b5b3d26010d7ed91LabelCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.UsrRequiredVolEval4f732248818b4c74ba4dd214b91965daLabelCaption.Value" Value="Оценка за Четкая дикция и уверенность голоса" />
+			<Item Name="LocalizableStrings.UsrScoreFollowingInstructionsProcessingOrdersd6f99fff875b41169e7b1afe33ece40bLabelCaption.Value" Value="Оценка за Соблюдение инструкций при обработке заказов" />
+			<Item Name="LocalizableStrings.UsrSpecialOfferBrandPhrasePeriodItemDescriptionb7db2c502b7541958e87036f9c8009faLabelCaption.Value" Value="Описание пункта Специальное предложение или брендовая фраза периода" />
+			<Item Name="LocalizableStrings.UsrSpeechRateEval4ddb65596f934160991ec40f250c9dc6LabelCaption.Value" Value="Оценка за Прощание" />
+			<Item Name="LocalizableStrings.UsrSTRING433f094345b184f8aad8aeb038e333379LabelCaption.Value" Value="Коментарий" />
+		</Items>
+	</Group>
+</Resources>

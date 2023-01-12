@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "269a22d2-8ac0-4672-8124-c72aca738f5e",
+    "Name": "UsrSendEmailFeedServiceDesk",
+    "ModifiedOnUtc": "\/Date(1536658566000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отправка feed на service desk",
+    "DependsOn": []
+  }
+}

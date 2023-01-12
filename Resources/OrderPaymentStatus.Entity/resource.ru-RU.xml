@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrCodeId.Caption" Value="ID код" />
+			<Item Name="Columns.UsrPaymentStatusCode.Caption" Value="Код" />
+		</Items>
+	</Group>
+</Resources>

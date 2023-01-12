@@ -1,0 +1,224 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0d12d387-982c-453b-bafe-4b0550d4dcb9"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "PersonalBreak"
+        },
+        {
+          "SchemaColumnUId": "59993ff0-1373-4acf-9eff-e2cec861f065",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "eadd9d6f-9fe1-46fc-87a8-9167c91ae635",
+          "Value": "4e7f34e6-25cb-e111-a7a4-00155d054c03",
+          "DisplayValue": "Не беспокоить"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ba9ce789-4ce9-4772-8254-138bb2880160"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "Learning"
+        },
+        {
+          "SchemaColumnUId": "59993ff0-1373-4acf-9eff-e2cec861f065",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "eadd9d6f-9fe1-46fc-87a8-9167c91ae635",
+          "Value": "4e7f34e6-25cb-e111-a7a4-00155d054c03",
+          "DisplayValue": "Не беспокоить"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "77cd4a2c-e75b-4a9b-aad0-90610c9c6863"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "7"
+        },
+        {
+          "SchemaColumnUId": "59993ff0-1373-4acf-9eff-e2cec861f065",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "eadd9d6f-9fe1-46fc-87a8-9167c91ae635",
+          "Value": "1c74de1a-5762-49f5-911a-a7d71790798f",
+          "DisplayValue": "Не готов"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4c39e4a2-de03-4dd3-a785-7f83db819b59"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "3"
+        },
+        {
+          "SchemaColumnUId": "59993ff0-1373-4acf-9eff-e2cec861f065",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "eadd9d6f-9fe1-46fc-87a8-9167c91ae635",
+          "Value": "1c74de1a-5762-49f5-911a-a7d71790798f",
+          "DisplayValue": "Не готов"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1eb2fd3a-9c67-44ab-987d-efde69ac3801"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "GraphBreak"
+        },
+        {
+          "SchemaColumnUId": "59993ff0-1373-4acf-9eff-e2cec861f065",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "eadd9d6f-9fe1-46fc-87a8-9167c91ae635",
+          "Value": "4e7f34e6-25cb-e111-a7a4-00155d054c03",
+          "DisplayValue": "Не беспокоить"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "73676d6b-1687-47bf-b407-434dbdd381ab"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "LetterCases"
+        },
+        {
+          "SchemaColumnUId": "59993ff0-1373-4acf-9eff-e2cec861f065",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "eadd9d6f-9fe1-46fc-87a8-9167c91ae635",
+          "Value": "4e7f34e6-25cb-e111-a7a4-00155d054c03",
+          "DisplayValue": "Не беспокоить"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5db68ac3-4cb8-4b52-abe3-91f0a44ae6c5"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "11"
+        },
+        {
+          "SchemaColumnUId": "59993ff0-1373-4acf-9eff-e2cec861f065",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "eadd9d6f-9fe1-46fc-87a8-9167c91ae635",
+          "Value": "1c74de1a-5762-49f5-911a-a7d71790798f",
+          "DisplayValue": "Не готов"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0ac3f43a-f12c-432f-94c5-d704b4d6314e"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "4"
+        },
+        {
+          "SchemaColumnUId": "59993ff0-1373-4acf-9eff-e2cec861f065",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "eadd9d6f-9fe1-46fc-87a8-9167c91ae635",
+          "Value": "1c74de1a-5762-49f5-911a-a7d71790798f",
+          "DisplayValue": "Не готов"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f348ebee-420f-46ed-b4e3-e5435944b033"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "2"
+        },
+        {
+          "SchemaColumnUId": "59993ff0-1373-4acf-9eff-e2cec861f065",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "eadd9d6f-9fe1-46fc-87a8-9167c91ae635",
+          "Value": "1c74de1a-5762-49f5-911a-a7d71790798f",
+          "DisplayValue": "Не готов"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bfed6611-5d3e-419a-a264-eadc2657e6c3"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "6"
+        },
+        {
+          "SchemaColumnUId": "59993ff0-1373-4acf-9eff-e2cec861f065",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "eadd9d6f-9fe1-46fc-87a8-9167c91ae635",
+          "Value": "1c74de1a-5762-49f5-911a-a7d71790798f",
+          "DisplayValue": "Не готов"
+        }
+      ]
+    }
+  ]
+}

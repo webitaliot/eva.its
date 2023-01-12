@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0c2cf81e-a77b-46f2-8081-bb831a8db74f",
+    "Name": "UsrSendSMSFromSectionDashboard",
+    "ModifiedOnUtc": "\/Date(1533215690000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отправка СМС из Панели управления",
+    "DependsOn": []
+  }
+}

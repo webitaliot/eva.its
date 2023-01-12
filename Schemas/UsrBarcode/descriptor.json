@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cc749962-3dfc-4f17-bc83-9bd9d20e148d",
+    "Name": "UsrBarcode",
+    "ModifiedOnUtc": "\/Date(1492697332000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Бар-код",
+    "DependsOn": []
+  }
+}

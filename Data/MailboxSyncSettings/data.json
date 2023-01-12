@@ -1,0 +1,111 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "b238f1d8-39c2-4498-b0a1-d63f123309ea",
+          "Value": "7f3b869f-34f3-4f20-ab4d-7480a5fdf647",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "04423276-208b-4661-8602-6b6eadd409b9",
+          "Value": "0e8151aa-89bd-4f00-8b29-42a52bcb2d42",
+          "DisplayValue": "Eva"
+        },
+        {
+          "SchemaColumnUId": "3490d31d-b9b4-4017-a5c4-3019416d0c0e",
+          "Value": "info@eva.ua"
+        },
+        {
+          "SchemaColumnUId": "6f989bb4-4185-4531-87c8-62927005896b",
+          "Value": "jJGV66eUjH"
+        },
+        {
+          "SchemaColumnUId": "ead0a7dd-f3e3-4679-b766-d8a9f70b2b53",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "1dd6b43d-22e9-49f5-9676-f4e93fffc0a5",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "5b147af6-5886-41cd-b7aa-2ba9a253aab5",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "04e621fc-8584-4c36-b616-5e790d2d28ca",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "c8b179f9-5a7e-4c20-944e-b6930162b98f",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "64ef7eb3-9995-497d-9c61-e4e09e951132",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "bd47456d-aeb5-4454-b2ce-f6dff54a7794",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "e727b47c-883f-4fdf-94aa-e85369c2f8f1",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "2b8a9515-0fd9-40ea-84d2-ba1fa641e03e",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "d52de6c0-104f-4d78-8e92-3376e97a8268",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "705a60bf-aee9-4168-993d-ed634328174c",
+          "Value": "\/Date(1490734800000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "06c19861-2ce5-4eb7-88b0-117c28deecf4",
+          "Value": "info@eva.ua"
+        },
+        {
+          "SchemaColumnUId": "1400f977-628f-4ebe-bcdb-9fbd661d4799",
+          "Value": "info@eva.ua"
+        },
+        {
+          "SchemaColumnUId": "6c99d648-2324-4384-8330-b32cf258cb37",
+          "Value": "2d480351-94b7-4cad-b02f-885730c7eb3e",
+          "DisplayValue": "1 неделя"
+        },
+        {
+          "SchemaColumnUId": "f13ef65d-d5d7-4ef4-af7f-0091a818d68d",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "befec718-bb2e-4b77-95b3-f421c0a72196",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "d55aa1b5-9c33-4635-9aef-0e1d5a80f96e",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "a08de309-02eb-45f1-84a0-d627fcfe054f",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "e4fe0282-0d7d-4eaf-8dd2-69edeab162d7",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "70615ebe-d19c-4f72-bc86-bfb4df3d0e7e",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b43ec164-bd1c-45d4-8949-f6bf75978242"
+        }
+      ]
+    }
+  ]
+}

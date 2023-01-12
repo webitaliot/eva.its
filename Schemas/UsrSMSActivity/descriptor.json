@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cdd692f0-f306-4924-8285-11bcde16f349",
+    "Name": "UsrSMSActivity",
+    "ModifiedOnUtc": "\/Date(1496412247000)\/",
+    "Parent": {
+      "UId": "c98e0daa-7ee5-4acd-9711-3988e14afb3b",
+      "Name": "ActivityDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Клиентская схема 1",
+    "DependsOn": []
+  }
+}

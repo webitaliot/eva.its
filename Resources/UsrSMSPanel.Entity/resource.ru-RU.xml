@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Панель СМС" />
+			<Item Name="Columns.Description.Caption" Value="Текст SMS" />
+			<Item Name="Columns.UsrContact.Caption" Value="Контакт" />
+			<Item Name="Columns.UsrSMSTemplate.Caption" Value="Шаблон СМС" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

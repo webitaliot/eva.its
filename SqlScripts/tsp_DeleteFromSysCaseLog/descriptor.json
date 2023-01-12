@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "818b62f2-3dab-4041-8a5a-983da1b02185",
+    "Name": "tsp_DeleteFromSysCaseLog",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1605881537000)\/",
+    "DependsOn": []
+  }
+}

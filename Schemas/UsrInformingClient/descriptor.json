@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0a4f9532-c949-4428-9919-77fd0a09570f",
+    "Name": "UsrInformingClient",
+    "ModifiedOnUtc": "\/Date(1616757707000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Информирование клиента",
+    "DependsOn": []
+  }
+}

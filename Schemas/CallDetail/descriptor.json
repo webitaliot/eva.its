@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "bfd44e01-9f4e-43ce-b048-f5005fc86a79",
+    "Name": "CallDetail",
+    "ModifiedOnUtc": "\/Date(1590676013000)\/",
+    "Parent": {
+      "UId": "e29bfa40-6b97-4a75-8d08-3a33efb87aaa",
+      "Name": "CallDetail"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Деталь звонков",
+    "DependsOn": []
+  }
+}

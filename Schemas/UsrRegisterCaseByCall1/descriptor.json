@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "572df20f-af8c-4ff2-8266-4ef8720ec55c",
+    "Name": "UsrRegisterCaseByCall1",
+    "ModifiedOnUtc": "\/Date(1536133719000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Создание обращения через CTI панель (по входящему звонку) - Копия",
+    "DependsOn": []
+  }
+}

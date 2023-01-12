@@ -1,0 +1,72 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "28dedc44-4148-44b3-a642-5bfe30e3e8af",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "53fd3525-a4b3-4fe1-b1f2-2ce79128f5e4",
+          "Value": "1d2e48f2-c5fd-417d-9551-30e71f35df3d",
+          "DisplayValue": "Успех"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "90aae1cd-3815-4b64-a61c-40941ab82349"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "28dedc44-4148-44b3-a642-5bfe30e3e8af",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "53fd3525-a4b3-4fe1-b1f2-2ce79128f5e4",
+          "Value": "4db33cbc-ba7c-4103-9887-6b39b8d36b77",
+          "DisplayValue": "Отрицательный"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2a22df92-a702-4639-9929-473dee70cb2c"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "28dedc44-4148-44b3-a642-5bfe30e3e8af",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "53fd3525-a4b3-4fe1-b1f2-2ce79128f5e4",
+          "Value": "4fd40914-23a7-415d-bb56-14fed5092551",
+          "DisplayValue": "Нейтральный"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4e37521b-43c0-4823-aded-ca17774534ea"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "28dedc44-4148-44b3-a642-5bfe30e3e8af",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "53fd3525-a4b3-4fe1-b1f2-2ce79128f5e4",
+          "Value": "4db33cbc-ba7c-4103-9887-6b39b8d36b77",
+          "DisplayValue": "Отрицательный"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0d012f97-5d36-441f-9d21-e4ea0d5fcb1d"
+        }
+      ]
+    }
+  ]
+}

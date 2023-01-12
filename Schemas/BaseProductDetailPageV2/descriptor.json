@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "18562903-4e49-4b0c-9794-1282eb446abf",
+    "Name": "BaseProductDetailPageV2",
+    "ModifiedOnUtc": "\/Date(1498048923000)\/",
+    "Parent": {
+      "UId": "b906bd19-865d-474e-a613-f0506ca21e4b",
+      "Name": "BaseProductDetailPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "BaseProductDetailPageV2",
+    "DependsOn": []
+  }
+}

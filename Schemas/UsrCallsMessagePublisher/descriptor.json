@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4ed41dd3-8441-4d8b-8e11-33347d8ee817",
+    "Name": "UsrCallsMessagePublisher",
+    "ModifiedOnUtc": "\/Date(1528965693000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Издатель сообщений логирования звонка",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "178a4736-2f09-4ab0-80c9-20b37333a36f",
+    "Name": "UsrFillingContactFIOInNewOrders",
+    "ModifiedOnUtc": "\/Date(1528366648000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заполнение ФИО контакта если Пусто в новых заказах ИМ",
+    "DependsOn": []
+  }
+}

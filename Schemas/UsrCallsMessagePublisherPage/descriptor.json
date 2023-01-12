@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2d77abb4-7626-4d74-8c66-604cf8c6af5c",
+    "Name": "UsrCallsMessagePublisherPage",
+    "ModifiedOnUtc": "\/Date(1533828776000)\/",
+    "Parent": {
+      "UId": "6b7d0022-f128-4c6e-8372-ce9d8819fbfa",
+      "Name": "BaseMessagePublisherPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "UsrCallsMessagePublisherPage",
+    "DependsOn": []
+  }
+}

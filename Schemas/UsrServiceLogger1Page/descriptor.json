@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1308f804-64f4-49f6-bb11-2b983aa09081",
+    "Name": "UsrServiceLogger1Page",
+    "ModifiedOnUtc": "\/Date(1567002287000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Логирование\"",
+    "DependsOn": []
+  }
+}

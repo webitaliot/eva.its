@@ -1,0 +1,189 @@
+= MetaData.Schema.UId "9d6b82c4-9b91-4448-af4d-c1a1131cde30"
+= MetaData.Schema.A2 "UsrShares"
+= MetaData.Schema.A5 "be1a48d7-1a8f-43cc-af3d-c34b082b2460"
+= MetaData.Schema.B6 "2f7e2b8b-9dd4-4c24-9149-055455ac8f40"
+= MetaData.Schema.B8 "7.9.1.3284"
+= MetaData.Schema.EG1.UId "e847d051-021b-4bf7-acf4-33c2c35c27ad"
+= MetaData.Schema.EG1.A2 "UsrSharesEventsProcess"
+= MetaData.Schema.EG1.A5 "be1a48d7-1a8f-43cc-af3d-c34b082b2460"
+- MetaData.Schema.EG1.B1.["fe742d1c-4346-4cc5-894e-217df991856c"].C2
+= MetaData.Schema.EG1.BK8 "66f58f21-6ed1-4e29-b506-6b9f6426d463"
++ MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].IL2 "079c1a2b-96d1-4935-9764-180b73ed11ac"
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].BL4
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].BL9
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BL9
+- MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16
+- MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16
+- MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16
+- MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16
+- MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16
+- MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16
++ MetaData.Schema.D2 {
+  "UId": "90526213-7ced-49b0-a51d-1468eee3b922",
+  "A2": "UsrProductShares",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "4c7a6ead-4eb8-4fc0-863e-98a664569fed",
+  "E6": true,
+  "E17": "UsrProductSharesId",
+  "E18": "UsrProductSharesName"
+}
++ MetaData.Schema.D2 {
+  "UId": "de6ca02c-c17b-4753-bba4-6f4d1726cedd",
+  "A2": "UsrRuleId",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "25b82a1a-beb0-429f-85bf-62f34acbc138",
+  "A2": "UsrRuleName",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+}
++ MetaData.Schema.D2 {
+  "UId": "eca134cf-f0be-4522-8c38-1d083b3b6b31",
+  "A2": "UsrDiscountPercent",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "7e479512-106d-46a9-87b9-4cb5e13b47d0",
+  "A2": "UsrDiscountAmount",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "6bb2c741-79d9-4310-907f-604ec96416d7",
+  "A2": "UsrPriceDiscounted",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "d3f1aa0c-53a7-4262-aff6-41923bbd021d",
+  "A2": "UsrRuleSetId",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "1cec22e9-659e-44f5-8c65-0504ebdc470d",
+  "A2": "UsrOrderShares",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "80294582-06b5-4faa-a85f-3323e5536b71",
+  "E6": true,
+  "E17": "UsrOrderSharesId",
+  "E18": "UsrOrderSharesNumber"
+}
++ MetaData.Schema.D2 {
+  "UId": "81b5b2f2-792f-43dc-8ff7-4afaf7373e7f",
+  "A2": "UsrSKU",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "8f7513e8-421f-448e-8ec5-55958878ad3a",
+  "A2": "UsrIncrementId",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "5bd63c33-bf9e-4214-9e15-c0486afa6438",
+  "A2": "UsrOrderItemNumber",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "1c6159c1-5249-4797-b5c1-3e1b8c623420",
+  "A2": "UsrQuantity",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "8aeb211c-54d8-436d-9aef-028da67b0907",
+  "A2": "UsrAmountPrice",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "639f76d9-78d1-44cf-b3f2-14eb5a9a8fdc",
+  "A2": "UsrPrice",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "b84b4294-c648-4930-84ed-b1aed7fc9801",
+  "A2": "UsrDiscount",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "c6a4b49e-b8fa-44cb-8009-c376da23027a",
+  "A2": "UsrAmountPriceDiscounted",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "08fc6acf-5cc8-4945-891e-0136613a0ea1",
+  "A2": "UsrSetId",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "be1a48d7-1a8f-43cc-af3d-c34b082b2460",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "86d10733-e680-427c-9304-bdf3ba58a9dc",
+  "A2": "UsrOrderProduct",
+  "A3": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A4": "9d6b82c4-9b91-4448-af4d-c1a1131cde30",
+  "A5": "cb8fe5d8-02a0-4f6b-a244-0fa7abea05cf",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "a31247aa-b718-40ed-982e-5b569d7d7b0e",
+  "E6": true,
+  "E17": "UsrOrderProductId",
+  "E18": "UsrOrderProductName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","90526213-7ced-49b0-a51d-1468eee3b922","de6ca02c-c17b-4753-bba4-6f4d1726cedd","25b82a1a-beb0-429f-85bf-62f34acbc138","eca134cf-f0be-4522-8c38-1d083b3b6b31","7e479512-106d-46a9-87b9-4cb5e13b47d0","6bb2c741-79d9-4310-907f-604ec96416d7","d3f1aa0c-53a7-4262-aff6-41923bbd021d","1cec22e9-659e-44f5-8c65-0504ebdc470d","81b5b2f2-792f-43dc-8ff7-4afaf7373e7f","8f7513e8-421f-448e-8ec5-55958878ad3a","5bd63c33-bf9e-4214-9e15-c0486afa6438","1c6159c1-5249-4797-b5c1-3e1b8c623420","8aeb211c-54d8-436d-9aef-028da67b0907","639f76d9-78d1-44cf-b3f2-14eb5a9a8fdc","b84b4294-c648-4930-84ed-b1aed7fc9801","c6a4b49e-b8fa-44cb-8009-c376da23027a","08fc6acf-5cc8-4945-891e-0136613a0ea1","86d10733-e680-427c-9304-bdf3ba58a9dc"]
+= MetaData.Schema.D20.A2 "UsrSharesEvents"
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

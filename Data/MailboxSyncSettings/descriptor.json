@@ -1,0 +1,189 @@
+﻿{
+  "Descriptor": {
+    "UId": "6582c1c7-c1b1-4a63-948d-89d1458a03b5",
+    "Name": "MailboxSyncSettings",
+    "ModifiedOnUtc": "\/Date(1491380134000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "5e487721-02e2-48ee-b755-dfa5160f5315",
+      "Name": "MailboxSyncSettings"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "b238f1d8-39c2-4498-b0a1-d63f123309ea",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SysAdminUnit",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "04423276-208b-4661-8602-6b6eadd409b9",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "MailServer",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "3490d31d-b9b4-4017-a5c4-3019416d0c0e",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UserName",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      },
+      {
+        "ColumnUId": "6f989bb4-4185-4531-87c8-62927005896b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UserPassword",
+        "DataTypeValueUId": "3509b9dd-2c90-4540-b82e-8f6ae85d8248"
+      },
+      {
+        "ColumnUId": "ead0a7dd-f3e3-4679-b766-d8a9f70b2b53",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "EnableMailSynhronization",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "1dd6b43d-22e9-49f5-9676-f4e93fffc0a5",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "AutomaticallyAddNewEmails",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "5b147af6-5886-41cd-b7aa-2ba9a253aab5",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "CyclicallyAddNewEmails",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "04e621fc-8584-4c36-b616-5e790d2d28ca",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "EmailsCyclicallyAddingInterval",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "c8b179f9-5a7e-4c20-944e-b6930162b98f",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "IsCustomFlagsNotSuported",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "64ef7eb3-9995-497d-9c61-e4e09e951132",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "LastSyncDate",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "bd47456d-aeb5-4454-b2ce-f6dff54a7794",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "IsShared",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "e727b47c-883f-4fdf-94aa-e85369c2f8f1",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SendEmailsViaThisAccount",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "2b8a9515-0fd9-40ea-84d2-ba1fa641e03e",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "IsDefault",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "d52de6c0-104f-4d78-8e92-3376e97a8268",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "LoadAllEmailsFromMailBox",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "705a60bf-aee9-4168-993d-ed634328174c",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "LoadEmailsFromDate",
+        "DataTypeValueUId": "603d4960-a1a2-45e9-b232-206a54421b01"
+      },
+      {
+        "ColumnUId": "06c19861-2ce5-4eb7-88b0-117c28deecf4",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "MailboxName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "1400f977-628f-4ebe-bcdb-9fbd661d4799",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SenderEmailAddress",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "6c99d648-2324-4384-8330-b32cf258cb37",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "MailSyncPeriod",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "f13ef65d-d5d7-4ef4-af7f-0091a818d68d",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "IsAnonymousAuthentication",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "befec718-bb2e-4b77-95b3-f421c0a72196",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ExchangeAutoSynchronization",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "d55aa1b5-9c33-4635-9aef-0e1d5a80f96e",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ExchangeSyncInterval",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "a08de309-02eb-45f1-84a0-d627fcfe054f",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ContactSyncInterval",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "e4fe0282-0d7d-4eaf-8dd2-69edeab162d7",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ExchangeAutoSyncActivity",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "70615ebe-d19c-4f72-bc86-bfb4df3d0e7e",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SenderDisplayValue",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}

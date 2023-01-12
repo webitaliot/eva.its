@@ -1,0 +1,1182 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e2a7aa19-6ee6-4755-84e4-1d554b43ca6e"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Акции/конкурсы"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "932ae322-d4c7-42ac-853b-24753fcb6097",
+          "DisplayValue": "Акции/конкурсы"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2451173b-e8e9-42b4-8de3-4ce1a54302a5"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Видимый брак, повреждения (мятая упаковка, разбитый товар)"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "3a0ce517-7250-420f-bf3f-49e05ff396bc",
+          "DisplayValue": "Товар"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "23a95491-4836-4c4c-83da-ce116fbc6398"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Газета"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "9ba30a7e-b7f5-4ecb-bb84-c3ba672ffd70",
+          "DisplayValue": "Рекламные материалы"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5f237e2d-9c28-4f65-ad32-e48a5b2e663d"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Душно в магазине"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "0965fb12-93ed-4dee-805f-52acc0ba961f",
+          "DisplayValue": "Технические вопросы"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "10eaacec-ffc8-4fa3-b5dd-ca0431341b05"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Замена бонусной карты"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "b63a8c43-f517-4b15-8b4e-c6ff6dac7874",
+          "DisplayValue": "Вопросы по карте покупателя"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c9c46f38-7786-46a5-9c72-86326c9861ff"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Клуб Щаслива Мама"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "b63a8c43-f517-4b15-8b4e-c6ff6dac7874",
+          "DisplayValue": "Вопросы по карте покупателя"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "71c4177d-4550-47dd-a803-077dfb309b44"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Купоны-скидки"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "782c5283-5ed2-4a2b-a6b8-66ff2c11bbb2",
+          "DisplayValue": "Открытие магазинов"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bec9e438-61db-432b-8fe7-f2b59c96826f"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Маркетинговые материалы"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "9ba30a7e-b7f5-4ecb-bb84-c3ba672ffd70",
+          "DisplayValue": "Рекламные материалы"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "45e7e5c6-78bf-4a72-9137-e219f0ef15b6"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Найдена бонусная карта"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "b63a8c43-f517-4b15-8b4e-c6ff6dac7874",
+          "DisplayValue": "Вопросы по карте покупателя"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3eaaf0bc-7908-47f8-865c-10050e307730"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Начисление/списание бонусов"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "b63a8c43-f517-4b15-8b4e-c6ff6dac7874",
+          "DisplayValue": "Вопросы по карте покупателя"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "adea9eda-d09d-4236-8b42-884d64d377a2"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Не забраны курьером анкеты"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "b63a8c43-f517-4b15-8b4e-c6ff6dac7874",
+          "DisplayValue": "Вопросы по карте покупателя"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "162a7e89-77eb-4eba-beda-80cf1ce3b9b5"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Не хватает света"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "0965fb12-93ed-4dee-805f-52acc0ba961f",
+          "DisplayValue": "Технические вопросы"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6aadcf91-c8be-469a-8179-3ef9ce45ebfa"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Нет пандуса"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "0965fb12-93ed-4dee-805f-52acc0ba961f",
+          "DisplayValue": "Технические вопросы"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "75f0c707-51f5-4c79-9d9d-c7993b5de3be"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Озвучка"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "bb746602-ce28-4536-a23c-912f4ccb3298",
+          "DisplayValue": "Обслуживание"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d083cd4e-bf8a-43d5-ad4d-815e7c91ab4b"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Разблокировка карты"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "b63a8c43-f517-4b15-8b4e-c6ff6dac7874",
+          "DisplayValue": "Вопросы по карте покупателя"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bfeb462a-4312-46a3-bc2c-2dfe4cb0245f"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Розыгрыш"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "782c5283-5ed2-4a2b-a6b8-66ff2c11bbb2",
+          "DisplayValue": "Открытие магазинов"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fb4d06c3-d52a-4b37-a9a5-2103da31496d"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Свободные проходы"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "bb746602-ce28-4536-a23c-912f4ccb3298",
+          "DisplayValue": "Обслуживание"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "45528b55-ee6f-460d-8627-1e486420ed97"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "смс/e-mail информирование"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "b63a8c43-f517-4b15-8b4e-c6ff6dac7874",
+          "DisplayValue": "Вопросы по карте покупателя"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "45552959-63ea-4f27-8f69-41f4faaba8a2"
+        },
+        {
+          "SchemaColumnUId": "58aa36e4-8c91-4f2d-abdf-bc0b293db336",
+          "Value": "Соц.сети"
+        },
+        {
+          "SchemaColumnUId": "08272f0d-1d32-40fb-93fa-8f26e83f065f",
+          "Value": "9a32e65f-7d52-49ac-aef5-836a9a01f14e",
+          "DisplayValue": "Предоставляется"
+        },
+        {
+          "SchemaColumnUId": "96b666c6-1aee-4a64-bbd8-3e0784e98ad7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0f639a8f-2578-4559-9241-2b3fb8c3e25c",
+          "Value": "3ab432a6-ca84-4315-ba33-f343c758a8f0",
+          "DisplayValue": "Рабочих минут"
+        },
+        {
+          "SchemaColumnUId": "0442e7ab-87f5-4110-840b-885efd5cc394",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "bdb8cb94-0dc8-402d-91e2-566c26baf6d8",
+          "Value": "2a608ed7-d118-402a-99c0-2f583291ed2e",
+          "DisplayValue": "Рабочих часов"
+        },
+        {
+          "SchemaColumnUId": "6d363bd0-0b58-4887-921c-a1506b3d27dc",
+          "Value": "901e7a1f-5fd3-4d5e-a494-251b42746240",
+          "DisplayValue": "Соц.сети"
+        },
+        {
+          "SchemaColumnUId": "2bdaed40-2269-4558-98d9-c7b7332c62fa",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c9da4510-b44e-4d90-8027-57f08c93daa1",
+          "Value": "Рабочих минут: 30"
+        },
+        {
+          "SchemaColumnUId": "d80d5977-22ac-4c50-b1aa-a93b4d7ec652",
+          "Value": "Календарных часов: 12"
+        },
+        {
+          "SchemaColumnUId": "97852225-890c-4eba-ab9e-12de2129863a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ecba8517-ce27-4d3a-b8f1-27acf4774fc3",
+          "Value": "f0ff1f0e-f46b-1410-1787-0026185bfcd3",
+          "DisplayValue": "Типовой календарь"
+        }
+      ]
+    }
+  ]
+}

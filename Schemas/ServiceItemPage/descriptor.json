@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "6e7ed0b1-38d5-4192-a880-e606034ec708",
+    "Name": "ServiceItemPage",
+    "ModifiedOnUtc": "\/Date(1554299987000)\/",
+    "Parent": {
+      "UId": "f14c93b3-06c4-48ae-bb2a-2092645614ad",
+      "Name": "ServiceItemPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема страницы редактирования раздела \"Сервисы\"",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9d61c59e-907d-4a84-876e-2999a15e7d75",
+    "Name": "UsrReasonsForFailure",
+    "ModifiedOnUtc": "\/Date(1497955009000)\/",
+    "Parent": {
+      "UId": "04f67f0c-0a27-4616-987e-60e378854b0f",
+      "Name": "BaseValueLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Причины отказа",
+    "DependsOn": []
+  }
+}

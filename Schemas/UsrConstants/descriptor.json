@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c2359ab4-0d9b-47dd-8f1b-dc457b5a877c",
+    "Name": "UsrConstants",
+    "ModifiedOnUtc": "\/Date(1501053597000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Конастанты для JS",
+    "DependsOn": []
+  }
+}

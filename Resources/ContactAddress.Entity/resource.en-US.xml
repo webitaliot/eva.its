@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrApartment.Caption" Value="Column 2" />
+			<Item Name="Columns.UsrCorps.Caption" Value="Column 3" />
+			<Item Name="Columns.UsrHouse.Caption" Value="Column 1" />
+		</Items>
+	</Group>
+</Resources>

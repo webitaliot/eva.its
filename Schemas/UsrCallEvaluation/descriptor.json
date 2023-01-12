@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a123081c-9c76-46eb-bed2-3bb293b5d76b",
+    "Name": "UsrCallEvaluation",
+    "ModifiedOnUtc": "\/Date(1643718465000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Оценивание звонка",
+    "DependsOn": []
+  }
+}

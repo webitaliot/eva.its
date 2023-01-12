@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1755cd92-d61c-475b-af85-435687738952",
+    "Name": "UsrSetOrderInWorkFromOperatorSingleWindowProcess1",
+    "ModifiedOnUtc": "\/Date(1491297275000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Обработка активности из очереди в Едином окне",
+    "DependsOn": []
+  }
+}

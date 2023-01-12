@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d3281886-330d-4b6f-860e-b3f4a7a6ee7d",
+    "Name": "UsrResendOrderInERP",
+    "ModifiedOnUtc": "\/Date(1504796306000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Переотправка заказа в ERP",
+    "DependsOn": []
+  }
+}

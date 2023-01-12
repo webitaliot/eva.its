@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "09f5e6a5-8260-4193-8d16-d4bfbfaf81be",
+    "Name": "CallSectionV2",
+    "ModifiedOnUtc": "\/Date(1531227029000)\/",
+    "Parent": {
+      "UId": "586a08d2-f4fc-4808-bc04-e5bb5d9f05f3",
+      "Name": "CallSectionV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Раздел звонки",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "e1c80cec-7e87-4009-a79c-397d9bd14c27",
+    "Name": "EmailMessagePublisherPage",
+    "ModifiedOnUtc": "\/Date(1561976422000)\/",
+    "Parent": {
+      "UId": "1d748212-ebbc-4c65-9481-1f96bf4ce95c",
+      "Name": "EmailMessagePublisherPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница публикации email сообщения",
+    "DependsOn": []
+  }
+}

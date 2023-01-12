@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ffd94d61-ca8d-4784-88ce-1ae444474523",
+    "Name": "UsrCreateCaseWithCall",
+    "ModifiedOnUtc": "\/Date(1531229656000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Создание обращения со звонком",
+    "DependsOn": []
+  }
+}

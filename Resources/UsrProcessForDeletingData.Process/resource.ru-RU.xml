@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Удаления данных UsrServiceLog" />
+			<Item Name="BaseElements.ScriptTask10.Caption" Value="Удаления данных UsrIntegrationLogFtp" />
+			<Item Name="BaseElements.ScriptTask11.Caption" Value="Удаления данных SysContactLog" />
+			<Item Name="BaseElements.ScriptTask2.Caption" Value="Удаления данных UsrWebitelLog" />
+			<Item Name="BaseElements.ScriptTask3.Caption" Value="Удаления данных SysOrderLog" />
+			<Item Name="BaseElements.ScriptTask4.Caption" Value="Удаления данных CaseFile" />
+			<Item Name="BaseElements.ScriptTask5.Caption" Value="Удаления данных SysPrcElHistoryLog" />
+			<Item Name="BaseElements.ScriptTask6.Caption" Value="Удаления данных CaseMessageHistory" />
+			<Item Name="BaseElements.ScriptTask7.Caption" Value="Удаления данных SysCaseLog" />
+			<Item Name="BaseElements.ScriptTask8.Caption" Value="Удаления данных SysUserSession" />
+			<Item Name="BaseElements.ScriptTask9.Caption" Value="Удаления данных SysPrcHistoryLog" />
+			<Item Name="Caption" Value="Процесс для удаления данных" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+		</Items>
+	</Group>
+</Resources>

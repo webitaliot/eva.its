@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2a76029d-5a2e-429a-a63e-745e10e5ca6e",
+    "Name": "UsrSendSMSOnHoldOrder",
+    "ModifiedOnUtc": "\/Date(1616758980000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отправка смс по Подтвержденным заказам",
+    "DependsOn": []
+  }
+}

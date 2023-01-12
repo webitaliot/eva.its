@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c84f23f4-a06f-4c39-9280-9849ed74f3db",
+    "Name": "UsrSMSTemplate",
+    "ModifiedOnUtc": "\/Date(1530018502000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Шаблон СМС",
+    "DependsOn": []
+  }
+}

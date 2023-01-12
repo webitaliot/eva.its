@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Цвета комплектов продуктов" />
+			<Item Name="Columns.UsrColorInHex.Caption" Value="Код цвета" />
+			<Item Name="Columns.UsrId.Caption" Value="Ид цвета" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

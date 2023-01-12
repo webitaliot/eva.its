@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "849f01db-efed-4aea-bc1f-416528206bfe",
+    "Name": "UsrReturnToQueueWithFailed",
+    "ModifiedOnUtc": "\/Date(1589389427000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Возвращение в очередь активностей с недозвоном",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Причина жалобы" />
+			<Item Name="Columns.UsrActivity.Caption" Value="Активность" />
+			<Item Name="Columns.UsrCompReason.Caption" Value="Причина жалобы" />
+		</Items>
+	</Group>
+</Resources>

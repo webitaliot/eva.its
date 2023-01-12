@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d4d3c6d1-5dd6-4341-aed1-b974714f8305",
+    "Name": "UsrNPSService",
+    "ModifiedOnUtc": "\/Date(1590675891000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Сервис создания активностей",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0c7f1a99-c98a-467b-abcb-69e82c4b20ad",
+    "Name": "UsrCallEvaluationTag",
+    "ModifiedOnUtc": "\/Date(1528985643000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Оценивание Звонка",
+    "DependsOn": []
+  }
+}

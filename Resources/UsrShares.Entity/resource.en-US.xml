@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrAmountPrice.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrAmountPriceDiscounted.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrDiscount.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrDiscountAmount.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrDiscountPercent.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrIncrementId.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrOrderItemNumber.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrOrderProduct.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrOrderShares.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrPriceDiscounted.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrProductShares.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrQuantity.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrRuleId.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrRuleName.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrRuleSetId.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrSetId.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrSKU.Caption" Value="Column 1" />
+		</Items>
+	</Group>
+</Resources>

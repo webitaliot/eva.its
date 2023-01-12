@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "47776e5b-3002-4c69-b02d-9310f9f4a23e",
+    "Name": "UsrSendCaseOnServiceDeskITS1",
+    "ModifiedOnUtc": "\/Date(1598970831000)\/",
+    "Parent": {
+      "UId": "7a79776a-5a95-4899-a94c-34d071594ce3",
+      "Name": "UsrSendCaseOnServiceDesk"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отправка обращения на ServiceDesk",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "153280a3-0169-47e7-a463-19ce09be7f01",
+    "Name": "WebitelCtiProvider",
+    "ModifiedOnUtc": "\/Date(1625032399000)\/",
+    "Parent": {
+      "UId": "f4231ad7-de76-4d70-b4a2-bc7e5bc8a5b1",
+      "Name": "WebitelCtiProvider"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "WebitelCtiProvider",
+    "DependsOn": []
+  }
+}

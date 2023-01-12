@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "b6ccd0ae-8a38-4062-9138-ceeae4612169",
+    "Name": "ContactSearchDetail",
+    "ModifiedOnUtc": "\/Date(1490202588000)\/",
+    "Parent": {
+      "UId": "15a36ca0-0c4a-498a-9c1f-784766aa7e57",
+      "Name": "ContactSearchDetail"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали поиска \"Контакты\"",
+    "DependsOn": []
+  }
+}

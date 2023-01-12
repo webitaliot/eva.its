@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "73f1cddf-d60b-4db8-83d3-50ec0ebcdc04",
+    "Name": "CaseDetail",
+    "ModifiedOnUtc": "\/Date(1643817445000)\/",
+    "Parent": {
+      "UId": "f2981f68-ac18-4382-ab25-832c272d8538",
+      "Name": "CaseDetail"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали раздела \"Обращения\"",
+    "DependsOn": []
+  }
+}

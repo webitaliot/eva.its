@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c3063c59-46a9-4c14-ad9f-32cadb02d6c7",
+    "Name": "UsrTestEvaluation",
+    "ModifiedOnUtc": "\/Date(1531230875000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Тест Оценивание",
+    "DependsOn": []
+  }
+}

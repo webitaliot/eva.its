@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Скрыпти разговоров для операторов" />
+			<Item Name="Columns.UsrDayTime.Caption" Value="Время дня" />
+			<Item Name="Columns.UsrEndTime.Caption" Value="Завершение" />
+			<Item Name="Columns.UsrRuText.Caption" Value="RU" />
+			<Item Name="Columns.UsrStartTime.Caption" Value="Начало" />
+			<Item Name="Columns.UsrUaText.Caption" Value="UA" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Изменить данные Активности" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Caption" Value="Открыть страницу Активности" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.DisplayValue" Value="Выполнить" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DecisionalColumnMetaPath.Value" Value="ae372cfa-a21f-47f0-8a64-17d137ebe966" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.DisplayValue" Value="Перезвоните клиенту в рабочее время и уточните цель звонка в компанию." />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.Value" Value="Перезвоните клиенту в рабочее время и уточните цель звонка в компанию." />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.DisplayValue" Value="[#Системная переменная.Контакт текущего пользователя#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.DisplayValue" Value="Свяжитесь с клиентом и уточните цель звонка." />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Value" Value="Свяжитесь с клиентом и уточните цель звонка." />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordId.DisplayValue" Value="[#Идентификатор выбранной записи#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="Минут" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.DisplayValue" Value="Минут" />
+			<Item Name="Caption" Value="Обработка активности из очереди в Едином окне" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="Пул 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Дорожка 1" />
+			<Item Name="Parameters.entityRecordId.Caption" Value="Идентификатор выбранной записи" />
+			<Item Name="Parameters.queueItemId.Caption" Value="ИД записи в очереди" />
+		</Items>
+	</Group>
+</Resources>

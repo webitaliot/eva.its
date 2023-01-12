@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Notes.Caption" Value="Комментарий заказа" />
+			<Item Name="Columns.UsrAddress.Caption" Value="Улица" />
+			<Item Name="Columns.UsrApartment.Caption" Value="Квартира" />
+			<Item Name="Columns.UsrApproveDate.Caption" Value="Дата подтверждения" />
+			<Item Name="Columns.UsrCall.Caption" Value="Не звонить мне" />
+			<Item Name="Columns.UsrCallCount.Caption" Value="Количество звонков" />
+			<Item Name="Columns.UsrCardType.Caption" Value="Тип карты" />
+			<Item Name="Columns.UsrCity.Caption" Value="Город" />
+			<Item Name="Columns.UsrCityCode.Caption" Value="Код города ИМ" />
+			<Item Name="Columns.UsrClientNewORDCount.Caption" Value="Количество новых заказов" />
+			<Item Name="Columns.UsrCorps.Caption" Value="Корпус" />
+			<Item Name="Columns.UsrCostDelivery.Caption" Value="Стоимость доставки" />
+			<Item Name="Columns.UsrCountry.Caption" Value="Страна" />
+			<Item Name="Columns.UsrCustomerAgreement.Caption" Value="Согласие клиента" />
+			<Item Name="Columns.UsrDeliveryAddr.Caption" Value="Адрес доставки" />
+			<Item Name="Columns.UsrDeliveryDate.Caption" Value="Дата доставки" />
+			<Item Name="Columns.UsrDeliveryDepartment.Caption" Value="Отделение доставки" />
+			<Item Name="Columns.UsrDeliveryService.Caption" Value="Сервис доставки" />
+			<Item Name="Columns.UsrFigureCount.Caption" Value="Количество фигурок" />
+			<Item Name="Columns.UsrHouse.Caption" Value="Дом" />
+			<Item Name="Columns.UsrId.Caption" Value="ID заказа ИМ" />
+			<Item Name="Columns.UsrInvoice.Caption" Value="Инвойс" />
+			<Item Name="Columns.UsrInvoiceExpireDate.Caption" Value="Срок жизни инвойса" />
+			<Item Name="Columns.UsrIsDaysAdded.Caption" Value="IsDaysAdded" />
+			<Item Name="Columns.UsrIsDaysAdded.Description" Value="Добавлены 3 дня к &quot;Срок хранения&quot;?" />
+			<Item Name="Columns.UsrLastCallDate.Caption" Value="Дата последнего звонка" />
+			<Item Name="Columns.UsrLastStatus.Caption" Value="Последнее состояние заказа" />
+			<Item Name="Columns.UsrNoAnswer.Caption" Value="Нет связи" />
+			<Item Name="Columns.UsrNotificationNumber.Caption" Value="Номер для уведомлений" />
+			<Item Name="Columns.UsrOrderCancelReason.Caption" Value="Причина отмены заказа" />
+			<Item Name="Columns.UsrOrderFailureDetailedReason.Caption" Value="Подробная причина отмены заказа" />
+			<Item Name="Columns.UsrParent.Caption" Value="Родительский заказ" />
+			<Item Name="Columns.UsrPaymentMethod.Caption" Value="Метод оплаты" />
+			<Item Name="Columns.UsrRegionCode.Caption" Value="Код региона ИМ" />
+			<Item Name="Columns.UsrSendDate.Caption" Value="Желаемая дата отправки" />
+			<Item Name="Columns.UsrShelfLife.Caption" Value="Срок хранения" />
+			<Item Name="Columns.UsrStatusFieldChanges.Caption" Value="Изменения поля состояния" />
+			<Item Name="Columns.UsrStock.Caption" Value="Склад" />
+			<Item Name="Columns.UsrStoreDeliveryDate.Caption" Value="Дата доставки в магазин" />
+			<Item Name="Columns.UsrStreetCode.Caption" Value="Код улицы" />
+			<Item Name="Columns.UsrTTN.Caption" Value="ТТН" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип заказа" />
+			<Item Name="Columns.UsrUnloadDate.Caption" Value="Дата выгрузки" />
+			<Item Name="Columns.UsrUploadAsCanceled.Caption" Value="Выгружен со статусом Отменен" />
+			<Item Name="Columns.UsrUploadAsConfirmed.Caption" Value="Выгружен со статусом Подтвержден" />
+			<Item Name="Columns.UsrUploadAsNew.Caption" Value="Выгружен со статусом Новый" />
+			<Item Name="Columns.UsrUploadAsUnpaid.Caption" Value="Выгружен со статусом Не оплачен" />
+			<Item Name="Columns.UsrUploadDate.Caption" Value="Дата загрузки" />
+			<Item Name="Columns.UsrWebsiteCode.Caption" Value="Сайт" />
+			<Item Name="Columns.UsrWebsiteLanguage.Caption" Value="Язык сайта" />
+			<Item Name="Columns.UsrWeight.Caption" Value="Общий вес заказа" />
+			<Item Name="Columns.UsrWfpOrder.Caption" Value="WfpOrder" />
+		</Items>
+	</Group>
+</Resources>

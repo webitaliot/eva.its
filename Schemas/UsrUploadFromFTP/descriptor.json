@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1297f85a-a9c2-4ad4-9ba8-ba4ef4376c9f",
+    "Name": "UsrUploadFromFTP",
+    "ModifiedOnUtc": "\/Date(1553080685000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Загрузка данных с FTP",
+    "DependsOn": []
+  }
+}

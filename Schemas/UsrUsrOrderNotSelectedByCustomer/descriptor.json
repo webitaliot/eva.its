@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "477cc352-afe2-4255-9205-8dcfb0e7fe78",
+    "Name": "UsrUsrOrderNotSelectedByCustomer",
+    "ModifiedOnUtc": "\/Date(1499159572000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заказ незабран клиентом",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d80cdd7c-391c-484b-873c-ffe81074b746",
+    "Name": "UsrProductInTransaction",
+    "ModifiedOnUtc": "\/Date(1536316756000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Продукт в транзакции",
+    "DependsOn": []
+  }
+}

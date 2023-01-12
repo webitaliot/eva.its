@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8d985ed9-68c0-4c88-9ec1-dca11276dce2",
+    "Name": "UsrBarcodeDetail",
+    "ModifiedOnUtc": "\/Date(1489066323000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Деталь \"Бар-код\"",
+    "DependsOn": []
+  }
+}

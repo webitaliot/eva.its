@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Обращение" />
+			<Item Name="Columns.UsrActiveNumberCardPL.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrApplicationAuthor.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrAppliedCardNumber.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrAppliedEmail.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrAppliedName.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrAppliedPhone.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrCaseIdToSD.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrCaseType.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrComplaintKcExpert.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrMode.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrNotify.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrOperatorName.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrOwnerNameInSD.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrShop.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrSolution.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrWithReaction.Caption" Value="Column 1" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Добавить емейл" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Caption" Value="Отправить email 1" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ActivityCategory.DisplayValue" Value="[#Справочник.Категория активности.E-mail#]" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.BodyTemplateType.DisplayValue" Value="Произвольное письмо" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.DurationPeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Event.Caption" Value="Мероприятие" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.IgnoreErrors.DisplayValue" Value="true" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Importance.DisplayValue" Value="Средняя" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.OwnerId.DisplayValue" Value="[#Системная переменная.Контакт текущего пользователя#]" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Recipient1.Caption" Value="Кому 1" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Recipient1.DisplayValue" Value="[#Системная настройка.Кому отправить email сообщение service desk#]" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Recommendation.DisplayValue" Value="Отправить email 1" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Recommendation.Value" Value="Отправить email 1" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.SendEmailType.DisplayValue" Value="Отправить email автоматически" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Sender.DisplayValue" Value="[#Системная настройка.От кого отправить email сообщение service desk#]" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.StartInPeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Subject.DisplayValue" Value="[#Читать шаблон отправки.Первый элемент результирующей коллекции.Тема письма#]" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Сформировать тело письма" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать шаблон отправки" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="Читать обращение" />
+			<Item Name="BaseElements.ReadDataUserTask3.Caption" Value="Читать данные 3" />
+			<Item Name="BaseElements.ReadDataUserTask4.Caption" Value="Читать от кого" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Обращение закрыто" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Id записи" />
+			<Item Name="Caption" Value="Закрития обращение" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.EmailBody.Caption" Value="Тело письма" />
+			<Item Name="Parameters.ProcessSchemaParameter1.Caption" Value="От кого отправлять" />
+			<Item Name="Parameters.ProcessSchemaParameter1.DisplayValue" Value="[#Системная настройка.От кого отправить email сообщение service desk#]" />
+		</Items>
+	</Group>
+</Resources>

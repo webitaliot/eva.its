@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca2c3ecb-3d2b-4386-b125-6d77389c2222",
+    "Name": "UsrBPMService",
+    "ModifiedOnUtc": "\/Date(1635000839000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Сервис для роботы с обращениями ",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "1add31a7-ff98-4a4b-b461-51c7f2dbd20f",
+    "Name": "SocialMessage",
+    "ModifiedOnUtc": "\/Date(1491404963000)\/",
+    "Parent": {
+      "UId": "b0e78c23-7095-4d59-b8eb-c10243bcd67b",
+      "Name": "SocialMessage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Сообщение/комментарий",
+    "DependsOn": []
+  }
+}

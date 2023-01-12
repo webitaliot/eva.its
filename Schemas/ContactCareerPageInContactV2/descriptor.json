@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "a310a160-41e9-4a22-925c-62ae4eb7d677",
+    "Name": "ContactCareerPageInContactV2",
+    "ModifiedOnUtc": "\/Date(1576070564000)\/",
+    "Parent": {
+      "UId": "70dde563-70ee-4002-8ee5-13c3e7fae3cc",
+      "Name": "ContactCareerPageInContactV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ContactCareerPageInContactV2",
+    "DependsOn": []
+  }
+}

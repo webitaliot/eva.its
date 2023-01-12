@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrAcceptanceEmailKm.Caption" Value="Согласие на e-mail по КМ" />
+			<Item Name="Columns.UsrAcceptanceEmailPl.Caption" Value="Согласие на e-mail по ПЛ" />
+			<Item Name="Columns.UsrAcceptanceSMSKm.Caption" Value="Согласие на SMS по КМ" />
+			<Item Name="Columns.UsrAcceptanceSMSPl.Caption" Value="Согласие на SMS по ПЛ" />
+			<Item Name="Columns.UsrApartment.Caption" Value="Квартира" />
+			<Item Name="Columns.UsrBalanceTrade.Caption" Value="Активный баланс" />
+			<Item Name="Columns.UsrCardType.Caption" Value="Тип карты" />
+			<Item Name="Columns.UsrContactStatus.Caption" Value="Статус пользователя" />
+			<Item Name="Columns.UsrCorps.Caption" Value="Корпус" />
+			<Item Name="Columns.UsrDateRegistrationCard.Caption" Value="Дата регистрации карты" />
+			<Item Name="Columns.UsrEmailConfirmed.Caption" Value="Email подтвержден" />
+			<Item Name="Columns.UsrHouse.Caption" Value="Дом" />
+			<Item Name="Columns.UsrIMCode.Caption" Value="UsrIMCode" />
+			<Item Name="Columns.UsrInactiveBalance.Caption" Value="Неактивный баланс" />
+			<Item Name="Columns.UsrIsCreatedFromService.Caption" Value="Создан с сервиса" />
+			<Item Name="Columns.UsrLanguageCommunication.Caption" Value="Язык общения IVR" />
+			<Item Name="Columns.UsrMemberIdPL.Caption" Value="ИД участника ПЛ" />
+			<Item Name="Columns.UsrNumberActingCard.Caption" Value="Номер действующей карты" />
+			<Item Name="Columns.UsrNumberActiveCard.Caption" Value="Номер активной карты" />
+			<Item Name="Columns.UsrOddMoneyBalance.Caption" Value="Баланс &quot;мелочь на карту&quot;" />
+			<Item Name="Columns.UsrOddMoneyFlags.Caption" Value="Флаги счета &quot;мелочь на карту&quot;" />
+			<Item Name="Columns.UsrPassportIssueAuthority.Caption" Value="Паспорт выдан" />
+			<Item Name="Columns.UsrPassportIssueDate.Caption" Value="Дата выдачи паспорта" />
+			<Item Name="Columns.UsrPassportNumber.Caption" Value="Номер паспорта" />
+			<Item Name="Columns.UsrPassportSeries.Caption" Value="Серия паспорта" />
+			<Item Name="Columns.UsrPhoneConfirmed.Caption" Value="Телефон подтвержден" />
+			<Item Name="Columns.UsrPrefareCommunication.Caption" Value="Предпочитаемый способ связи" />
+			<Item Name="Columns.UsrReliability.Caption" Value="Надежность контакта" />
+			<Item Name="Columns.UsrSpendAllowed.Caption" Value="Разрешить списания бонусов" />
+			<Item Name="Columns.UsrStatusCard.Caption" Value="Статус карты" />
+			<Item Name="Columns.UsrStatusWriteoffBonuses.Caption" Value="Статус списания бонусов" />
+			<Item Name="Columns.UsrSymptomParticipationClub.Caption" Value="Признак участия в Клубе Щаслива мама" />
+			<Item Name="Columns.UsrUserInRole.Caption" Value="UsrUserInRole" />
+			<Item Name="Columns.UsrWalletBalance.Caption" Value="Баланс Гаманець" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Подчиненный объект" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Значения по умолчанию для колонок подчиненного объекта" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Фильтр удаления записей" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Связь между колонками родительского и подчиненного объектов" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Фильтр выбора нескольких строк" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Все поля обязательны" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Обязательные поля дочернего объекта" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Фильтр выбора одной строки" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2.Caption" Value="Пул 2" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2.Lanes.Lane2.Caption" Value="Дорожка 2" />
+		</Items>
+	</Group>
+</Resources>

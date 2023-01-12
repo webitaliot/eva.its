@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "f1cac354-8181-470d-88d2-416f5895fb93",
+    "Name": "OrderSectionV2",
+    "ModifiedOnUtc": "\/Date(1503312648000)\/",
+    "Parent": {
+      "UId": "2a36e6fb-63c1-4b9a-beea-c1b3f8fe9250",
+      "Name": "OrderSectionV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Заказы\"",
+    "DependsOn": []
+  }
+}

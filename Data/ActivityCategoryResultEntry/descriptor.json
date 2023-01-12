@@ -1,0 +1,35 @@
+﻿{
+  "Descriptor": {
+    "UId": "bd451891-8079-44bf-99f5-8e910ddc27a9",
+    "Name": "ActivityCategoryResultEntry",
+    "ModifiedOnUtc": "\/Date(1547212404000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "bd4e2904-dfb9-460a-8fd8-1d5e20405782",
+      "Name": "ActivityCategoryResultEntry"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "a9b31a96-5933-4a24-9de8-e6312dbce20b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ActivityResult",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "136bcedb-1f6d-4214-8815-551c71f345a8",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ActivityCategory",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}

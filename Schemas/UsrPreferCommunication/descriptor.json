@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9350e5f8-4ade-43cf-8dd9-4148a1ad56a8",
+    "Name": "UsrPreferCommunication",
+    "ModifiedOnUtc": "\/Date(1534403915000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Предпочитаемый способ связи",
+    "DependsOn": []
+  }
+}

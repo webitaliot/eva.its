@@ -1,0 +1,94 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8e0c3078-3304-4d0e-b0ee-8561591fa432"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "ac09aa93-a771-43c6-9ab1-01a0061616e0",
+          "DisplayValue": "Настройка FTP"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "f738d1c1-555f-4f13-9541-05c42e464f2f",
+          "DisplayValue": "FTP Пароль"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0c4163ce-691f-4976-bb00-10f603cb1727"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "ac09aa93-a771-43c6-9ab1-01a0061616e0",
+          "DisplayValue": "Настройка FTP"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "000d56c3-dbdc-475b-80de-ae35149936d5",
+          "DisplayValue": "FTP Имя пользователя"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "30f96a34-963f-4e53-8178-879b2af2ae1f"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "ac09aa93-a771-43c6-9ab1-01a0061616e0",
+          "DisplayValue": "Настройка FTP"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "fed8e3d9-1a7f-40cc-b4d0-f192de2a3dc3",
+          "DisplayValue": "FTP Хост"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "09e0d67e-80fa-4194-9135-c736f3dbd067"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "ac09aa93-a771-43c6-9ab1-01a0061616e0",
+          "DisplayValue": "Настройка FTP"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "691fd99a-38f9-48dd-af61-3ff0893f1cec",
+          "DisplayValue": "Путь к папке IN"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f3434545-f449-440e-bf8a-c4a2e83c47da"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "ac09aa93-a771-43c6-9ab1-01a0061616e0",
+          "DisplayValue": "Настройка FTP"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "2d0cb6c4-a034-4246-b2f5-aca4e4bb38ef",
+          "DisplayValue": "Путь к папке SQL"
+        }
+      ]
+    }
+  ]
+}

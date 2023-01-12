@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1595074b-095a-4cbe-824a-7b579f869b54",
+    "Name": "UsrContactInactiveCard",
+    "ModifiedOnUtc": "\/Date(1487603487000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Неактивные карты",
+    "DependsOn": []
+  }
+}

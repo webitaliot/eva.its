@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "e5f4e4b6-0a11-4213-86d4-2c10fcbf641f",
+    "Name": "ProductPageV2",
+    "ModifiedOnUtc": "\/Date(1590675976000)\/",
+    "Parent": {
+      "UId": "0daec87e-a84d-44bc-9dd0-c90b8d1baa33",
+      "Name": "ProductPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования продукта",
+    "DependsOn": []
+  }
+}

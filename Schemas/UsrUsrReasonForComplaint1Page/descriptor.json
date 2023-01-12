@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7b01f9d0-5f26-4241-89fb-6e36fd0641e1",
+    "Name": "UsrUsrReasonForComplaint1Page",
+    "ModifiedOnUtc": "\/Date(1546949450000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Причина жалобы\"",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c9f823e9-3b1b-42ab-afde-6ad847ff38fb",
+    "Name": "LookupPageHelper",
+    "ModifiedOnUtc": "\/Date(1553693078000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "LookupPageHelper",
+    "DependsOn": []
+  }
+}

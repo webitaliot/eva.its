@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "23accb04-4bc7-4558-bbd8-9034ffcdd9fe",
+    "Name": "UsrSetCallEvalName",
+    "ModifiedOnUtc": "\/Date(1634901440000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Установка названия Оценивания звонка",
+    "DependsOn": []
+  }
+}

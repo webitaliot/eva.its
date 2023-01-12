@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7319f844-5a85-4963-b055-62dbfc5f108b",
+    "Name": "UsrUsrCaseWithReaction1",
+    "ModifiedOnUtc": "\/Date(1556197902000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Обработка обращения с реакцией - Копия",
+    "DependsOn": []
+  }
+}

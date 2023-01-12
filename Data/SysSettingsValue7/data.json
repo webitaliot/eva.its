@@ -1,0 +1,58 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ffd545dd-d2de-40d7-8b07-20654613bb20",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "297f4697-d071-4be2-8509-9090c07dfe18",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "34f73492-296e-4a73-95f7-e7de5a3b3509",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "b1ffd2d8-2bd3-4c46-b9c0-782afb0996c0",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bddc20b3-afe3-48dc-8816-030c374280c8"
+        },
+        {
+          "SchemaColumnUId": "b36bfa07-34c7-45b1-a2ee-39e653034ba0",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "f1bc0b27-2c46-4cae-ad23-3b8940587d4f",
+          "Value": 2147483647
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "Все сотрудники компании"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "bf21139c-87e6-4188-91f1-97b5e6ab3727",
+          "DisplayValue": "Реквест тестового заказа"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "{ \"base_currency_code\": \"UAH\", \"base_discount_amount\": 0, \"base_grand_total\": 82.9, \"base_discount_tax_compensation_amount\": 0, \"base_shipping_amount\": 25, \"base_shipping_discount_amount\": 0, \"base_shipping_incl_tax\": 25, \"base_shipping_tax_amount\": 0, \"base_subtotal\": 57.9, \"base_subtotal_incl_tax\": 57.9, \"base_tax_amount\": 0, \"base_total_due\": 82.9, \"base_to_global_rate\": 1, \"base_to_order_rate\": 1, \"billing_address_id\": 64337, \"created_at\": \"2019-01-24 09:46:59\", \"customer_email\": \"mbredenko@eva.dp.ua\", \"customer_firstname\": \"Марк\", \"customer_group_id\": 1, \"customer_id\": 18499, \"customer_is_guest\": 0, \"customer_lastname\": \"Бреденко\", \"customer_middlename\": \"Геннадиевич\", \"customer_note_notify\": 1, \"discount_amount\": 0, \"email_sent\": 1, \"entity_id\": 11309, \"global_currency_code\": \"UAH\", \"grand_total\": 82.9, \"discount_tax_compensation_amount\": 0, \"increment_id\": \"026848\", \"is_virtual\": 0, \"order_currency_code\": \"UAH\", \"protect_code\": \"a9076c\", \"quote_id\": 1581001, \"remote_ip\": \"10.255.245.16\", \"shipping_amount\": 25, \"shipping_description\": \"Нова Пошта - Самовивіз з відділення \\\"Нової Пошти\\\"\", \"shipping_discount_amount\": 0, \"shipping_discount_tax_compensation_amount\": 0, \"shipping_incl_tax\": 25, \"shipping_tax_amount\": 0, \"state\": \"15\", \"status\": \"pending\", \"store_currency_code\": \"UAH\", \"store_id\": 2, \"store_name\": \"Main Website\\neva.ua\\nУкр\", \"store_to_base_rate\": 0, \"invoice\": \"228\", \"invoice_expiration_date\": \"2019-01-24 09:46:59\", \"store_to_order_rate\": 0, \"subtotal\": 57.9, \"subtotal_incl_tax\": 57.9, \"tax_amount\": 0, \"total_due\": 82.9, \"total_item_count\": 1, \"total_qty_ordered\": 1, \"updated_at\": \"2019-01-24 09:47:01\", \"weight\": 0, \"items\": [ { \"amount_refunded\": 0, \"base_amount_refunded\": 0, \"base_discount_amount\": 0, \"base_discount_invoiced\": 0, \"base_discount_tax_compensation_amount\": 0, \"base_original_price\": 72.5, \"base_price\": 57.9, \"base_price_incl_tax\": 57.9, \"base_row_invoiced\": 0, \"base_row_total\": 57.9, \"base_row_total_incl_tax\": 57.9, \"base_tax_amount\": 0, \"base_tax_invoiced\": 0, \"created_at\": \"2019-01-24 09:46:59\", \"discount_amount\": 0, \"discount_invoiced\": 0, \"discount_percent\": 0, \"free_shipping\": 0, \"discount_tax_compensation_amount\": 0, \"is_qty_decimal\": 0, \"is_virtual\": 0, \"item_id\": 169054, \"name\": \"Шампунь Botanic THERAPY для слабкого, схильного до випадіння волосся Рицинова Олія і Мигдаль, 400 мл\", \"no_discount\": 0, \"order_id\": 32819, \"original_price\": 72.5, \"price\": 57.9, \"price_incl_tax\": 57.9, \"product_id\": 22996, \"product_type\": \"simple\", \"qty_canceled\": 0, \"qty_invoiced\": 0, \"qty_ordered\": 1, \"qty_refunded\": 0, \"qty_shipped\": 0, \"quote_item_id\": 689577, \"row_invoiced\": 0, \"row_total\": 57.9, \"row_total_incl_tax\": 57.9, \"row_weight\": 0, \"sku\": \"440403\", \"store_id\": 2, \"tax_amount\": 0, \"tax_invoiced\": 0, \"tax_percent\": 0, \"updated_at\": \"2019-01-24 09:46:59\", \"weight\": 0, \"extension_attributes\": { \"order_item_number\": 1, \"price_discounted\": 57.9, \"row_total_discounted\": 57.9, \"rule_sets\": [ { \"rule_id\": \"\", \"rule_set_id\": \"\" } ], \"discounts\": [] } } ], \"billing_address\": { \"address_type\": \"billing\", \"city\": \"Піщаний Брід\", \"country_id\": \"UA\", \"customer_id\": 18499, \"email\": \"mbredenko@eva.dp.ua\", \"entity_id\": 64337, \"firstname\": \"Марк\", \"lastname\": \"Бреденко\", \"middlename\": \"Геннадиевич\", \"parent_id\": 32819, \"postcode\": \"-\", \"region\": \"-\", \"region_code\": \"-\", \"street\": [ \"-\" ], \"telephone\": \"+38 (063) 312 62 83\", \"extension_attributes\": { \"phone_confirmation\": 0 } }, \"payment\": { \"method\": \"card\", \"status\": \"Created\", \"account_status\": null, \"additional_information\": [ \"Оплата при отриманні замовлення\", null, null ], \"amount_ordered\": 82.9, \"base_amount_ordered\": 82.9, \"base_shipping_amount\": 25, \"cc_last4\": null, \"entity_id\": 32363, \"method\": \"checkmo\", \"parent_id\": 32819, \"shipping_amount\": 25, \"extension_attributes\": [] }, \"status_histories\": [], \"extension_attributes\": { \"shipping_assignments\": [ { \"shipping\": { \"address\": { \"address_type\": \"shipping\", \"city\": \"Дніпро\", \"country_id\": \"UA\", \"customer_address_id\": 9232, \"customer_id\": 18499, \"email\": \"mbredenko@eva.dp.ua\", \"entity_id\": 64336, \"firstname\": \"Марк\", \"lastname\": \"Бреденко\", \"middlename\": \"Геннадиевич\", \"parent_id\": 32819, \"postcode\": \"-\", \"region\": \"-\", \"region_code\": \"-\", \"street\": [ \"Відділення №45 (до 30 кг на одне місце): просп. Мануйлівський (ран. Воронцова), 7\" ], \"telephone\": \"+38 (095) 106 88 37\", \"extension_attributes\": { \"city\": \"Дніпро\", \"region\": \"Дніпропетровська область\", \"region_id\": \"dcaad735-4b33-11e4-ab6d-005056801329\", \"comment\": \"ТЕСТ ТЕСТ ТЕСТ ЭТО ТЕСТОВЫЙ ТЕСТ ЗАКАЗА\\nНЕ СОБИРАТЬ НЕ ОТПРАВЛЯТЬ\", \"street\": { \"name\": \"Відділення №45 (до 30 кг на одне місце): просп. Мануйлівський (ран. Воронцова), 7\" }, \"warehouse_id\": \"f75e2c18-1c76-11e4-acce-0050568002cf\", \"warehouse_number\": 45, \"city_id\": \"e717110a-4b33-11e4-ab6d-005056801329\" } }, \"method\": \"novaposhta_warehouse\", \"total\": { \"base_shipping_amount\": 25, \"base_shipping_discount_amount\": 0, \"base_shipping_incl_tax\": 25, \"base_shipping_tax_amount\": 0, \"shipping_amount\": 25, \"shipping_discount_amount\": 0, \"shipping_discount_tax_compensation_amount\": 0, \"shipping_incl_tax\": 25, \"shipping_tax_amount\": 0 } }, \"items\": [ { \"amount_refunded\": 0, \"base_amount_refunded\": 0, \"base_discount_amount\": 0, \"base_discount_invoiced\": 0, \"base_discount_tax_compensation_amount\": 0, \"base_original_price\": 72.5, \"base_price\": 57.9, \"base_price_incl_tax\": 57.9, \"base_row_invoiced\": 0, \"base_row_total\": 57.9, \"base_row_total_incl_tax\": 57.9, \"base_tax_amount\": 0, \"base_tax_invoiced\": 0, \"created_at\": \"2019-01-24 09:46:59\", \"discount_amount\": 0, \"discount_invoiced\": 0, \"discount_percent\": 0, \"free_shipping\": 0, \"discount_tax_compensation_amount\": 0, \"is_qty_decimal\": 0, \"is_virtual\": 0, \"item_id\": 169054, \"name\": \"Шампунь Botanic THERAPY для слабкого, схильного до випадіння волосся Рицинова Олія і Мигдаль, 400 мл\", \"no_discount\": 0, \"order_id\": 32819, \"original_price\": 72.5, \"price\": 57.9, \"price_incl_tax\": 57.9, \"product_id\": 22996, \"product_type\": \"simple\", \"qty_canceled\": 0, \"qty_invoiced\": 0, \"qty_ordered\": 1, \"qty_refunded\": 0, \"qty_shipped\": 0, \"quote_item_id\": 689577, \"row_invoiced\": 0, \"row_total\": 57.9, \"row_total_incl_tax\": 57.9, \"row_weight\": 0, \"sku\": \"440403\", \"store_id\": 2, \"tax_amount\": 0, \"tax_invoiced\": 0, \"tax_percent\": 0, \"updated_at\": \"2019-01-24 09:46:59\", \"weight\": 0, \"extension_attributes\": { \"order_item_number\": 1, \"price_discounted\": 57.9, \"row_total_discounted\": 57.9, \"rule_sets\": [ { \"rule_id\": \"\", \"rule_set_id\": \"\" } ], \"discounts\": [] } } ] } ], \"call\": \"0\", \"created_at_eet\": \"2019-01-24 11:46:59\", \"rule_sets\": [], \"discounts\": [] } }"
+        }
+      ]
+    }
+  ]
+}

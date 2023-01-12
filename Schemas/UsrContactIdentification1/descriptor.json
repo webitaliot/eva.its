@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f688e6e5-8fdb-4e0e-8066-24bd82f6ca94",
+    "Name": "UsrContactIdentification1",
+    "ModifiedOnUtc": "\/Date(1665575104000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Идентификация контакта  (по входящему звонку) в рамках процессов консультации и создания  обращения - Копия",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Add products" />
+			<Item Name="BaseElements.ConditionalFlow1.Caption" Value="Yes" />
+			<Item Name="BaseElements.CreateInvoiceByOrderScriptTask.Caption" Value="New invoice based on opportunity" />
+			<Item Name="BaseElements.ExclusiveGateway1.Caption" Value="Has the order Id been passed?" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Caption" Value="Open invoice page" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.DisplayValue" Value="To do" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.DisplayValue" Value="Fill in the needed fields and save the invoice" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Value" Value="Fill in the needed fields and save the invoice" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordId.DisplayValue" Value="[#New invoice Id#]" />
+			<Item Name="Caption" Value="New invoice based on this order" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="Pool 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="Parameters.CreatedInvoiceId.Caption" Value="New invoice Id" />
+			<Item Name="Parameters.CurrentOrder.Caption" Value="Current order" />
+		</Items>
+	</Group>
+</Resources>

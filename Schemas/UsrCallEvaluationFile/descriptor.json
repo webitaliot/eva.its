@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b0d8ceff-17ab-453a-ace8-fc8ccda24c34",
+    "Name": "UsrCallEvaluationFile",
+    "ModifiedOnUtc": "\/Date(1528985739000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Оценивание Звонка",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,60 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "271a03bd-5be4-44bb-9ea9-9c983da51ebf"
+        },
+        {
+          "SchemaColumnUId": "744e6a8f-4792-4153-a7af-d913c8aab620",
+          "ColumnName": "EntitySchemaCaption",
+          "Value": "Account"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "fd2c5cf9-c720-4b88-8d33-ea88121d6405"
+        },
+        {
+          "SchemaColumnUId": "744e6a8f-4792-4153-a7af-d913c8aab620",
+          "ColumnName": "EntitySchemaCaption",
+          "Value": "Case"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "8e5b6fb3-f73e-4e53-bdfc-2e563f403fd1"
+        },
+        {
+          "SchemaColumnUId": "744e6a8f-4792-4153-a7af-d913c8aab620",
+          "ColumnName": "EntitySchemaCaption",
+          "Value": "Contact"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "6ae9fe82-0808-47be-a9cb-217cd0b1169f"
+        },
+        {
+          "SchemaColumnUId": "744e6a8f-4792-4153-a7af-d913c8aab620",
+          "ColumnName": "EntitySchemaCaption",
+          "Value": "Активность"
+        }
+      ]
+    }
+  ]
+}

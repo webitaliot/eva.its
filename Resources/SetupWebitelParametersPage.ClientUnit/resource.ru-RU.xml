@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AvailableOnDemandCaption.Value" Value="Available on demand" />
+			<Item Name="LocalizableStrings.CallInfoCaption.Value" Value="Call-Info" />
+			<Item Name="LocalizableStrings.IsOperatorCaption.Value" Value="Оператор" />
+		</Items>
+	</Group>
+</Resources>

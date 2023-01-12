@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "07576b7e-0258-4291-9f38-e9a151e7ff45",
+    "Name": "UsrNightProductImportFromFTPTest",
+    "ModifiedOnUtc": "\/Date(1567161251000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "UsrNightProductImportFromFTPTest",
+    "DependsOn": []
+  }
+}

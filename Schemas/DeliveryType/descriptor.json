@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "ce3919a2-cc6c-4447-b788-2c80911e673b",
+    "Name": "DeliveryType",
+    "ModifiedOnUtc": "\/Date(1499337034000)\/",
+    "Parent": {
+      "UId": "dc257b41-06e9-468a-9ec2-39d4fcc920aa",
+      "Name": "DeliveryType"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип доставки",
+    "DependsOn": []
+  }
+}

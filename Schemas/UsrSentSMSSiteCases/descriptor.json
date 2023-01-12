@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8281361f-0c10-4d30-b16e-ee5ab832ac6f",
+    "Name": "UsrSentSMSSiteCases",
+    "ModifiedOnUtc": "\/Date(1528723554000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "С отправкой SMS",
+    "DependsOn": []
+  }
+}

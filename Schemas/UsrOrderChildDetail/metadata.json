@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "51ea2a24-8cad-4d21-960f-e9b07eb644e0"
+= MetaData.Schema.A2 "UsrOrderChildDetail"
+= MetaData.Schema.A5 "be1a48d7-1a8f-43cc-af3d-c34b082b2460"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "51ea2a24-8cad-4d21-960f-e9b07eb644e0"
+= MetaData.Schema.B6 "2f7e2b8b-9dd4-4c24-9149-055455ac8f40"
+= MetaData.Schema.B8 "7.9.1.3284"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

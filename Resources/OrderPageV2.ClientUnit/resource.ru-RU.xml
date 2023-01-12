@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BOOLEANd9fc77fb69fe489995b2a3508742ef70LabelCaption.Value" Value="111" />
+			<Item Name="LocalizableStrings.ButtonAdd3Days.Value" Value="Продлить на 3 дня" />
+			<Item Name="LocalizableStrings.ChangeInvoice.Value" Value="По оплате выставлен счет. Вы хотите изменить данные счета?" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Запланировать на дату" />
+			<Item Name="LocalizableStrings.ContractProductDetailV2d8c03ab9DetailCaptionOnPage.Value" Value="Продукты2" />
+			<Item Name="LocalizableStrings.CreateContract.Value" Value="Создать договор на основании заказа" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Caption" Value="Создать счет на основании заказа" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Value" Value="Создать счет на основании заказа" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Caption" Value="CreateInvoiceFromOrderProcessNotSet" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Value" Value="Не удалось найти процесс из системной настройки CreateInvoiceFromOrderProcess." />
+			<Item Name="LocalizableStrings.FileNotesTabCaption.Value" Value="Файлы и примечания" />
+			<Item Name="LocalizableStrings.LeadTabCaption.Value" Value="Лиды" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Связать продукты в заказе с договором?" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Найдено более одного элементов очереди связанных с процессом. Идентификатор процесса: {0}" />
+			<Item Name="LocalizableStrings.OpportunityCaption.Value" Value="Продажа" />
+			<Item Name="LocalizableStrings.OpportunityTip.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.OpportunityTip.Value" Value="Продажа, в рамках которой создан заказ. Значения в поле отфильтрованы по контрагенту и контакту, указанным в заказе" />
+			<Item Name="LocalizableStrings.OrderDelivery.Value" Value="Доставка и оплата" />
+			<Item Name="LocalizableStrings.OrderDeliveryTabGroupc0a16b1eGroupCaption.Value" Value="Сроки получения" />
+			<Item Name="LocalizableStrings.OrderPassportTabCaption.Value" Value="Паспорт заказа" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Вернуть в очередь" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Ошибка возвращения элемента в очередь. Сообщение об ошибке: {0}" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Все" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Выбрать" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Страница не связана с элементом очереди единого окна. Действие отменено." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Ошибка при возвращении элемента в очередь" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Элемент успешно возвращен в очередь" />
+			<Item Name="LocalizableStrings.RecomendationCaption.Value" Value="Содержит товары из ДА" />
+			<Item Name="LocalizableStrings.Tab28e72946TabLabelGroup0dffe45cGroupCaption.Value" Value="Статусы" />
+			<Item Name="LocalizableStrings.Tab28e72946TabLabelGroup177ba196GroupCaption.Value" Value="Сроки" />
+			<Item Name="LocalizableStrings.UsrMagentoTabCaption.Value" Value="ИМ Magenta" />
+		</Items>
+	</Group>
+</Resources>

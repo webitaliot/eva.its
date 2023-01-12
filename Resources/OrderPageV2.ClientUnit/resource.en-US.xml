@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования заказа" />
+			<Item Name="LocalizableStrings.ChangeInvoice.Value" Value="An invoice has been generated for the payment. Do you want to modify the invoice data?" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Postpone till" />
+			<Item Name="LocalizableStrings.ContractProductDetailV2d8c03ab9DetailCaptionOnPage.Value" Value="Products" />
+			<Item Name="LocalizableStrings.CreateContract.Value" Value="New contract based on order" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Caption" Value="New invoice based on this order" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Value" Value="New invoice based on this order" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Caption" Value="CreateInvoiceFromOrderProcessNotSet" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Value" Value="SysSetting CreateInvoiceFromOrderProcess does not contain any process value." />
+			<Item Name="LocalizableStrings.FileNotesTabCaption.Value" Value="Attachments and notes" />
+			<Item Name="LocalizableStrings.LeadTabCaption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Connect the ordered products to contract?" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="More than one queue element connected to the process. Process Id: {0}" />
+			<Item Name="LocalizableStrings.OpportunityCaption.Value" Value="Opportunity" />
+			<Item Name="LocalizableStrings.OpportunityTip.Value" Value="An opportunity for which the order was created. The lookups are filtered by the contact and account specified in the order" />
+			<Item Name="LocalizableStrings.OrderPassportTabCaption.Value" Value="Order details" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Re-queue" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Unable to re-queue item. Error message: {0}" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="All" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Select" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Page is not connected to the agent desktop queue element. Action cancelled." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Unable to re-queue item" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Successfully re-queued" />
+			<Item Name="LocalizableStrings.UsrMagentoTabCaption.Caption" Value="Message to user 1" />
+		</Items>
+	</Group>
+</Resources>

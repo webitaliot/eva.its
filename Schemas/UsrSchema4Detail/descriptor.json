@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a3db6a52-b85a-47cf-bf98-0b3f81a2e4a1",
+    "Name": "UsrSchema4Detail",
+    "ModifiedOnUtc": "\/Date(1547543884000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Причина жалобы\"",
+    "DependsOn": []
+  }
+}

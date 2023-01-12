@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2d197f86-2511-4e17-abb7-760d3141eb8c",
+    "Name": "UsrWeightProblem",
+    "ModifiedOnUtc": "\/Date(1539957678000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Проблема с отделением (вес)",
+    "DependsOn": []
+  }
+}

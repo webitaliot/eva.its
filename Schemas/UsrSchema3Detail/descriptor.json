@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fbed062c-e59b-4d14-a797-4a8d9f8d8dbf",
+    "Name": "UsrSchema3Detail",
+    "ModifiedOnUtc": "\/Date(1536836533000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Баланасы контакта\"",
+    "DependsOn": []
+  }
+}

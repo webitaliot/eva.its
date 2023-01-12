@@ -1,0 +1,77 @@
+﻿{
+  "Descriptor": {
+    "UId": "c75a3e1c-f655-43d0-9b94-82d24e785cfd",
+    "Name": "VwSysSetting",
+    "ModifiedOnUtc": "\/Date(1532089655000)\/",
+    "InstallType": 1,
+    "Schema": {
+      "UId": "f884326b-abd5-47d6-8ade-59bbf1dfeccd",
+      "Name": "VwSysSetting"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "3fe15c05-fa45-4a4f-9b34-1da9a0372d8a",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "IsPersonal",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "13a9aa83-6d7e-4578-b8f9-92dd771f87ee",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ReferenceSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "3463ca37-7483-49e2-a526-c574581fa7f6",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "84247f72-6888-41a8-9eeb-5077d36f0b48",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "723eed02-d25b-445e-8d1b-b10fbfef4e42",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "863bf97f-375b-43cc-a1a0-294cf1fb762f",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Code",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "f12f0733-d707-47d9-8dce-af20acf7186d",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ValueTypeName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "606e3428-786f-4fc3-8a70-796c5489e966",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "IsCacheable",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "0f5e5f27-1146-48e5-8d2d-31021482c008",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "IsSSPAvailable",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      }
+    ]
+  }
+}

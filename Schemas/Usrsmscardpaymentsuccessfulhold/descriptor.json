@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0da19b4b-e944-4b50-b98f-ad7eabbac9ea",
+    "Name": "Usrsmscardpaymentsuccessfulhold",
+    "ModifiedOnUtc": "\/Date(1562770179000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "SMS Оплата карта. Подтвержденный",
+    "DependsOn": []
+  }
+}

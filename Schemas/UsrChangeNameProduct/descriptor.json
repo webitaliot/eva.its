@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8eb7ecb4-9969-43fb-b3c4-85c9bb57a918",
+    "Name": "UsrChangeNameProduct",
+    "ModifiedOnUtc": "\/Date(1566243217000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ChangeNameProduct",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cca3a3f9-a8bb-47ee-96f9-6b42516a9466",
+    "Name": "UsrServiceLog",
+    "ModifiedOnUtc": "\/Date(1557910139000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Логи сервісів",
+    "DependsOn": []
+  }
+}

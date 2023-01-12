@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a1ae0bab-643a-4ede-b8af-22fde9614c8d",
+    "Name": "UsrGeneralTableWithRatings",
+    "ModifiedOnUtc": "\/Date(1533036860000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Общая таблица с оценками",
+    "DependsOn": []
+  }
+}

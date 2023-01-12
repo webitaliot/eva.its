@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d73fb718-2f5c-4b43-8a93-dadf9b116545",
+    "Name": "UsrInegrationPrcess",
+    "ModifiedOnUtc": "\/Date(1580826501000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Интеграция процессинга",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "20cd1de2-8ec5-45ee-98f4-5cc26ce662b5",
+    "Name": "UsrReasonForComplaint",
+    "ModifiedOnUtc": "\/Date(1556027817000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Причина жалобы",
+    "DependsOn": []
+  }
+}

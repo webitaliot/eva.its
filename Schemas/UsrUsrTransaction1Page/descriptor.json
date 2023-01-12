@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "914121af-2b92-49fa-b1ec-876d281c0aa1",
+    "Name": "UsrUsrTransaction1Page",
+    "ModifiedOnUtc": "\/Date(1536314558000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Транзакция\"",
+    "DependsOn": []
+  }
+}

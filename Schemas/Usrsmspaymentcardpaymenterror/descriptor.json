@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4ae1ddb4-0369-476b-9cdb-2be6115fba6f",
+    "Name": "Usrsmspaymentcardpaymenterror",
+    "ModifiedOnUtc": "\/Date(1562770128000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "SMS Оплата карта. Ошибка оплаты",
+    "DependsOn": []
+  }
+}

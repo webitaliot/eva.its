@@ -1,0 +1,61 @@
+= MetaData.Schema.UId "20cd1de2-8ec5-45ee-98f4-5cc26ce662b5"
+= MetaData.Schema.A2 "UsrReasonForComplaint"
+= MetaData.Schema.A5 "c2a76311-d47b-49ca-80b1-cd591a6f14c3"
+= MetaData.Schema.B6 "2f7e2b8b-9dd4-4c24-9149-055455ac8f40"
+= MetaData.Schema.B8 "7.11.3.1715"
+= MetaData.Schema.EG1.UId "25275d76-74bc-4968-aac3-fcd757b84bb1"
+= MetaData.Schema.EG1.A2 "UsrReasonForComplaintEventsProcess"
+= MetaData.Schema.EG1.A5 "c2a76311-d47b-49ca-80b1-cd591a6f14c3"
+- MetaData.Schema.EG1.B1.["fe742d1c-4346-4cc5-894e-217df991856c"].C2
++ MetaData.Schema.EG1.B8 "7.11.3.1715"
+= MetaData.Schema.EG1.BK8 "66f58f21-6ed1-4e29-b506-6b9f6426d463"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
++ MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].IL2 "079c1a2b-96d1-4935-9764-180b73ed11ac"
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].BL4
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].BL9
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BL9
+- MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16
+- MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16
+- MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16
+- MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16
+- MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16
+- MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16
++ MetaData.Schema.D2 {
+  "UId": "e72e8c0d-0d99-4970-8dd0-1b7eca8977d8",
+  "A2": "UsrCompReason",
+  "A3": "20cd1de2-8ec5-45ee-98f4-5cc26ce662b5",
+  "A4": "20cd1de2-8ec5-45ee-98f4-5cc26ce662b5",
+  "A5": "c2a76311-d47b-49ca-80b1-cd591a6f14c3",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "6a271f6e-91ea-4c2c-9496-195bf27c2190",
+  "E6": true,
+  "E17": "UsrCompReasonId",
+  "E18": "UsrCompReasonName"
+}
++ MetaData.Schema.D2 {
+  "UId": "cdd0a187-4d4b-40ff-80cb-bc24e109d70d",
+  "A2": "UsrActivity",
+  "A3": "20cd1de2-8ec5-45ee-98f4-5cc26ce662b5",
+  "A4": "20cd1de2-8ec5-45ee-98f4-5cc26ce662b5",
+  "A5": "c2a76311-d47b-49ca-80b1-cd591a6f14c3",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "c449d832-a4cc-4b01-b9d5-8a12c42a9f89",
+  "E6": true,
+  "E17": "UsrActivityId",
+  "E18": "UsrActivityTitle"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","e72e8c0d-0d99-4970-8dd0-1b7eca8977d8","cdd0a187-4d4b-40ff-80cb-bc24e109d70d"]
+= MetaData.Schema.D20.A2 "UsrReasonForComplaintEvents"
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.FA15
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

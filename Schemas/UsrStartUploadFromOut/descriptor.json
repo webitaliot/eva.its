@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "dab32dd0-2618-4fa0-bc19-a0b51fc09599",
+    "Name": "UsrStartUploadFromOut",
+    "ModifiedOnUtc": "\/Date(1542363987000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Чтение файлов з FTP (папка OUT)",
+    "DependsOn": []
+  }
+}

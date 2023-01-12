@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "b51a2675-7e57-44b3-9178-9686cf27867e",
+    "Name": "CtiPanelIdentificationUtilities",
+    "ModifiedOnUtc": "\/Date(1563968297000)\/",
+    "Parent": {
+      "UId": "8e259466-e0c3-4e35-96f2-3981611ad19d",
+      "Name": "CtiPanelIdentificationUtilities"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Модуль идентификации абонента CTI панели",
+    "DependsOn": []
+  }
+}

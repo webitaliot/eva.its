@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "06c43630-98a0-41c6-9d59-dfdbbf06f6e9",
+    "Name": "UsrCustomLookupPage",
+    "ModifiedOnUtc": "\/Date(1551181051000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "UsrCustomLookupPage",
+    "DependsOn": []
+  }
+}

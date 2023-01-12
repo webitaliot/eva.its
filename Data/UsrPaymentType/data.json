@@ -1,0 +1,28 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0026bde9-932b-4baa-ba30-ffa521a255ab"
+        },
+        {
+          "SchemaColumnUId": "2360da58-a742-4cd4-b76f-e9a3ceab3485",
+          "Value": "checkmo"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c2d88243-685d-4e8b-a533-73f4cb8e869b"
+        },
+        {
+          "SchemaColumnUId": "2360da58-a742-4cd4-b76f-e9a3ceab3485",
+          "Value": "ccard"
+        }
+      ]
+    }
+  ]
+}

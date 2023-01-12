@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6db29761-1fff-426d-bf42-4dd5e124b7b0",
+    "Name": "UsrCaseType",
+    "ModifiedOnUtc": "\/Date(1487586104000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип обращения",
+    "DependsOn": []
+  }
+}

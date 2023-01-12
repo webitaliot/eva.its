@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Добавить данные 1" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Объект" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Объект выборки" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Режим добавления записей" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.10cd9e2e-6d44-41ce-bbed-ab09b08a97c5.displayValue" Value="1" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.10cd9e2e-6d44-41ce-bbed-ab09b08a97c5.value" Value="1" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.84f1d167-557f-416d-9feb-6c822ee2743f.displayValue" Value="380960717505" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.84f1d167-557f-416d-9feb-6c822ee2743f.value" Value="380960717505" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.e7621ec8-ee5e-413c-bb82-c92986419af1.displayValue" Value="1" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.e7621ec8-ee5e-413c-bb82-c92986419af1.value" Value="1" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.ebc2dc4a-71a3-4ef6-bcd9-1f964a2b69bf.displayValue" Value="1" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.ebc2dc4a-71a3-4ef6-bcd9-1f964a2b69bf.value" Value="1" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Id созданной записи" />
+			<Item Name="Caption" Value="Тестирование заказа(добавление)" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+		</Items>
+	</Group>
+</Resources>

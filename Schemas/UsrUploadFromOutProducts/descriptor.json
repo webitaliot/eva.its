@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0da6ac35-3b6b-45f3-9840-a03aad0d6f1a",
+    "Name": "UsrUploadFromOutProducts",
+    "ModifiedOnUtc": "\/Date(1590675657000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Загрузка файлов c папки OUT\\Products",
+    "DependsOn": []
+  }
+}

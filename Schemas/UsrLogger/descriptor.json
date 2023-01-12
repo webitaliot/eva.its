@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "73a34a57-d1b7-427f-8913-9b44c31fc69d",
+    "Name": "UsrLogger",
+    "ModifiedOnUtc": "\/Date(1567003398000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "UsrLogger",
+    "DependsOn": []
+  }
+}

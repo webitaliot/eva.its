@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrAcceptanceEmailKm.Caption" Value="Column 2" />
+			<Item Name="Columns.UsrAcceptanceEmailPl.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrAcceptanceSMSKm.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrAcceptanceSMSPl.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrApartment.Caption" Value="Column 2" />
+			<Item Name="Columns.UsrBalanceTrade.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrCardType.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrCorps.Caption" Value="Column 3" />
+			<Item Name="Columns.UsrDateRegistrationCard.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrHouse.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrIMCode.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrIsCreatedFromService.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrLanguageCommunication.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrMemberIdPL.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrNumberActingCard.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrNumberActiveCard.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrReliability.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrStatusCard.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrStatusWriteoffBonuses.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrSymptomParticipationClub.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrWalletBalance.Caption" Value="Column 1" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Subordinate object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Default values for parent object columns" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Filters for deleting records" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Connection between columns of parent and subordinate objects" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Filter to select several rows" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="All fields are required" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Required fields in subordinate object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Filter to select single row" />
+		</Items>
+	</Group>
+</Resources>

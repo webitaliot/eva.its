@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "870f9ce4-b546-476b-a90b-c58cf991f3ef",
+    "Name": "UsrCreateTestOrder",
+    "ModifiedOnUtc": "\/Date(1547561160000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Создание тестового заказа",
+    "DependsOn": []
+  }
+}

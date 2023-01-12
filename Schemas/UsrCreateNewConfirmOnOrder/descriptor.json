@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "15925ba8-d925-4bf4-9114-00321538d587",
+    "Name": "UsrCreateNewConfirmOnOrder",
+    "ModifiedOnUtc": "\/Date(1560934882000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Создание нового подтверждения при подтверждении заказа",
+    "DependsOn": []
+  }
+}

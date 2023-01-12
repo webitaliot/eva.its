@@ -1,0 +1,202 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2f7b5314-88d6-4841-b4e9-5111ec042811"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "cf94ea19-55bd-4b3f-b494-113b5e5d7097",
+          "DisplayValue": "EvaEmailSettings"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "006a7af3-ad93-44b1-b9e6-121196d795b1",
+          "DisplayValue": "Password для получение токену eva.promo.ua"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1b1802b4-2d48-4069-8717-cbd22a1518df"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "cf94ea19-55bd-4b3f-b494-113b5e5d7097",
+          "DisplayValue": "EvaEmailSettings"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "ea627a72-a04d-4c1d-aabd-b4ec0822de2c",
+          "DisplayValue": "Url для получение токену для eva promo"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8364518e-c2fe-4b1b-b0fe-369df2f27763"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "cf94ea19-55bd-4b3f-b494-113b5e5d7097",
+          "DisplayValue": "EvaEmailSettings"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "6fdfc2be-5771-4ad0-92b5-143406389af3",
+          "DisplayValue": "E-mail поддержки EVA"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "24af8ab4-257d-4858-9ffe-e2292f0a4d26"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "cf94ea19-55bd-4b3f-b494-113b5e5d7097",
+          "DisplayValue": "EvaEmailSettings"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "042e7a84-0343-4174-8b99-cf6f0482e284",
+          "DisplayValue": "Iframe uri для отображения страницы из eva.promo"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8c4f9c2a-9c8c-470c-a61e-2b539dd86055"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "cf94ea19-55bd-4b3f-b494-113b5e5d7097",
+          "DisplayValue": "EvaEmailSettings"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "e2e3487e-32d1-4a75-bbfa-c5de210b48b4",
+          "DisplayValue": "Тема из СД для создание обращение"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0c536abe-6ff8-49fe-93c6-073400218712"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "cf94ea19-55bd-4b3f-b494-113b5e5d7097",
+          "DisplayValue": "EvaEmailSettings"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "79f03219-d78b-413f-8f52-01bc72b78497",
+          "DisplayValue": "Аккаунт для отправки/получение писем service desk"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "13875c3b-b878-4983-83b0-2ebcade1e76c"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "cf94ea19-55bd-4b3f-b494-113b5e5d7097",
+          "DisplayValue": "EvaEmailSettings"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "34867140-00a6-404d-8453-1ad2916815f5",
+          "DisplayValue": "Кому отправить email сообщение service desk"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bd3e08a3-588a-45e5-bf01-27bb817ab7b4"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "cf94ea19-55bd-4b3f-b494-113b5e5d7097",
+          "DisplayValue": "EvaEmailSettings"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "dde26708-1584-416b-a37f-6761ee0faa8b",
+          "DisplayValue": "От кого отправить email сообщение service desk"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2ccc1b91-431a-4f85-8cea-3ad447f054ec"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "cf94ea19-55bd-4b3f-b494-113b5e5d7097",
+          "DisplayValue": "EvaEmailSettings"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "6bd03808-8c24-4faf-ae22-685de1b4c3ca",
+          "DisplayValue": "Почтовый провайдер Eva "
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "736a936b-57b0-4a1e-bee4-0ce04555a938"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "cf94ea19-55bd-4b3f-b494-113b5e5d7097",
+          "DisplayValue": "EvaEmailSettings"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "1b459406-b859-4f35-b976-ef53d7c5bb9d",
+          "DisplayValue": "Url get сервиса отправки order id ИМ"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0463389c-6480-4a52-b50e-29e9dde4191a"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "cf94ea19-55bd-4b3f-b494-113b5e5d7097",
+          "DisplayValue": "EvaEmailSettings"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "36463f20-d309-4876-9cd0-5a20d360dfcc",
+          "DisplayValue": "Username для получение токену eva.promo.ua"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "48103396-2522-498c-8bcd-c3b640a96687",
+    "Name": "UsrInformChangeStatusToResolved",
+    "ModifiedOnUtc": "\/Date(1584046300000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Информирование по изменению статуса обращения на Решено",
+    "DependsOn": []
+  }
+}

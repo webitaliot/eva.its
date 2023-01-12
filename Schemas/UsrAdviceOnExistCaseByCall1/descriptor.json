@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2583f0cb-56a2-4e76-8baa-e69ecd56c6c3",
+    "Name": "UsrAdviceOnExistCaseByCall1",
+    "ModifiedOnUtc": "\/Date(1536133740000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Консультация по существующему обращению (по входящему звонку) - Копия",
+    "DependsOn": []
+  }
+}

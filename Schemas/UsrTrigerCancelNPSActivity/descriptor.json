@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c46589e2-67b7-466b-9be5-1ea72bcd486f",
+    "Name": "UsrTrigerCancelNPSActivity",
+    "ModifiedOnUtc": "\/Date(1554456945000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отмена NPS Активности (Trigger)",
+    "DependsOn": []
+  }
+}

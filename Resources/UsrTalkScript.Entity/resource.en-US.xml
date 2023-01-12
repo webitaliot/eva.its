@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrDayTime.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrEndTime.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrRuText.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrStartTime.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrUaText.Caption" Value="Column 1" />
+		</Items>
+	</Group>
+</Resources>

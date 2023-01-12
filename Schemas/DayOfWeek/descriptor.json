@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "c33c4eb0-6f02-4136-915c-8d1cc54395ef",
+    "Name": "DayOfWeek",
+    "ModifiedOnUtc": "\/Date(1495605482000)\/",
+    "Parent": {
+      "UId": "95592cd1-f2aa-4d34-a109-aa046cd5bbd5",
+      "Name": "DayOfWeek"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "День недели",
+    "DependsOn": []
+  }
+}

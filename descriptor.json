@@ -1,0 +1,45 @@
+﻿{
+  "Descriptor": {
+    "UId": "2f7e2b8b-9dd4-4c24-9149-055455ac8f40",
+    "PackageVersion": "7.9.1.3284",
+    "Name": "ITS",
+    "ModifiedOnUtc": "\/Date(1572615659000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "00fddb09-8590-4099-bd2a-922074864dea",
+        "PackageVersion": "7.8.0",
+        "Name": "WebitelCollaborations"
+      },
+      {
+        "UId": "0ed574b3-dec0-41d8-bacb-c9ced196b4b5",
+        "PackageVersion": "7.8.0",
+        "Name": "CustomerCenterSoftkey"
+      },
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      },
+      {
+        "UId": "6ebe6eda-2663-4c42-bb55-606695214b36",
+        "Name": "YSCCaseConnector"
+      },
+      {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI"
+      },
+      {
+        "UId": "ef11e995-ba92-40e9-9077-1a6fee8d4c35",
+        "PackageVersion": "7.8.0",
+        "Name": "Order"
+      }
+    ]
+  }
+}

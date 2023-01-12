@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Создание нового контакта" />
+			<Item Name="LocalizableStrings.invalidMessage.Value" Value="Введите номер в формате: 38 ХХХ ХХХ ХХХХ" />
+			<Item Name="Parameters.2e9cc36f-8744-43e5-93c2-34b7ade3e4b2.Caption" Value="Контрагент" />
+			<Item Name="Parameters.6d6b5251-c419-4a9b-8d4f-09064cd03f8e.Caption" Value="E-mail" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Закрыть" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Далее" />
+			<Item Name="Parameters.cdd61762-9b44-4a35-859e-4e6732b6f307.Caption" Value="ФИО" />
+			<Item Name="Parameters.d9b016e1-2cbc-45dc-ab5b-661dcf3f9bcf.Caption" Value="Телефон" />
+		</Items>
+	</Group>
+</Resources>

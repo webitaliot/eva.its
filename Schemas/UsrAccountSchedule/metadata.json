@@ -1,0 +1,38 @@
+= MetaData.Schema.UId "27dc2ccc-29e1-4de5-a50c-41e001b51e81"
+= MetaData.Schema.A2 "UsrAccountSchedule"
+= MetaData.Schema.A5 "b7a255fa-aa06-497d-a11f-6a6059029aa4"
+= MetaData.Schema.B6 "2f7e2b8b-9dd4-4c24-9149-055455ac8f40"
+= MetaData.Schema.B8 "7.9.1.3284"
+= MetaData.Schema.EG1.UId "2795d505-b746-4942-b935-be80e7de4853"
+= MetaData.Schema.EG1.A2 "UsrAccountScheduleEventsProcess"
+= MetaData.Schema.EG1.A5 "b7a255fa-aa06-497d-a11f-6a6059029aa4"
+- MetaData.Schema.EG1.B1.["fe742d1c-4346-4cc5-894e-217df991856c"].C2
+= MetaData.Schema.EG1.BK8 "66f58f21-6ed1-4e29-b506-6b9f6426d463"
++ MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].IL2 "079c1a2b-96d1-4935-9764-180b73ed11ac"
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].BL4
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].BL9
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BL9
++ MetaData.Schema.EG1.BK28 "null"
+- MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16
+- MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16
+- MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16
+- MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16
+- MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16
+- MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16
++ MetaData.Schema.D2 {"UId":"22c972a9-7218-4dce-bb02-89f2357ea3aa","A2":"UsrAccount","A3":"27dc2ccc-29e1-4de5-a50c-41e001b51e81","A4":"27dc2ccc-29e1-4de5-a50c-41e001b51e81","A5":"b7a255fa-aa06-497d-a11f-6a6059029aa4","S2":"b295071f-7ea9-4e62-8d1a-919bf3732ff2","S4":"25d7c1ab-1de0-4501-b402-02e0e5a72d6e","E6":true,"E17":"UsrAccountId","E18":"UsrAccountName"}
++ MetaData.Schema.D2 {"UId":"123cd9bf-6164-488a-8c1b-d7d598ecebd3","A2":"UsrDayOfWeek","A3":"27dc2ccc-29e1-4de5-a50c-41e001b51e81","A4":"27dc2ccc-29e1-4de5-a50c-41e001b51e81","A5":"b7a255fa-aa06-497d-a11f-6a6059029aa4","S2":"b295071f-7ea9-4e62-8d1a-919bf3732ff2","S4":"95592cd1-f2aa-4d34-a109-aa046cd5bbd5","E6":true,"E17":"UsrDayOfWeekId","E18":"UsrDayOfWeekName"}
++ MetaData.Schema.D2 {"UId":"c838c914-b822-4558-be03-1be15511dbbd","A2":"UsrBreak","A3":"27dc2ccc-29e1-4de5-a50c-41e001b51e81","A4":"27dc2ccc-29e1-4de5-a50c-41e001b51e81","A5":"b7a255fa-aa06-497d-a11f-6a6059029aa4","S2":"5ca35f10-a101-4c67-a96a-383da6afacfc"}
++ MetaData.Schema.D2 {"UId":"3699837a-aa1c-4c9e-9e6b-75d558f7769f","A2":"UsrWorkingHours","A3":"27dc2ccc-29e1-4de5-a50c-41e001b51e81","A4":"27dc2ccc-29e1-4de5-a50c-41e001b51e81","A5":"78a808ef-d9bf-446b-b64e-dde759367016","S2":"ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","22c972a9-7218-4dce-bb02-89f2357ea3aa","123cd9bf-6164-488a-8c1b-d7d598ecebd3","c838c914-b822-4558-be03-1be15511dbbd","3699837a-aa1c-4c9e-9e6b-75d558f7769f"]
+= MetaData.Schema.D20.A2 "UsrAccountScheduleEvents"
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

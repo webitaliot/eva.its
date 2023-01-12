@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f8b8d417-cd8f-4748-a8a6-cda865e03d75",
+    "Name": "UsrCaseReportOptionsMiniPage",
+    "ModifiedOnUtc": "\/Date(1493304609000)\/",
+    "Parent": {
+      "UId": "8e06a577-08e4-424e-bd89-798a34e1b928",
+      "Name": "BaseMiniPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "UsrCaseReportOptionsMiniPage",
+    "DependsOn": []
+  }
+}

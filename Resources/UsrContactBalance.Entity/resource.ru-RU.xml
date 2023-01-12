@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Баланас контакта" />
+			<Item Name="Columns.UsrBalance.Caption" Value="Значение баланса" />
+			<Item Name="Columns.UsrBalanceTypeId.Caption" Value="Ид типа баланса" />
+			<Item Name="Columns.UsrBalanceTypeName.Caption" Value="Название типа баланса" />
+			<Item Name="Columns.UsrContact.Caption" Value="Контакт" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

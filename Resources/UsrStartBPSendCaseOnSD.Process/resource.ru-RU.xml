@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Отправка обращения на ServiceDesk 1" />
+			<Item Name="BaseElements.SubProcess1.Parameters.caseId.Caption" Value="caseId" />
+			<Item Name="BaseElements.SubProcess1.Parameters.caseId.DisplayValue" Value="[#caseId#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Logger.Caption" Value="Logger" />
+			<Item Name="BaseElements.SubProcess1.Parameters.loopCount.Caption" Value="loopCount" />
+			<Item Name="BaseElements.SubProcess1.Parameters.Successfully.Caption" Value="Successfully" />
+			<Item Name="Caption" Value="Запустить &quot;Отправка обращения на ServiceDesk&quot;" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.caseId.Caption" Value="caseId" />
+		</Items>
+	</Group>
+</Resources>

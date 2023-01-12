@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ed0c77d2-b5ac-4224-87ab-45a5867b11ce",
+    "Name": "UsrCallEvaluation1Section",
+    "ModifiedOnUtc": "\/Date(1632488239000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Оценивание Звонка\"",
+    "DependsOn": []
+  }
+}

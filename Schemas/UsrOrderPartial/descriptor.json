@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7283ec2a-dd3f-4227-9a9a-4a26bcb06fee",
+    "Name": "UsrOrderPartial",
+    "ModifiedOnUtc": "\/Date(1497525621000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заказ собран частично",
+    "DependsOn": []
+  }
+}

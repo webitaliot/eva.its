@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "29c2031b-214f-4a0b-bad6-f29756a611fb",
+    "Name": "UsrChangeOrderStatus",
+    "ModifiedOnUtc": "\/Date(1607599296000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес процесс привязанный к состоянию заказа \"СЧ 1 звонок\"",
+    "DependsOn": []
+  }
+}

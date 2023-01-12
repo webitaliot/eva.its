@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "40ce54ab-3a36-4c37-b3e1-45d45122c859",
+    "Name": "tsp_UploadFromFtp",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1537269978000)\/",
+    "DependsOn": []
+  }
+}

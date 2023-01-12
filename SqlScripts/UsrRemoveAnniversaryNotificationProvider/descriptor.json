@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "330d51e0-058e-4c5f-a6c8-73b8b978b1ad",
+    "Name": "UsrRemoveAnniversaryNotificationProvider",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1493371262000)\/",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "31afeff0-934f-4aa9-9519-2cf41351ab2a",
+    "Name": "CallPageV2",
+    "ModifiedOnUtc": "\/Date(1531228428000)\/",
+    "Parent": {
+      "UId": "e3b4c910-f245-4b52-909a-8da98a0a7e4a",
+      "Name": "CallPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема отображения карточки звонка",
+    "DependsOn": []
+  }
+}

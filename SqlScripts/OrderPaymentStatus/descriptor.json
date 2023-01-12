@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "dfcfff5f-e31a-4063-abea-7a7d90c8150b",
+    "Name": "OrderPaymentStatus",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1492774755000)\/",
+    "DependsOn": []
+  }
+}

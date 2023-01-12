@@ -1,0 +1,5 @@
+= MetaData.Schema.UId "cdd692f0-f306-4924-8285-11bcde16f349"
+= MetaData.Schema.A2 "UsrSMSActivity"
+= MetaData.Schema.A5 "be1a48d7-1a8f-43cc-af3d-c34b082b2460"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Логирование" />
+			<Item Name="Columns.UsrName.Caption" Value="Номер" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "a759a229-83ca-4cc7-bea3-26445890a0ec",
+    "Name": "DeleteDuplicateContact",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1501234098000)\/",
+    "DependsOn": []
+  }
+}

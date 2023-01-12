@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e783f2aa-7e4c-4e42-b5c7-200b7c3a31e5",
+    "Name": "UsrCustomerReliability",
+    "ModifiedOnUtc": "\/Date(1496738269000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Надежность клиента",
+    "DependsOn": []
+  }
+}

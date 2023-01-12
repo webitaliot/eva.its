@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9fd2b693-9614-4df3-ba03-94c1828fa25f",
+    "Name": "UsrSetApproveDate",
+    "ModifiedOnUtc": "\/Date(1537431522000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заполнение даты подтверждения",
+    "DependsOn": []
+  }
+}

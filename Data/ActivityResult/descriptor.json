@@ -1,0 +1,49 @@
+﻿{
+  "Descriptor": {
+    "UId": "1438bdd9-e928-4a1e-8048-dc72bd9f608b",
+    "Name": "ActivityResult",
+    "ModifiedOnUtc": "\/Date(1528901655000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "329bd06e-f95f-4824-a0fb-85edff2f2948",
+      "Name": "ActivityResult"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "53fd3525-a4b3-4fe1-b1f2-2ce79128f5e4",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Category",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "28dedc44-4148-44b3-a642-5bfe30e3e8af",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "BusinessProcessOnly",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      }
+    ]
+  }
+}

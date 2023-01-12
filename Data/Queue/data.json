@@ -1,0 +1,64 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e3cb80ce-09e6-4d63-b62f-d6196ac4890e"
+        },
+        {
+          "SchemaColumnUId": "6cae06b4-b7bc-4c70-a5b3-f3d43c046206",
+          "Value": "Подтверждение заказов EVA"
+        },
+        {
+          "SchemaColumnUId": "3f9570b5-7586-4d30-8fd9-270b48f119e5",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "221254af-1f3e-4307-afae-07b0b4ea6fa8",
+          "Value": "cdd9a382-0c8a-4af6-baab-84babcb1641b",
+          "DisplayValue": "Высокий"
+        },
+        {
+          "SchemaColumnUId": "0ed6afd7-e32c-4c37-b56b-b7ad5fac5ab6",
+          "Value": "ec5828f6-b883-4ebc-afe3-c80792252adb",
+          "DisplayValue": "В работе"
+        },
+        {
+          "SchemaColumnUId": "cc67082f-423a-4ba1-9725-697be295287c",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "a61a55d4-1145-40f6-bf9b-cd8782490b70",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "20947e38-8e7c-4aec-b9eb-2423f68a902c",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b4d49d9d-6e66-4713-bf29-50636fc8a992",
+          "Value": "{\"items\":{\"f6efb3e5-1afc-4ce6-8156-4bbce6be18fc\":{\"filterType\":2,\"comparisonType\":2,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"Order\"},\"isNull\":false},\"a8d7d8e8-a9bd-4be9-b9a4-d908c3fba4db\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"Status\"},\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":\"384d4b84-58e6-df11-971b-001d60e938c6\"}},{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":\"394d4b84-58e6-df11-971b-001d60e938c6\"}}]},\"37bca163-48f1-474c-a296-313fa46daf0d\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"ActivityCategory\"},\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":\"03df85bf-6b19-4dea-8463-d5d49b80bb28\"}},{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":\"e52bd583-7825-e011-8165-00155d043204\"}}]},\"8472843e-7b15-4e05-9fa1-f8c08fb70290\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"Order.Status\"},\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":\"29fa66e3-ef69-4feb-a5af-ec1de125a614\"}}]}},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"Activity\"}"
+        },
+        {
+          "SchemaColumnUId": "d3081b72-5be4-42aa-8416-d3b9a39b7395",
+          "Value": "{\"className\":\"Terrasoft.FilterGroup\",\"items\":{\"f6efb3e5-1afc-4ce6-8156-4bbce6be18fc\":{\"className\":\"Terrasoft.IsNullFilter\",\"filterType\":2,\"comparisonType\":2,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"className\":\"Terrasoft.ColumnExpression\",\"expressionType\":0,\"columnPath\":\"Order\"},\"isAggregative\":false,\"key\":\"f6efb3e5-1afc-4ce6-8156-4bbce6be18fc\",\"dataValueType\":10,\"leftExpressionCaption\":\"Заказ\",\"referenceSchemaName\":\"Order\",\"isNull\":false},\"a8d7d8e8-a9bd-4be9-b9a4-d908c3fba4db\":{\"className\":\"Terrasoft.InFilter\",\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"className\":\"Terrasoft.ColumnExpression\",\"expressionType\":0,\"columnPath\":\"Status\"},\"isAggregative\":false,\"key\":\"a8d7d8e8-a9bd-4be9-b9a4-d908c3fba4db\",\"dataValueType\":10,\"leftExpressionCaption\":\"Состояние\",\"referenceSchemaName\":\"ActivityStatus\",\"rightExpressions\":[{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"Name\":\"Не начата\",\"Id\":\"384d4b84-58e6-df11-971b-001d60e938c6\",\"value\":\"384d4b84-58e6-df11-971b-001d60e938c6\",\"displayValue\":\"Не начата\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"Name\":\"В работе\",\"Id\":\"394d4b84-58e6-df11-971b-001d60e938c6\",\"value\":\"394d4b84-58e6-df11-971b-001d60e938c6\",\"displayValue\":\"В работе\"}}}]},\"37bca163-48f1-474c-a296-313fa46daf0d\":{\"className\":\"Terrasoft.InFilter\",\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"className\":\"Terrasoft.ColumnExpression\",\"expressionType\":0,\"columnPath\":\"ActivityCategory\"},\"isAggregative\":false,\"key\":\"37bca163-48f1-474c-a296-313fa46daf0d\",\"dataValueType\":10,\"leftExpressionCaption\":\"Категория\",\"referenceSchemaName\":\"ActivityCategory\",\"rightExpressions\":[{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"Name\":\"Звонок\",\"Id\":\"03df85bf-6b19-4dea-8463-d5d49b80bb28\",\"value\":\"03df85bf-6b19-4dea-8463-d5d49b80bb28\",\"displayValue\":\"Звонок\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"Name\":\"Звонок\",\"Id\":\"e52bd583-7825-e011-8165-00155d043204\",\"value\":\"e52bd583-7825-e011-8165-00155d043204\",\"displayValue\":\"Звонок\"}}}]},\"8472843e-7b15-4e05-9fa1-f8c08fb70290\":{\"className\":\"Terrasoft.InFilter\",\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"className\":\"Terrasoft.ColumnExpression\",\"expressionType\":0,\"columnPath\":\"Order.Status\"},\"isAggregative\":false,\"key\":\"8472843e-7b15-4e05-9fa1-f8c08fb70290\",\"dataValueType\":10,\"leftExpressionCaption\":\"Заказ.Состояние\",\"referenceSchemaName\":\"OrderStatus\",\"rightExpressions\":[{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"Name\":\"Новый\",\"Id\":\"29fa66e3-ef69-4feb-a5af-ec1de125a614\",\"value\":\"29fa66e3-ef69-4feb-a5af-ec1de125a614\",\"displayValue\":\"Новый\"}}}]}},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"Activity\",\"key\":\"\"}"
+        },
+        {
+          "SchemaColumnUId": "942e7c5a-29da-4ea8-ad7c-17ebb1222459",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "c303a54e-e7fc-4836-854f-82757798e1d5",
+          "Value": "c449d832-a4cc-4b01-b9d5-8a12c42a9f89",
+          "DisplayValue": "Активность"
+        },
+        {
+          "SchemaColumnUId": "786afe14-f0ad-425b-990a-a4dda251099f",
+          "Value": "e285fabf-7a0d-4f50-a9e7-c6c83211ee80",
+          "DisplayValue": "Подтверждение заказа из Единого Окна"
+        }
+      ]
+    }
+  ]
+}

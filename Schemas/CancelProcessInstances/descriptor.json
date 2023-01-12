@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5d780516-7db1-496a-88d9-7b758979fab5",
+    "Name": "CancelProcessInstances",
+    "ModifiedOnUtc": "\/Date(1569914834000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Cancel process instances",
+    "DependsOn": []
+  }
+}

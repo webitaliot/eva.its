@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Code.Caption" Value="Код фирмы" />
+			<Item Name="Columns.Name.Caption" Value="Наименование фирмы" />
+			<Item Name="Columns.Owner.Caption" Value="ФИО" />
+			<Item Name="Columns.Phone.Caption" Value="Телефон" />
+			<Item Name="Columns.UsrAddress2.Caption" Value="Адрес 2" />
+			<Item Name="Columns.UsrComment1.Caption" Value="Супервайзер" />
+			<Item Name="Columns.UsrComment2.Caption" Value="Управляющая" />
+			<Item Name="Columns.UsrExceptionsShop.Caption" Value="Исключения в работе магазина" />
+			<Item Name="Columns.UsrFilial.Caption" Value="Филиал" />
+			<Item Name="Columns.UsrNote.Caption" Value="Примечание" />
+			<Item Name="Columns.UsrRegion.Caption" Value="Регион" />
+			<Item Name="Columns.UsrStoreNumber.Caption" Value="Номер магазина" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Пул 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Дорожка 1" />
+		</Items>
+	</Group>
+</Resources>

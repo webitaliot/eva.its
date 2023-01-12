@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "97a257a1-bec8-4504-a8e9-02789efebd78",
+    "Name": "CenterNotificationSchema",
+    "ModifiedOnUtc": "\/Date(1591819648000)\/",
+    "Parent": {
+      "UId": "f847371a-18c7-423a-90d4-6861a0ff94ed",
+      "Name": "CenterNotificationSchema"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "CenterNotificationSchema",
+    "DependsOn": []
+  }
+}

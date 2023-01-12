@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="С реакцией" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Caption" Value="С реакцией (new record)" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Формула 1" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="Формула 2" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Change status" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Id записи" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Create with status" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Id записи" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Отправка сообщений по шаблону на e-mail адрес service desk V2 1" />
+			<Item Name="BaseElements.SubProcess1.Parameters.activityId.Caption" Value="activityId" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.Caption" Value="CaseId" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.DisplayValue" Value="[#CaseId#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ProcessSchemaParameter1.Caption" Value="qwd" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ProcessSchemaParameter2.Caption" Value="От кого отправить" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ProcessSchemaParameterMode.Caption" Value="Тональность" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrAccount.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrAccountAddress.Caption" Value="Адрес контрагента" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrAccountCity.Caption" Value="Город контрагента" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrAccountEmail.Caption" Value="Контрагент для листа" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrAccountFilial.Caption" Value="Филиал контрагента" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrAccountRegion.Caption" Value="Регион контрагента" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrCase.Caption" Value="Обращение" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrCase.DisplayValue" Value="[#CaseId#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrEmailBody.Caption" Value="Тело письма" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrEmailTitle.Caption" Value="Тема письма" />
+			<Item Name="BaseElements.SubProcess1.Parameters.UsrShopName.Caption" Value="Номер магазина" />
+			<Item Name="BaseElements.SubProcess2.Caption" Value="Отправка сообщений по шаблону на e-mail адрес service desk V2 1" />
+			<Item Name="BaseElements.SubProcess2.Parameters.activityId.Caption" Value="activityId" />
+			<Item Name="BaseElements.SubProcess2.Parameters.CaseId.Caption" Value="CaseId" />
+			<Item Name="BaseElements.SubProcess2.Parameters.CaseId.DisplayValue" Value="[#CaseId#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.ProcessSchemaParameter1.Caption" Value="qwd" />
+			<Item Name="BaseElements.SubProcess2.Parameters.ProcessSchemaParameter2.Caption" Value="От кого отправить" />
+			<Item Name="BaseElements.SubProcess2.Parameters.ProcessSchemaParameterMode.Caption" Value="Тональность" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrAccount.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrAccountAddress.Caption" Value="Адрес контрагента" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrAccountCity.Caption" Value="Город контрагента" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrAccountEmail.Caption" Value="Контрагент для листа" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrAccountFilial.Caption" Value="Филиал контрагента" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrAccountRegion.Caption" Value="Регион контрагента" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrCase.Caption" Value="Обращение" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrCase.DisplayValue" Value="[#CaseId#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrEmailBody.Caption" Value="Тело письма" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrEmailTitle.Caption" Value="Тема письма" />
+			<Item Name="BaseElements.SubProcess2.Parameters.UsrShopName.Caption" Value="Номер магазина" />
+			<Item Name="Caption" Value="Обработка обращения с реакцией - Копия" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="CaseId" />
+		</Items>
+	</Group>
+</Resources>

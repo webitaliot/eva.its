@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Добавить мейл" />
+			<Item Name="BaseElements.AddDataUserTask2.Caption" Value="Добавить телефон" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать данные Обращения" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Новое обращение" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Уникальный идентификатор записи" />
+			<Item Name="Caption" Value="Запись заявленных данных клиента" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

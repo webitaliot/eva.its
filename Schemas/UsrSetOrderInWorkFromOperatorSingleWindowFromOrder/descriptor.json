@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "dfb23ae4-83e3-41c7-9d7d-b0529177bced",
+    "Name": "UsrSetOrderInWorkFromOperatorSingleWindowFromOrder",
+    "ModifiedOnUtc": "\/Date(1558361117000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Подтверждение заказа из раздела",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Оценивание звонка" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Дата оценивания" />
+			<Item Name="Columns.UsrAccuracyTimingFinalComment.Caption" Value="Правильность и срок Итоговый комментарий" />
+			<Item Name="Columns.UsrActiveListeningItemDescription.Caption" Value="Описание пункта Активное слушание" />
+			<Item Name="Columns.UsrAnswCharactComment1.Caption" Value="Интонация Коментарий" />
+			<Item Name="Columns.UsrAnswCharactComment2.Caption" Value="ХарактОтв Коментарий2" />
+			<Item Name="Columns.UsrAnswCharactComment3.Caption" Value="ХарактОтв Коментарий3" />
+			<Item Name="Columns.UsrAnswCharactComment4.Caption" Value="ХарактОтв Коментарий4" />
+			<Item Name="Columns.UsrAnswCharactComment5.Caption" Value="ХарактОтв Коментарий5" />
+			<Item Name="Columns.UsrAnswCharactComment6.Caption" Value="ХарактОтв Коментарий6" />
+			<Item Name="Columns.UsrAnswCharactComment7.Caption" Value="ХарактОтв Коментарий7" />
+			<Item Name="Columns.UsrAnswCharactComment8.Caption" Value="ХарактОтв Коментарий8" />
+			<Item Name="Columns.UsrAnswCharactDisrespectClient.Caption" Value="ХарактОтв Неуважение клиента" />
+			<Item Name="Columns.UsrAnswCharactDoMistake.Caption" Value="ХарактОтв Ошибки и исправления" />
+			<Item Name="Columns.UsrAnswCharactEval.Caption" Value="Оценка за Интонация" />
+			<Item Name="Columns.UsrAnswCharactFirstAnswWrong.Caption" Value="ХарактОтв Первый ответ неправильный" />
+			<Item Name="Columns.UsrAnswCharactLackSkillfulCom.Caption" Value="ХарактОтв Не хватает умений в общении" />
+			<Item Name="Columns.UsrAnswCharactLongPauseExpert.Caption" Value="ХарактОтв Длинная пауза експерт" />
+			<Item Name="Columns.UsrAnswCharactLongPauseSystem.Caption" Value="ХарактОтв Длинная пауза системы" />
+			<Item Name="Columns.UsrAnswCharactMakePauses.Caption" Value="ХарактОтв Делает паузы" />
+			<Item Name="Columns.UsrAnswCharactUncertain.Caption" Value="Интонация" />
+			<Item Name="Columns.UsrAppraiser.Caption" Value="Оценил" />
+			<Item Name="Columns.UsrAssessmentCorrectnessDeadline.Caption" Value="Оценка за Правильность и срок исполнения" />
+			<Item Name="Columns.UsrAttentivenessItemDescription.Caption" Value="Описание пункта Внимательность" />
+			<Item Name="Columns.UsrBaSkillBulkyFarewell.Caption" Value="Правильность и срок исполнения" />
+			<Item Name="Columns.UsrBaSkillClarityVoice.Caption" Value="Обращение к клиенту по имени" />
+			<Item Name="Columns.UsrBaSkillClientAcquaintance.Caption" Value="Прощание" />
+			<Item Name="Columns.UsrBaSkillComment1.Caption" Value="Приветствие Коментарий" />
+			<Item Name="Columns.UsrBaSkillComment2.Caption" Value="Знакомство с клиентом Коментарий" />
+			<Item Name="Columns.UsrBaSkillComment3.Caption" Value="Обращение к клиенту по имени Коментарий" />
+			<Item Name="Columns.UsrBaSkillComment4.Caption" Value="Прощание Коментарий" />
+			<Item Name="Columns.UsrBaSkillComment5.Caption" Value="Резюмирование Коментарий" />
+			<Item Name="Columns.UsrBaSkillComment6.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrBaSkillComment7.Caption" Value="Правильность и срок исполнения Коментарий" />
+			<Item Name="Columns.UsrBaSkillComment8.Caption" Value="Телефония Коментарий" />
+			<Item Name="Columns.UsrBaSkillEval.Caption" Value="Оценка за Приветствие" />
+			<Item Name="Columns.UsrBaSkillEvalItemDescription.Caption" Value="Описание пункта Приветствие" />
+			<Item Name="Columns.UsrBaSkillFarewellNotStandard.Caption" Value="Переходная фраза" />
+			<Item Name="Columns.UsrBaSkillFixPrevAppeal.Caption" Value="Телефония" />
+			<Item Name="Columns.UsrBaSkillGoodwillVoice.Caption" Value="Знакомство с клиентом" />
+			<Item Name="Columns.UsrBaSkillGretings.Caption" Value="БазНав Приветствие" />
+			<Item Name="Columns.UsrBaSkillTotalComment.Caption" Value="Итоговый комментарий" />
+			<Item Name="Columns.UsrBaSkillTotalEval.Caption" Value="Итоговая оценка за Приветствие" />
+			<Item Name="Columns.UsrBaSkillUnskillfullAcquaintance.Caption" Value="Резюмирование" />
+			<Item Name="Columns.UsrBonusFinalComment.Caption" Value="Бонус Итоговый комментарий" />
+			<Item Name="Columns.UsrBonusPartMaintenanceServiceItemDescription.Caption" Value="Опис пункта Бонусная часть за обсл и сервис" />
+			<Item Name="Columns.UsrBonusScore.Caption" Value="Оценка за WOW-эффект" />
+			<Item Name="Columns.UsrBrandPhraseFinalComment.Caption" Value="Брендовая фраза Итоговый комментарий" />
+			<Item Name="Columns.UsrBusinessSpeechItemDescription.Caption" Value="Описание пункта Деловая речь" />
+			<Item Name="Columns.UsrCallDate.Caption" Value="Дата звонка" />
+			<Item Name="Columns.UsrCallEval.Caption" Value="Общая оценка" />
+			<Item Name="Columns.UsrCaseEval.Caption" Value="Обращение" />
+			<Item Name="Columns.UsrClearDictionVoiceConfidenceItemDescription.Caption" Value="Описание пункта Четкая дикция и уверенность голоса" />
+			<Item Name="Columns.UsrClearExplanClientDoesntUnderstand.Caption" Value="ПонятОбясн Клиент не понимаент" />
+			<Item Name="Columns.UsrClearExplanComment1.Caption" Value="ПонятОбясн Коментарий1" />
+			<Item Name="Columns.UsrClearExplanComment2.Caption" Value="Проактивность Коментарий" />
+			<Item Name="Columns.UsrClearExplanComment3.Caption" Value="ПонятОбясн Коментарий3" />
+			<Item Name="Columns.UsrClearExplanComment4.Caption" Value="ПонятОбясн Коментарий4" />
+			<Item Name="Columns.UsrClearExplanComment5.Caption" Value="ПонятОбясн Коментарий5" />
+			<Item Name="Columns.UsrClearExplanComment6.Caption" Value="ПонятОбясн Коментарий6" />
+			<Item Name="Columns.UsrClearExplanConvLinkAbsent.Caption" Value="Проактивность" />
+			<Item Name="Columns.UsrClearExplanEval.Caption" Value="Оценка за Проактивность" />
+			<Item Name="Columns.UsrClearExplanExcesiveTerminology.Caption" Value="ПонятОбясн Много терминологии" />
+			<Item Name="Columns.UsrClearExplanInapRepeatInfo.Caption" Value="ПонятОбясн Неуместные повторения" />
+			<Item Name="Columns.UsrClearExplanNoRigthAnsw.Caption" Value="ПонятОбясн Ответ неправельный" />
+			<Item Name="Columns.UsrClearExplanStretchesAnsw.Caption" Value="ПонятОбясн Растягивает ответ" />
+			<Item Name="Columns.UsrClientRelatAtten.Caption" Value="Полнота информации" />
+			<Item Name="Columns.UsrClientRelatComment1.Caption" Value="Полнота информации Коментарий" />
+			<Item Name="Columns.UsrClientRelatComment2.Caption" Value="ОтКл Коментарий 2" />
+			<Item Name="Columns.UsrClientRelatComment3.Caption" Value="ОтКл Коментарий 3" />
+			<Item Name="Columns.UsrClientRelatComment4.Caption" Value="ОтКл Коментарий 4" />
+			<Item Name="Columns.UsrClientRelatComment5.Caption" Value="ОтКл Коментарий 5" />
+			<Item Name="Columns.UsrClientRelatDisrespect.Caption" Value="ОтКл Неуважение" />
+			<Item Name="Columns.UsrClientRelatEval.Caption" Value="Оценка за Полнота информации" />
+			<Item Name="Columns.UsrClientRelatMonotone.Caption" Value="ОтКл Монотонность" />
+			<Item Name="Columns.UsrClientRelatNeutr.Caption" Value="ОтКл Нейтральность" />
+			<Item Name="Columns.UsrClientRelatPositInVoice.Caption" Value="ОтКл Позитив" />
+			<Item Name="Columns.UsrClientRelatTotalComment.Caption" Value="Итоговый комментарий" />
+			<Item Name="Columns.UsrClientRelatTotalEval.Caption" Value="Итоговая оценка за Диалог" />
+			<Item Name="Columns.UsrComManageTotalComment.Caption" Value="Итоговый комментарий" />
+			<Item Name="Columns.UsrComManageTotalEval.Caption" Value="Итоговая оценка за Тональность" />
+			<Item Name="Columns.UsrCompletenessInformationItemDescription.Caption" Value="Описание пункта Полнота информации" />
+			<Item Name="Columns.UsrComplianceInstructionsProcessingOrdersItemDescription.Caption" Value="Описание пункта Соблюдение инструкций при обработке заказов" />
+			<Item Name="Columns.UsrComStyleTotalComment.Caption" Value="Общение Итоговый комментарий" />
+			<Item Name="Columns.UsrComStyleTotalEval.Caption" Value="Итоговая оценка за Общение" />
+			<Item Name="Columns.UsrConversationControlItemDescription.Caption" Value="Описание пункта Управление разговором" />
+			<Item Name="Columns.UsrConvStyleChaoticAnswer.Caption" Value="СтильРазгв Хаотичние ответы" />
+			<Item Name="Columns.UsrConvStyleClientMonolog.Caption" Value="СтильРазгв Монолог клиента" />
+			<Item Name="Columns.UsrConvStyleComment1.Caption" Value="Деловая речь Коментарий" />
+			<Item Name="Columns.UsrConvStyleComment2.Caption" Value="СтильРазгв Коментарий2" />
+			<Item Name="Columns.UsrConvStyleComment3.Caption" Value="СтильРазгв Коментарий3" />
+			<Item Name="Columns.UsrConvStyleComment4.Caption" Value="СтильРазгв Коментарий4" />
+			<Item Name="Columns.UsrConvStyleComment5.Caption" Value="СтильРазгв Коментарий5" />
+			<Item Name="Columns.UsrConvStyleComment6.Caption" Value="СтильРазгв Коментарий6" />
+			<Item Name="Columns.UsrConvStyleComment7.Caption" Value="СтильРазгв Коментарий7" />
+			<Item Name="Columns.UsrConvStyleDisrespectClient.Caption" Value="СтильРазгв Неуважение клиента" />
+			<Item Name="Columns.UsrConvStyleEval.Caption" Value="Оценка за Деловая речь" />
+			<Item Name="Columns.UsrConvStyleExpertMonolog.Caption" Value="Деловая речь" />
+			<Item Name="Columns.UsrConvStyleNoSummary.Caption" Value="СтильРазгв Нет резюмирования" />
+			<Item Name="Columns.UsrConvStylePasiveExpert.Caption" Value="СтильРазгв Пасивный експерт" />
+			<Item Name="Columns.UsrConvStylePasiveListening.Caption" Value="СтильРазгв Пасивное слушанье" />
+			<Item Name="Columns.UsrCorrectnessComment1.Caption" Value="Перебивание Коментарий" />
+			<Item Name="Columns.UsrCorrectnessComment2.Caption" Value="Правильность Коментарий2" />
+			<Item Name="Columns.UsrCorrectnessComment3.Caption" Value="Правильность Коментарий3" />
+			<Item Name="Columns.UsrCorrectnessComment4.Caption" Value="Правильность Коментарий4" />
+			<Item Name="Columns.UsrCorrectnessComment5.Caption" Value="Правильность Коментарий5" />
+			<Item Name="Columns.UsrCorrectnessDeadlineItemDescription.Caption" Value="Описание пункта Правильность и срок исполнения" />
+			<Item Name="Columns.UsrCorrectnessDontFollowInstruction.Caption" Value="Правильность Не следует инструкциям" />
+			<Item Name="Columns.UsrCorrectnessEval.Caption" Value="Оценка за Перебивание" />
+			<Item Name="Columns.UsrCorrectnessNoncriticalInnacuracy.Caption" Value="Правильность Некритичная неточность" />
+			<Item Name="Columns.UsrCorrectnessNoRigthAnsw.Caption" Value="Перебивание" />
+			<Item Name="Columns.UsrCorrectnessNotUseCheckedInfo.Caption" Value="Правильность Не использует провереную информацию" />
+			<Item Name="Columns.UsrCorrectnessRulesViolated.Caption" Value="Правильность Нарушены правила" />
+			<Item Name="Columns.UsrDescriptionItemTelephonyItemDescription.Caption" Value="Описание пункта Телефония" />
+			<Item Name="Columns.UsrDialogSubject.Caption" Value="Тема диалога" />
+			<Item Name="Columns.UsrDialogType.Caption" Value="Тип диалога" />
+			<Item Name="Columns.UsrDisRespect.Caption" Value="Бонусная часть за обслуживание и сервис" />
+			<Item Name="Columns.UsrDisrespectClient.Caption" Value="Вежл Неуважение" />
+			<Item Name="Columns.UsrEmployee.Caption" Value="Эксперт" />
+			<Item Name="Columns.UsrEvCall.Caption" Value="Звонок" />
+			<Item Name="Columns.UsrExpertiseTotalComment.Caption" Value="Проактивность Итоговый комментарий" />
+			<Item Name="Columns.UsrExpertiseTotalEval.Caption" Value="Итоговая оценка за Проактивность" />
+			<Item Name="Columns.UsrFinalScoreBonus.Caption" Value="Итоговая оценка за Бонус" />
+			<Item Name="Columns.UsrFinalScoreBrandPhrase.Caption" Value="Итоговая оценка за Брендовая фраза" />
+			<Item Name="Columns.UsrFinalScoreCorrectnessTiming.Caption" Value="Итоговая оценка за Правильность и срок" />
+			<Item Name="Columns.UsrGettingKnowClientItemDescription.Caption" Value="Описание пункта Знакомство с клиентом" />
+			<Item Name="Columns.UsrHold.Caption" Value="Активное слушание" />
+			<Item Name="Columns.UsrHoldComment.Caption" Value="Активное слушание коментарий" />
+			<Item Name="Columns.UsrHoldEval.Caption" Value="Оценка за Активное слушание" />
+			<Item Name="Columns.UsrInattentivelyListen.Caption" Value="Переспрашивает, невнимательно слушает" />
+			<Item Name="Columns.UsrInterruptClient.Caption" Value="Вежл Перебивание" />
+			<Item Name="Columns.UsrInterruptionItemDescription.Caption" Value="Описание пункта Перебивание" />
+			<Item Name="Columns.UsrIntonationItemDescription.Caption" Value="Описание пункта Интонация" />
+			<Item Name="Columns.UsrLangComment1.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrLangComment2.Caption" Value="Спец предл или брендовая фраза периода Комментарий" />
+			<Item Name="Columns.UsrLangComment3.Caption" Value="Бонусная часть за обсл и сервис Комментарий" />
+			<Item Name="Columns.UsrLangDisrespect.Caption" Value="ПерЯз Неуважение" />
+			<Item Name="Columns.UsrLangEval.Caption" Value="Оценка за Знакомство с клиентом" />
+			<Item Name="Columns.UsrLangNoClientLang.Caption" Value="Правильное использование HOLD / ПАУЗЫ" />
+			<Item Name="Columns.UsrLangNoUsePCLang.Caption" Value="Спец предложение или брендовая фраза периода" />
+			<Item Name="Columns.UsrLiteracyBadPronunciation.Caption" Value="ГрамКульт ПлохПроизн" />
+			<Item Name="Columns.UsrLiteracyComment1.Caption" Value="Переход на один язык с клиентом Коментарий" />
+			<Item Name="Columns.UsrLiteracyComment2.Caption" Value="ГрамКульт Коментарий2" />
+			<Item Name="Columns.UsrLiteracyComment3.Caption" Value="ГрамКульт Коментарий3" />
+			<Item Name="Columns.UsrLiteracyComment4.Caption" Value="ГрамКульт Коментарий4" />
+			<Item Name="Columns.UsrLiteracyComment5.Caption" Value="ГрамКульт Коментарий5" />
+			<Item Name="Columns.UsrLiteracyComment6.Caption" Value="ГрамКульт Коментарий6" />
+			<Item Name="Columns.UsrLiteracyComment7.Caption" Value="ГрамКульт Коментарий7" />
+			<Item Name="Columns.UsrLiteracyCultureSpeechItemDescription.Caption" Value="Описание пункта Грамотность и культура речи" />
+			<Item Name="Columns.UsrLiteracyDisrespect.Caption" Value="ГрамКульт Неуваж" />
+			<Item Name="Columns.UsrLiteracyEval.Caption" Value="Оценка за Переход на один язык с клиентом" />
+			<Item Name="Columns.UsrLiteracyLangTroubleRu.Caption" Value="ГрамКульт СложнРус" />
+			<Item Name="Columns.UsrLiteracyLangTroubleUa.Caption" Value="Переход на один язык с клиентом" />
+			<Item Name="Columns.UsrLiteracyNoGramar.Caption" Value="ГрамКульт Неграмотность" />
+			<Item Name="Columns.UsrLiteracyParasiteWords.Caption" Value="ГрамКульт СловаПараз" />
+			<Item Name="Columns.UsrLiteracySpeachDefect.Caption" Value="ГрамКульт ДефРеч" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNaturalComComment1.Caption" Value="Вежливость Коментарий" />
+			<Item Name="Columns.UsrNaturalComComment2.Caption" Value="ЕстествОбщ Коментарий2" />
+			<Item Name="Columns.UsrNaturalComComment3.Caption" Value="ЕстествОбщ Коментарий3" />
+			<Item Name="Columns.UsrNaturalComComment4.Caption" Value="ЕстествОбщ Коментарий4" />
+			<Item Name="Columns.UsrNaturalComComment5.Caption" Value="ЕстествОбщ Коментарий5" />
+			<Item Name="Columns.UsrNaturalComConvStageLinkAbsent.Caption" Value="ЕстествОбщ Бессвязные етапы разговора" />
+			<Item Name="Columns.UsrNaturalComDisrespectClient.Caption" Value="ЕстествОбщ Неуважение клиента" />
+			<Item Name="Columns.UsrNaturalComEval.Caption" Value="Оценка за Вежливость" />
+			<Item Name="Columns.UsrNaturalComInapConvLink.Caption" Value="ЕстествОбщ Неумесная связка" />
+			<Item Name="Columns.UsrNaturalComInapPassphase.Caption" Value="ЕстествОбщ Неумесная переходная фраза" />
+			<Item Name="Columns.UsrNaturalComPassphraseAbsent.Caption" Value="Вежливость" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Примечания" />
+			<Item Name="Columns.UsrPartingItemDescription.Caption" Value="Описание пункта Прощание" />
+			<Item Name="Columns.UsrPoliteComment1.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrPoliteComment2.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrPoliteComment3.Caption" Value="Вежл Коментарий3" />
+			<Item Name="Columns.UsrPoliteComment4.Caption" Value="Вежл Коментарий4" />
+			<Item Name="Columns.UsrPoliteComment5.Caption" Value="Вежл Коментарий5" />
+			<Item Name="Columns.UsrPoliteComment6.Caption" Value="Вежл Коментарий6" />
+			<Item Name="Columns.UsrPoliteComment7.Caption" Value="Вежл Коментарий7" />
+			<Item Name="Columns.UsrPoliteEval.Caption" Value="Оценка за Обращение к клиенту по имени" />
+			<Item Name="Columns.UsrPoliteFamiliarity.Caption" Value="Вежл Фамилиарность" />
+			<Item Name="Columns.UsrPolitenessItemDescription.Caption" Value="Описание пункта Вежливость" />
+			<Item Name="Columns.UsrPoliteNotEnougfPW.Caption" Value="Соблюдение инструкций при обработке заказов" />
+			<Item Name="Columns.UsrPoliteNotPolSound.Caption" Value="Вежл Не этические звуки" />
+			<Item Name="Columns.UsrPoliteUseSarcasm.Caption" Value="Вежл Сарказм" />
+			<Item Name="Columns.UsrProactivityItemDescription.Caption" Value="Описание пункта Проактивность" />
+			<Item Name="Columns.UsrProblemSolvComment1.Caption" Value="Управление разговором Коментарий" />
+			<Item Name="Columns.UsrProblemSolvComment2.Caption" Value="РабСВоз Коментарий2" />
+			<Item Name="Columns.UsrProblemSolvComment3.Caption" Value="РабСВоз Коментарий3" />
+			<Item Name="Columns.UsrProblemSolvComment4.Caption" Value="РабСВоз Коментарий4" />
+			<Item Name="Columns.UsrProblemSolvEval.Caption" Value="Оценка за Управление разговором" />
+			<Item Name="Columns.UsrProblemSolvIgnorQuestions.Caption" Value="Управление разговором" />
+			<Item Name="Columns.UsrProblemSolvInapArguments.Caption" Value="РабСВоз Неумесные аргументы" />
+			<Item Name="Columns.UsrProblemSolvInapSolvVariant.Caption" Value="РабСВоз Неуместные варианты решений" />
+			<Item Name="Columns.UsrProblemSolvnNotOfferAlternative.Caption" Value="РабСВоз Непредложена альтернатива" />
+			<Item Name="Columns.UsrProcPartTotalComment.Caption" Value="Итоговый комментарий" />
+			<Item Name="Columns.UsrProcPartTotalEval.Caption" Value="Итоговая оценка за Процедурная часть" />
+			<Item Name="Columns.UsrProperUseHOLDPAUSEItemDescription.Caption" Value="Описание пункта Правильное исп HOLD/ПАУЗЫ" />
+			<Item Name="Columns.UsrRatingSpecialOfferBrandPhrasePeriod.Caption" Value="Оценка за Спец предложение или брендовая фраза" />
+			<Item Name="Columns.UsrRatingTelephony.Caption" Value="Оценка за Телефония" />
+			<Item Name="Columns.UsrRefAbsentComplains.Caption" Value="Уточнения Жалоб отсутствуют" />
+			<Item Name="Columns.UsrRefAbsentNumber.Caption" Value="Уточнения Номера отсутствует" />
+			<Item Name="Columns.UsrRefAbsentQuestion.Caption" Value="Грамотность и культура речи" />
+			<Item Name="Columns.UsrRefComment1.Caption" Value="Грамотность и культура речи Коментарий" />
+			<Item Name="Columns.UsrRefComment10.Caption" Value="Уточнения Коментарий10" />
+			<Item Name="Columns.UsrRefComment2.Caption" Value="Уточнения Коментарий2" />
+			<Item Name="Columns.UsrRefComment3.Caption" Value="Уточнения Коментарий3" />
+			<Item Name="Columns.UsrRefComment4.Caption" Value="Уточнения Коментарий4" />
+			<Item Name="Columns.UsrRefComment5.Caption" Value="Уточнения Коментарий5" />
+			<Item Name="Columns.UsrRefComment6.Caption" Value="Уточнения Коментарий6" />
+			<Item Name="Columns.UsrRefComment7.Caption" Value="Уточнения Коментарий7" />
+			<Item Name="Columns.UsrRefComment8.Caption" Value="Уточнения Коментарий8" />
+			<Item Name="Columns.UsrRefComment9.Caption" Value="Уточнения Коментарий9" />
+			<Item Name="Columns.UsrRefDisrespectClient.Caption" Value="Уточнения неуважение клиента" />
+			<Item Name="Columns.UsrReferringCustomerNameItemDescription.Caption" Value="Описание пункта Обращение к клиенту по имени" />
+			<Item Name="Columns.UsrRefEval.Caption" Value="Оценка за Грамотность и культура речи" />
+			<Item Name="Columns.UsrRefExcessQuestion.Caption" Value="Уточнения Лишние вопросы" />
+			<Item Name="Columns.UsrRefIgnorComment.Caption" Value="Уточнения Игнор коментариев" />
+			<Item Name="Columns.UsrRefIgnorPrevReques.Caption" Value="Уточнения Игнор пред обращений" />
+			<Item Name="Columns.UsrRefUnnesesaryNumbRef.Caption" Value="Уточнения неумесное уточ номера" />
+			<Item Name="Columns.UsrRefUserInfConfirm.Caption" Value="Уточнения Подтв Слов Клиента Отсутствуют" />
+			<Item Name="Columns.UsrRegAppeal.Caption" Value="Оценка за Внимательность" />
+			<Item Name="Columns.UsrRegAppealAbsent.Caption" Value="Внимательность" />
+			<Item Name="Columns.UsrRegAppealComment1.Caption" Value="Внимательность Коментарий" />
+			<Item Name="Columns.UsrRegAppealComment2.Caption" Value="РегОбр Коментарий 2" />
+			<Item Name="Columns.UsrRegAppealComment3.Caption" Value="РегОбр Коментарий 3" />
+			<Item Name="Columns.UsrRegAppealIncorrect.Caption" Value="РегОбр Неправильно" />
+			<Item Name="Columns.UsrRegAppealIncorrectClient.Caption" Value="РегОбр НепрИнфКлиента" />
+			<Item Name="Columns.UsrRequiredVolComment1.Caption" Value="НеобхОбъем Коментарий1" />
+			<Item Name="Columns.UsrRequiredVolComment2.Caption" Value="Четкая дикция и уверенность голоса Коментарий" />
+			<Item Name="Columns.UsrRequiredVolComment3.Caption" Value="НеобхОбъем Коментарий3" />
+			<Item Name="Columns.UsrRequiredVolComment4.Caption" Value="НеобхОбъем Коментарий4" />
+			<Item Name="Columns.UsrRequiredVolComment5.Caption" Value="НеобхОбъем Коментарий5" />
+			<Item Name="Columns.UsrRequiredVolComment6.Caption" Value="НеобхОбъем Коментарий6" />
+			<Item Name="Columns.UsrRequiredVolEval.Caption" Value="Оценка за Четкая дикция и уверенность голоса" />
+			<Item Name="Columns.UsrRequiredVolNoncriticalUnnecInfo.Caption" Value="НеобхОбъем Некритическая ненужная информация" />
+			<Item Name="Columns.UsrRequiredVolNoRigthAnsw.Caption" Value="НеобхОбъем Ответ неправильный" />
+			<Item Name="Columns.UsrRequiredVolNotEnoughtInfo.Caption" Value="НеобхОбъем Недост информации" />
+			<Item Name="Columns.UsrRequiredVolNotFullAnsw.Caption" Value="НеобхОбъем Неполный ответ" />
+			<Item Name="Columns.UsrRequiredVolNotSetDeadlines.Caption" Value="НеобхОбъем Неуствановлены сроки" />
+			<Item Name="Columns.UsrRequiredVolUnnecesaryInfo.Caption" Value="Четкая дикция и уверенность голоса" />
+			<Item Name="Columns.UsrScoreCorrectUseHOLDPAUSE.Caption" Value="Оценка за Правильное использование HOLD / ПАУЗЫ" />
+			<Item Name="Columns.UsrScoreFollowingInstructionsProcessingOrders.Caption" Value="Оценка за Соблюдение инструкций при обработке заказов" />
+			<Item Name="Columns.UsrScoreObjectionHandling.Caption" Value="Оценка за Работа с возражениями" />
+			<Item Name="Columns.UsrScoreSummaries.Caption" Value="Оценка за Резюмирование" />
+			<Item Name="Columns.UsrSpecialOfferBrandPhrasePeriodItemDescription.Caption" Value="Описание пункта Спец предл или брендовая фраза" />
+			<Item Name="Columns.UsrSpeechRateComment1.Caption" Value="ТемпРечи Коментарий1" />
+			<Item Name="Columns.UsrSpeechRateComment2.Caption" Value="ТемпРечи Коментарий2" />
+			<Item Name="Columns.UsrSpeechRateComment3.Caption" Value="ТемпРечи Коментарий3" />
+			<Item Name="Columns.UsrSpeechRateComment4.Caption" Value="ТемпРечи Коментарий4" />
+			<Item Name="Columns.UsrSpeechRateDisrespect.Caption" Value="ТемпРечи Неуважение" />
+			<Item Name="Columns.UsrSpeechRateEval.Caption" Value="Оценка за Прощание" />
+			<Item Name="Columns.UsrSpeechRateSharpRate.Caption" Value="ТемпРечи РваныйТемп" />
+			<Item Name="Columns.UsrSpeechRateToFast.Caption" Value="ТемпРечи ОченьБыстро" />
+			<Item Name="Columns.UsrSpeechRateToSlow.Caption" Value="ТемпРечи СлишкомМедленно" />
+			<Item Name="Columns.UsrSummarizingItemDescription.Caption" Value="Описание пункта Резюмирование" />
+			<Item Name="Columns.UsrSwitchingOneLanguageClientItemDescription.Caption" Value="Описание пункта Переход на один язык с клиентом" />
+			<Item Name="Columns.UsrTransitionalPhrase.Caption" Value="Оценка за Переходная фраза" />
+			<Item Name="Columns.UsrTransitionalPhraseItemDescription.Caption" Value="Описание пункта Переходная фраза" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип" />
+			<Item Name="Columns.UsrUseTeachingPhrase.Caption" Value="Вежл Поучающие фразы" />
+			<Item Name="Columns.UsrWorkingWithObjectionsItemDescription.Caption" Value="Описание пункта Работа с возражениями" />
+		</Items>
+	</Group>
+</Resources>

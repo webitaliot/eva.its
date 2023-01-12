@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a440e969-fd0c-406e-88f0-d2c9e08ae4b2",
+    "Name": "UsrCtiPanelCSS",
+    "ModifiedOnUtc": "\/Date(1625068629000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "UsrCtiPanelCSS",
+    "DependsOn": []
+  }
+}

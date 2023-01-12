@@ -1,0 +1,40 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9515730a-6fad-476a-a1f8-726f43cb8216"
+        },
+        {
+          "SchemaColumnUId": "101d207c-75fc-4a79-a472-3ba2e1d7c8d0",
+          "Value": 1
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2518c068-8266-471f-adde-04784daf9326"
+        },
+        {
+          "SchemaColumnUId": "101d207c-75fc-4a79-a472-3ba2e1d7c8d0",
+          "Value": 3
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "264f72e6-11ac-4179-9d9b-e26754e4276c"
+        },
+        {
+          "SchemaColumnUId": "101d207c-75fc-4a79-a472-3ba2e1d7c8d0",
+          "Value": 0
+        }
+      ]
+    }
+  ]
+}

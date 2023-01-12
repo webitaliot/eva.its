@@ -1,0 +1,1 @@
+delete from NotificationProvider where ClassName = 'Terrasoft.Configuration.AnniversaryNotificationProvider'

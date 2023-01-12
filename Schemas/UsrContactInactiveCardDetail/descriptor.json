@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3ba07478-cbbb-4bfa-a258-92f68a403a44",
+    "Name": "UsrContactInactiveCardDetail",
+    "ModifiedOnUtc": "\/Date(1487604708000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали раздела \"Неактивные карты\"",
+    "DependsOn": []
+  }
+}

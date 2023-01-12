@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "808da475-1572-41d4-ba27-c1e1aec71b67",
+    "Name": "CaseOrigin",
+    "ModifiedOnUtc": "\/Date(1596538051000)\/",
+    "Parent": {
+      "UId": "b17869fe-43f9-487a-af82-b7626f1fc810",
+      "Name": "CaseOrigin"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Источник обращения",
+    "DependsOn": []
+  }
+}

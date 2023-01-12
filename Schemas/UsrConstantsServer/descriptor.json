@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "62690c70-7cf5-4843-b701-812fe8c7c94b",
+    "Name": "UsrConstantsServer",
+    "ModifiedOnUtc": "\/Date(1501662763000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Константы для С#",
+    "DependsOn": []
+  }
+}

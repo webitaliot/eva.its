@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a35c6707-f090-48eb-9ac3-e36dc862a5a7",
+    "Name": "UsrViberSmsStatus",
+    "ModifiedOnUtc": "\/Date(1495022059000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Статус SMS сообщения",
+    "DependsOn": []
+  }
+}

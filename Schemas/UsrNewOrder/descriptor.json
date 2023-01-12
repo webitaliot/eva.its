@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "67fb8e46-db27-43ee-9acb-e97660813804",
+    "Name": "UsrNewOrder",
+    "ModifiedOnUtc": "\/Date(1584363977000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Добавление заказа",
+    "DependsOn": []
+  }
+}

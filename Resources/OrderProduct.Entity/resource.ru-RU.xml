@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrAction.Caption" Value="ID акции" />
+			<Item Name="Columns.UsrActionColor.Caption" Value="Цвет комплекта" />
+			<Item Name="Columns.UsrAmountPrice.Caption" Value="Сума товара" />
+			<Item Name="Columns.UsrAmountPriceDiscount.Caption" Value="Сумма товара (после всех скидок)" />
+			<Item Name="Columns.UsrDiscountedPrice.Caption" Value="Цена товара после скидки" />
+			<Item Name="Columns.UsrFormat.Caption" Value="Формат" />
+			<Item Name="Columns.UsrIncrementId.Caption" Value="Номер заказа" />
+			<Item Name="Columns.UsrInStock.Caption" Value="В наличии" />
+			<Item Name="Columns.UsrIsAdditionalAssortment.Caption" Value="Доп ассортимент" />
+			<Item Name="Columns.UsrIsInSet.Caption" Value="ID комплекта" />
+			<Item Name="Columns.UsrLackInRc.Caption" Value="Нехватка в РЦ" />
+			<Item Name="Columns.UsrOptions.Caption" Value="Опции товара" />
+			<Item Name="Columns.UsrOrderItemNumber.Caption" Value="Код позиции" />
+			<Item Name="Columns.UsrOriginalPrice.Caption" Value="Первоначальная цена товара" />
+			<Item Name="Columns.UsrProductName.Caption" Value="Название продукта" />
+			<Item Name="Columns.UsrRowWeight.Caption" Value="Общий вес" />
+			<Item Name="Columns.UsrSKU.Caption" Value="SKU" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess3.Caption" Value="Событийный подпроцесс 3" />
+			<Item Name="EventsProcessSchema.BaseElements.OrderProductSaved.Caption" Value="OrderProductSaved" />
+			<Item Name="EventsProcessSchema.BaseElements.OrderProductUpdated.Caption" Value="OrderProductUpdated" />
+			<Item Name="EventsProcessSchema.BaseElements.SetColor.Caption" Value="SetColor" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2.Caption" Value="Пул 2" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2.Lanes.Lane2.Caption" Value="Дорожка 2" />
+			<Item Name="EventsProcessSchema.Methods.GetActionColor.Caption" Value="GetActionColor" />
+		</Items>
+	</Group>
+</Resources>

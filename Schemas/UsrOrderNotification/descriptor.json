@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7243bdb0-c45f-424b-8ec6-3856ff9b364d",
+    "Name": "UsrOrderNotification",
+    "ModifiedOnUtc": "\/Date(1511365226000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Уведомление клиента о заказе",
+    "DependsOn": []
+  }
+}

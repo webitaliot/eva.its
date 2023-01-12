@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ff492ed6-8b6a-484e-a180-2adebea662fb",
+    "Name": "UsrServiceLoggerFile",
+    "ModifiedOnUtc": "\/Date(1566999119000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Логирование",
+    "DependsOn": []
+  }
+}

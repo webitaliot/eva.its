@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1baa9126-6513-4520-b263-117e2bf4c91b",
+    "Name": "UsrDependentOrders",
+    "ModifiedOnUtc": "\/Date(1497969480000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали \"Подчиненные заказы\"",
+    "DependsOn": []
+  }
+}

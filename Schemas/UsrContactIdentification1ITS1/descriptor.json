@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "792b4ab8-1cac-4578-89e4-48a66d9f5cb0",
+    "Name": "UsrContactIdentification1ITS1",
+    "ModifiedOnUtc": "\/Date(1665575108000)\/",
+    "Parent": {
+      "UId": "f688e6e5-8fdb-4e0e-8066-24bd82f6ca94",
+      "Name": "UsrContactIdentification1"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Идентификация контакта  (по входящему звонку) в рамках процессов консультации и создания  обращения - Копия",
+    "DependsOn": []
+  }
+}

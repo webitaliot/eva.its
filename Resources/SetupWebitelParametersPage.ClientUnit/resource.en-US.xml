@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AvailableOnDemandCaption.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.CallInfoCaption.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.IsOperatorCaption.Caption" Value="Message to user 1" />
+		</Items>
+	</Group>
+</Resources>

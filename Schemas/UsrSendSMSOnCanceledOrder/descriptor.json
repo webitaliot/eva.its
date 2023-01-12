@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "26b27bbf-872a-49b5-90d8-a97ff15c40ba",
+    "Name": "UsrSendSMSOnCanceledOrder",
+    "ModifiedOnUtc": "\/Date(1616759701000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отправка СМС по заказам Отменен",
+    "DependsOn": []
+  }
+}

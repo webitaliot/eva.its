@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8fa2b165-540a-4fbe-bbbc-a3a15fde1569",
+    "Name": "UsrCreateSaveFromOrder1",
+    "ModifiedOnUtc": "\/Date(1561382784000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Создание счета на основании заказа - Копия",
+    "DependsOn": []
+  }
+}

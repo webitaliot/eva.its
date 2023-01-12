@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "aa9f5108-abf4-4a54-a015-ab3885bb4078",
+    "Name": "UsrReturtToQueueWithPostponed",
+    "ModifiedOnUtc": "\/Date(1579606089000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Возвращение в очередь отложенных активностей",
+    "DependsOn": []
+  }
+}

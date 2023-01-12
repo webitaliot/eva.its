@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d2ddbaa1-f11f-43b4-95a1-13f191e261d7",
+    "Name": "UsrAccessRightsForNPSActivity",
+    "ModifiedOnUtc": "\/Date(1563532142000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Права доступа на NPS Активности",
+    "DependsOn": []
+  }
+}

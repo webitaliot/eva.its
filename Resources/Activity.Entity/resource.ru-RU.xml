@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrAttempt.Caption" Value="Попытка №" />
+			<Item Name="Columns.UsrDetractorInf.Caption" Value="Информация по детрактору" />
+			<Item Name="Columns.UsrMessageId.Caption" Value="MessageID" />
+			<Item Name="Columns.UsrMessageIDV2.Caption" Value="MessageIDV2" />
+			<Item Name="Columns.UsrOtherComment.Caption" Value="Другое" />
+			<Item Name="Columns.UsrOtherCommentIsReq.Caption" Value="UsrOtherCommentIsReq" />
+			<Item Name="Columns.UsrPhone.Caption" Value="Телефон" />
+			<Item Name="Columns.UsrReasonForNotRinging.Caption" Value="Причина отсутствия звонка" />
+			<Item Name="Columns.UsrSms.Caption" Value="SMS" />
+			<Item Name="Columns.UsrSmsState.Caption" Value="Состояния смс" />
+			<Item Name="Columns.UsrSmsStatus.Caption" Value="Статус смс" />
+			<Item Name="Columns.UsrViber.Caption" Value="Viber" />
+			<Item Name="Columns.UsrWebitelId.Caption" Value="ID учасника Webitel" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.NotificationType.Caption" Value="Type of notifications" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.NotificationType.Caption" Value="Type of notifications" />
+		</Items>
+	</Group>
+</Resources>

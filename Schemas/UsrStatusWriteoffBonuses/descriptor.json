@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6906dfc2-dfcb-4857-9aa9-a2aaeaae5e7d",
+    "Name": "UsrStatusWriteoffBonuses",
+    "ModifiedOnUtc": "\/Date(1487270576000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Статус списания бонусов",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrAddress2.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrComment1.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrComment2.Caption" Value="Column 2" />
+			<Item Name="Columns.UsrExceptionsShop.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrFilial.Caption" Value="Column 2" />
+			<Item Name="Columns.UsrNote.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrRegion.Caption" Value="Column 1" />
+			<Item Name="Columns.UsrStoreNumber.Caption" Value="Column 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Pool 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

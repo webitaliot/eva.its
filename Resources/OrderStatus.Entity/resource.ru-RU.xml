@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrAccessToOpetator.Caption" Value="Доступен оператору" />
+			<Item Name="Columns.UsrCode.Caption" Value="ID код" />
+			<Item Name="Columns.UsrCodeIM.Caption" Value="Код ИМ" />
+			<Item Name="Columns.UsrEditeble.Caption" Value="Редактируемое" />
+		</Items>
+	</Group>
+</Resources>

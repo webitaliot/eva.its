@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "940c4025-c9ef-4de5-859e-2f86ab636ac4",
+    "Name": "UsrEditingPhoneNumbers",
+    "ModifiedOnUtc": "\/Date(1580314955000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Редактирование номеров контакта",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "3ba07478-cbbb-4bfa-a258-92f68a403a44"
+= MetaData.Schema.A2 "UsrContactInactiveCardDetail"
+= MetaData.Schema.A5 "b7a255fa-aa06-497d-a11f-6a6059029aa4"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "3ba07478-cbbb-4bfa-a258-92f68a403a44"
+= MetaData.Schema.B6 "2f7e2b8b-9dd4-4c24-9149-055455ac8f40"
+= MetaData.Schema.B8 "7.9.1.3284"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

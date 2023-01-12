@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d6188db9-2a2f-40ba-8286-4aab5fb3ff0a",
+    "Name": "UsrCalltestV2",
+    "ModifiedOnUtc": "\/Date(1533053111000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Тест звонка в2",
+    "DependsOn": []
+  }
+}

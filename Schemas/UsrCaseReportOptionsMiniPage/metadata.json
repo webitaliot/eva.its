@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "f8b8d417-cd8f-4748-a8a6-cda865e03d75"
+= MetaData.Schema.A2 "UsrCaseReportOptionsMiniPage"
+= MetaData.Schema.A5 "cb8fe5d8-02a0-4f6b-a244-0fa7abea05cf"
+= MetaData.Schema.B6 "2f7e2b8b-9dd4-4c24-9149-055455ac8f40"
+= MetaData.Schema.B8 "7.9.1.3284"
+= MetaData.Schema.HD1 "8e06a577-08e4-424e-bd89-798a34e1b928"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

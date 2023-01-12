@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "56a0d0ef-71bb-4495-83e5-aaf5cd6e0bdb",
+    "Name": "UsrBarcodePage",
+    "ModifiedOnUtc": "\/Date(1489067182000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница \"Бар-код\"",
+    "DependsOn": []
+  }
+}

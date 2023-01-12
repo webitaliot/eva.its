@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ff591b13-7a14-4df6-b59b-7636e8791c77",
+    "Name": "UsrComplaintProcessing",
+    "ModifiedOnUtc": "\/Date(1493371119000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Обработка жалобы на эксперта КЦ",
+    "DependsOn": []
+  }
+}

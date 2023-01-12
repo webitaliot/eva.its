@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b238982a-465f-4b34-9d21-04363b0d2749",
+    "Name": "UsrUploadFromFTPTrigger",
+    "ModifiedOnUtc": "\/Date(1498637476000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Запуск бизнес-процесcа загрузки данных с FTP (Trigger)",
+    "DependsOn": []
+  }
+}

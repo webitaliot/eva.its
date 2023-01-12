@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5ed9126e-d165-4bd8-8803-8c2c071f80d4",
+    "Name": "UsrOrderReceived",
+    "ModifiedOnUtc": "\/Date(1571745265000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заказ получен",
+    "DependsOn": []
+  }
+}

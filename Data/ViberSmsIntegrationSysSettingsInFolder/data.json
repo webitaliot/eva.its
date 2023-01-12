@@ -1,0 +1,94 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3094691d-684c-4212-b945-402bbc15fca9"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "5829d2db-9523-4cf5-9535-777f40b0c38a",
+          "DisplayValue": "Viber, sms integration"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "4f18fa68-be0e-44fa-978e-90a1f55e8bf7",
+          "DisplayValue": "Логин для интеграции с viber, sms"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "09896a96-1ddc-4d9b-bc07-8a7e40f83d22"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "5829d2db-9523-4cf5-9535-777f40b0c38a",
+          "DisplayValue": "Viber, sms integration"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "1e32d4ad-5d88-46df-8d86-e866220f5fef",
+          "DisplayValue": "Uri для интеграции с viber, sms"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ee42a85c-c62a-4f95-9eb3-8a9bda73553b"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "5829d2db-9523-4cf5-9535-777f40b0c38a",
+          "DisplayValue": "Viber, sms integration"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "35d6e194-0ec0-4f80-9c0c-a42c34bd9f75",
+          "DisplayValue": "Пароль для интеграции с viber, sms"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "960a91f9-e3d0-4103-ada9-e5a43b0d2ba4"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "5829d2db-9523-4cf5-9535-777f40b0c38a",
+          "DisplayValue": "Viber, sms integration"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "fe8b249f-267d-4516-857f-c8b298465007",
+          "DisplayValue": "TTL для отправки viber sms"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c053b6b9-2203-47d2-b11d-d82ce773b842"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "5829d2db-9523-4cf5-9535-777f40b0c38a",
+          "DisplayValue": "Viber, sms integration"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "5912655c-4356-4cd5-8692-e225a0bf677d",
+          "DisplayValue": "Callback url для интеграции с viber, sms"
+        }
+      ]
+    }
+  ]
+}

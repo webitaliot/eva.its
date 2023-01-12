@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "aaf81289-3782-4f1c-a235-4909a7343669",
+    "Name": "UsrNightProductImportFromFTPTrigger",
+    "ModifiedOnUtc": "\/Date(1568191675000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Загрузка продуктов с FTP (trigger)",
+    "DependsOn": []
+  }
+}

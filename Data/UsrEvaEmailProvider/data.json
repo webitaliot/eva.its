@@ -1,0 +1,91 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0e8151aa-89bd-4f00-8b29-42a52bcb2d42"
+        },
+        {
+          "SchemaColumnUId": "be4a6212-190c-4430-8b31-6972ac32503f",
+          "Value": "mail1.eva.ua"
+        },
+        {
+          "SchemaColumnUId": "b9e6dfc3-cd79-4707-9f3d-9b6bedda3c5f",
+          "Value": 993
+        },
+        {
+          "SchemaColumnUId": "773d7c26-389e-421c-a67e-9ca6a8b8a3e9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9a6b34c9-96b3-45f5-b005-dfcd12e79d6d",
+          "Value": "65beaf50-b599-4207-b6e2-586dfa9562a6",
+          "DisplayValue": "IMAP"
+        },
+        {
+          "SchemaColumnUId": "89e2b329-bf63-4d5c-a079-6cf6c5fa9430",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "411aaeae-43da-4e1c-8b1c-1655c25aac96",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "394009b0-7664-46b4-b052-5754522f03c3",
+          "Value": "mail2.eva.ua"
+        },
+        {
+          "SchemaColumnUId": "c6d3e3b2-5552-4b06-9d5c-fe34b58ae7aa",
+          "Value": 25
+        },
+        {
+          "SchemaColumnUId": "6094ebec-dee7-492e-8977-4e2748a9b4bb",
+          "Value": 200
+        },
+        {
+          "SchemaColumnUId": "33affd30-ab8b-4975-8917-9baa63d2d025",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "ff05d2f5-bc16-4d80-b361-13120a07867e",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "5a1ceded-281a-4994-bf5f-5fe57b752e0b",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "a017673a-f233-4df8-8ba8-fd299bae4e20",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "411a2310-81f3-4a83-896e-87eccdbae77f",
+          "Value": "844f0837-eaa0-4f40-b965-71f5db9eae6e",
+          "DisplayValue": "IMAP"
+        },
+        {
+          "SchemaColumnUId": "29f424ac-945a-4548-a60e-5e738cf01711",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "29d0de8b-d4db-45d1-b453-8241941d7b62",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "30e37f76-b60e-4975-89a0-befc3e75eeb7",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "38790f02-593c-4eb3-80be-2204877697a0",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "2e121c4b-83ff-40c4-9f0e-503cee9e5cae",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

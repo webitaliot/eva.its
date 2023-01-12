@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "2b172814-307a-4bbc-b16b-3493dfc20cf1",
+    "Name": "tsp_DeleteFromUsrIntegrationLogFtp",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1605881665000)\/",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Логи сервісів" />
+			<Item Name="Columns.UsrErrors.Caption" Value="Ошибки" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrRequestBody.Caption" Value="Тело запроса" />
+			<Item Name="Columns.UsrRequestTime.Caption" Value="Дата запроса" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

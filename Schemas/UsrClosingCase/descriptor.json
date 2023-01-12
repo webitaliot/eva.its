@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7b5ab238-177d-498b-8341-edfe4a05c856",
+    "Name": "UsrClosingCase",
+    "ModifiedOnUtc": "\/Date(1517482409000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Закрития обращение",
+    "DependsOn": []
+  }
+}

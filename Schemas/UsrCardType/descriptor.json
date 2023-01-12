@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "be7f9d75-fa61-44b1-851d-d1d060262e68",
+    "Name": "UsrCardType",
+    "ModifiedOnUtc": "\/Date(1487342288000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип карты",
+    "DependsOn": []
+  }
+}

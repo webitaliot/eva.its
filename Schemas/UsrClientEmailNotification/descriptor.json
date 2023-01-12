@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "734f7034-5992-41f6-a398-dc2d6419e220",
+    "Name": "UsrClientEmailNotification",
+    "ModifiedOnUtc": "\/Date(1539599370000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Уведомления по письмам клиентов EVA",
+    "DependsOn": []
+  }
+}

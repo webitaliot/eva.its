@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Транзакция" />
+			<Item Name="Columns.UsrAmount.Caption" Value="Сумма покупки" />
+			<Item Name="Columns.UsrAmountBonus.Caption" Value="Сумма начисленных бонусов" />
+			<Item Name="Columns.UsrAmountCharge.Caption" Value="Сумма оплаты бонусами" />
+			<Item Name="Columns.UsrAmountDiscount.Caption" Value="Сумма скидки" />
+			<Item Name="Columns.UsrAmountTotal.Caption" Value="Итог чека" />
+			<Item Name="Columns.UsrCardNumber.Caption" Value="Номер карты" />
+			<Item Name="Columns.UsrContactId.Caption" Value="Контакт" />
+			<Item Name="Columns.UsrDate.Caption" Value="Дата совершения" />
+			<Item Name="Columns.UsrItems.Caption" Value="Названия товаров" />
+			<Item Name="Columns.UsrStoreName.Caption" Value="Название магазина" />
+			<Item Name="Columns.UsrTransactionId.Caption" Value="ИД трансакции" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип" />
+			<Item Name="Columns.UsrUid.Caption" Value="Идентификатор клиента" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>
